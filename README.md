@@ -1,1 +1,3 @@
 # MiscWriting
+
+Miscellaneous writing projects.
