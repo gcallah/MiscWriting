@@ -1,10 +1,15 @@
-# A Meditation on the Algorithm as a Metaphor for the Trinity
+# A Meditation on the Algorithm as an Image for the Trinity
 
 The idea of the Trinity, while central to Christianity, has proven a tough
 pill for non-Christians to swallow. To Jewish and Muslim monotheists, it often
 seems a re-admission of pagan polytheism into polite, Abrahamic society.
 On the other hand, to many sceptics, it simply says something ridiculous 
-like 1 = 3.
+like 1 = 3. On the other hand, as prominent a philosopher as R.G. Collingwood,
+in *An Essay on Metaphysics*, contended that the doctrine of the Trinity was 
+the philosophical solution to the metaphysical crisis that was destroying the
+pagan world, and pagan science along with it,and that this doctrine "has been the main
+or fundamental presuppositions of natural science ever since" (1984: ???).
+
 
 Therefore, for those who don't find this symbol either regressive or absurd,
 it may be worthwhile to seek out metaphors that can render it more comprehensible.
