@@ -1,4 +1,4 @@
-# A Meditation on Algorithms as a Metaphor for the Trinity
+# A Meditation on the Algorithm as a Metaphor for the Trinity
 
 The idea of the Trinity, while central to Christianity, has proven a tough
 pill for non-Christians to swallow. To Jewish and Muslim monotheists, it often
@@ -28,11 +28,12 @@ incarnate in the bonds of matter: and this is the image of the Word.
 in the lively soul: and this is the image of the indwelling Spirit.
 
 "And these three are one, each equally in itself the whole work, whereof none
-can exist without other: and this is the image of the Trinity. " -- Dorothy
-Sayers, *The Mind of the Maker*, p. 28
+can exist without other: and this is the image of the Trinity." (2004: 28)
 
 
-
+I was struck by the possibility of using the concept of an algorithm,
+in a fashion similar to how Sayers had used art, while lecturing on computer
+science.
 As I taught my students the Sieve of Eratosthenes, I described the sieve
 verbally, then I had them "run" the sieve on paper, then program it in Visual
 Basic. And as I did so, I contemplated, "What is the sieve itself, apart from
