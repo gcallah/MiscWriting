@@ -17,7 +17,7 @@ in the lively soul: and this is the image of the indwelling Spirit.
 
 "And these three are one, each equally in itself the whole work, whereof none
 can exist without other: and this is the image of the Trinity. " -- Dorothy
-Sayers, The Mind of the Maker, p. 28
+Sayers, * Mind of the Maker*, p. 28
 
 
 
