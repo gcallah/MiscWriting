@@ -1,5 +1,17 @@
-# Algorithms as an Allegory for the Trinity
+# A Meditation on Algorithms as a Metaphor for the Trinity
 
+The idea of the Trinity, while central to Christianity, has proven a tough
+pill for non-Christians to swallow. To Jewish and Muslim monotheists, it often
+seems a re-admission of pagan polytheism into polite, Abrahamic society.
+On the other hand, to many sceptics, it simply says something ridiculous 
+like 1 = 3.
+
+Therefore, for those who don't find this symbol either regressive or absurd,
+it may be worthwhile to seek out metaphors that can render it more comprehensible.
+The English novelist, translator, and theologian Dorothy Sayers found art
+to supply a illuminating analogy. She devoted an entire book
+to that topic (*The Mind of the Maker*), so a short excerpt cannot do her work justice,
+but can give us a flavor of what she did:
 
 "For every work [or act] of creation is threefold, an earthly trinity to match
 the heavenly.
@@ -60,4 +72,11 @@ its implementation.
 
 The logos is complete in eternity, but unfolds gradually through time through
 the action of the Holy Spirit.
+
+
+## Bibliography
+
+- Collingwood, R. G. (1984). *An Essay on Metaphysics*. Lanham, Md: Univ. Pr. of America.
+- Sayers, D. L. (2004). *The Mind of the Maker*. Continuum International Publishing Group Ltd.
+
 
