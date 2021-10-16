@@ -13,7 +13,7 @@ or fundamental presuppositions of natural science ever since" (1984: ???).
 Therefore, it may be worthwhile to seek out metaphors that can render this symbol
 more comprehensible to those not inclined to accept it as an article of faith.
 The English novelist, translator, and theologian Dorothy Sayers found art
-to supply a illuminating image ofthe Trinity. She devoted an entire book
+offered an illuminating image of the Trinity. She devoted an entire book
 to that topic (*The Mind of the Maker*), so a short excerpt cannot do her work justice,
 but can give us a flavor of what she was up to:
 
@@ -39,7 +39,7 @@ I was struck by the possibility of using the concept of the algorithm,
 in a fashion similar to how Sayers had used art, while lecturing on computer
 science.
 As I taught my students the Sieve of Eratosthenes (an algorithm to identify prime
-numbers, first described by Eratosthenes in the third century BC,
+numbers, first described by Eratosthenes in the third century BC).
 I described the sieve
 verbally, then I had them "run" the sieve on paper, then program it in Visual
 Basic.
@@ -53,7 +53,8 @@ apart from its implementations?"
 
 This of course is but one more version of the problem that Plato and Aristotle
 grappled with, on the relation of the forms to their particulars. Plato's
-approach was to regard a particular as inferior "copy" of its form, which
+approach was to regard a particular instance of a form
+as inferior "copy" of that form. That understanding
 tended to lead to a contempt for the world of particulars, and Gnostic ideas
 like the creation of the sensible world by an evil demiurge. On the other hand,
 Aristotle emphasized the particular, leading him to posit a God who was so
@@ -69,10 +70,10 @@ as though on an assembly line. We might say the implementations of the form are
 one in being with the form, and that they are begotten, not made by it.
 
 Furthermore, we finite beings are only able to perceive the form itself through
-the implementations. There is simply no way to convey to anyone else what the
+its implementations. There is simply no way to convey to anyone else what the
 generative form of the algorithm is without pointing them to the form fleshed
-out in an implementation, or, we might say, as humans, our only path to the
-generative source is through the source made flesh.
+out in some implementation or another, or, we might say, as humans, our only
+path to the generative source is through the source made flesh.
 
 But we might further notice that we haven't completed our analysis of this
 matter just yet: neither the generative form nor its implementation are
@@ -80,7 +81,7 @@ complete without the actual running of the algorithm, until we give it life by
 executing it, on paper, or in our head, or on a computer. The generative form
 is made fully real through its implementations by the power of executing it.
 But that power is also one in being with the form and the implementations: we
-might say the execution of an algorithm proceeds from its generative form and
+might say the execution of an algorithm *proceeds* from its generative form and
 its implementation.
 
 ## Conclusion
