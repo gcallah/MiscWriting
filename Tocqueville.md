@@ -28,12 +28,58 @@ democracy should prove helpful in our present situation.
 
 ## Introduction
 
+So Deneen has been my predecessor in in a significant way. Still...
 
 ## The Modern Litany of Sorrows
 
 Numerous writers, I have placed the blame for America's current woeful state on various events in history. I will only
 sign a few here, but I could have assembled dozens of sides for each point of blame.
 
+But first off... has something gone wrong?
+
+### The Neoliberal Response
+
+Anne Rathbone: "I can get an ottoman from Amazon overnight."
+
+"OK, my Husband lost his factory job, became an alcoholic, and left me for a 19-year-old stripper.
+My son has never worked, and is an opioid addict.
+My daughter has had three babies from three different men, and lives off of welfare.
+But who cares? I can get an ottoman overnight from Amazon!"
+
+### Nominalism
+
+This is the earliest point where I have seen the blame placed for "when things began to go wrong."
+
+[Here is an example.](https://www.undergroundthomist.org/what-is-this-nominalism-whereof-i-am-warned)
+
+I don't know enough Medieval philosophy to say!
+
+But, interesting note: computer science absolutely depends upon the reality of universals.
+
+Explain: an algorithm. Brain, paper, C language, JavaScript language, etc.
+
+### Rationalism
+
+This is most famously claimed, perhaps, by Michael Oakeshott. Eric Voegelin is another prominent thinker who roughly speaking
+holds this thesis. But there are many other examples, as shown in the two volumes of **Critics of Enlightenment
+Rationalism**: Pascal, Burke, Kierkegaard, Eliot, Wittgenstein, Polanyi, Lewis, MacIntyre, and more.
+
+Paul Kingsnorth embraces it in a [recent
+essay](https://paulkingsnorth.substack.com/p/the-west-must-die?utm_source=post-email-title&publication_id=250836&post_id=69512823&isFreemail=false&utm_medium=email).
+Very much worth reading!
+
+He cites Iain McGilchrist, who claims the Western mind since... Descartes?... has been disconnected from reality, and
+living in an abstraction: Kingsnorth: "almost a form of mental illness."
+
+Walker Percy: **Love in the Ruins**: angelism.
+
+'More, a psychiatrist and a believing but non-practicing Catholic, diagnoses the scenario as "the soul of western man
+flying apart here and now," a process kicked off by Enlightenment philosopher René Descartes, who 500 years ago "ripped
+body loose from mind and turned the very soul into a ghost that haunts its own house."'
+
+Percy: "Christ-forgetting, Christ-haunted, death-dealing Western world."
+
+Interesting paper: is there a thread running between nominalism and rationalism?
 
 ### The Constitution
 
@@ -57,9 +103,11 @@ Evers, 2015).
 
 ### The New Deal
 
+John T. Flynn, **The Roosevelt Myth**
 
 ### The Great Society
 
+Amity Shlaes: Great Society: A New History
 
 ### Neoliberalism
 
@@ -70,7 +118,7 @@ Modern materialism and consumer culture.
 ### The Boomers
 
 Helen Andrews lays the blame for our current plight squarely on "the boomers" (2021). Of course, such an analysis raises
-the question, if the "boomers" are so aweful... what about the parents that raised them?
+the question, if the "boomers" are so awful... what about the parents that raised them?
 
 
 ## Did Tocqueville Foresee the Above? (Most of it? Any of it?)
@@ -112,7 +160,6 @@ peaceful, of which I have just done the portrait, could be combined better than
 we imagine with some of the external forms of liberty, and that it would not be
 impossible for it to be established in the very shadow of the sovereignty of
 the people."  (1252)
-
 
 Why?
 
