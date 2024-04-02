@@ -59,15 +59,19 @@ The importance tied to the issue of just who is indigenous, and who is a settler
 greater prominence by the current conflict in Gaza, where both sides try to contend they are "more indigenous" than the
 other. That such an question could possibly have any definitive answer in a region like the Middle East, the history of
 which has been characterized by thousands and thousands of years of conquests and migrations, is ridiculous: both the
-Israelis and the Palestinians in the area most likely have some ancestors who were in the are thousands of years ago,
+Israelis and the Palestinians in the area most likely have some ancestors who were in the area millemia ago,
 and some ancestors who were more recent invaders of the land. To invoke "settler colonialism" in this conflict is an
 attempt to avoid serious consideration of what a just resolution of the present dispute might entail, and instead play
 the "I'm more indigenous than you" as a trump card.
 
 The paths of men are twisted, and any attempt to draw a simple morality play out of that tangle must do violence to
-historical reality. We can’t put everyone back where they "came from," or all 8 billion of us would have to crowd into
-East Africa. We can’t restore all lands to their original inhabitants: who will get the Philippines? Should we assign
-ownership by what percentage of Negrito DNA each person has?
+historical reality. Every single one of us has ancestors who did something terrible to some other people, as well as
+ancestors who were victims of something terrible being done to them.
+How could we possibly apportion guilt amongst the earth's present population based on what their ancestors were up to,
+when every single family tree will contain innumerable oppressors and oppressed?
+However much we might wish to undo all settler colonialism, we can’t possibly put everyone back where they "came from,"
+or all eight billion of us will have to crowd into East Africa. We can’t restore all lands to their original inhabitants:
+who will get, for instance, the Philippines? Should we assign ownership by upon percentage of Negrito DNA each person has?
 
 We cannot make the past more just than it was: it lies beyond our reach. It is only the future that we can make more
 just. And I suggest that trying to assign blame to living people for things done by their remote ancestors is a barrier,
