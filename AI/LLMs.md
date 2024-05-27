@@ -1,4 +1,4 @@
-# The New, New Chess-Playing Turk
+# The Bulgarian Vectorization Lab
 
 Gene Callahan
 
