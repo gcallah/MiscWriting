@@ -8,23 +8,26 @@ Gene Callahan
 In an article titled "The False Promise of ChatGPT," famed linguist Noam Chomsky and his two co-authors start out by
 declaring that: "OpenAI's ChatGPT, Google's Bard and Microsoft's Sydney are marvels of machine learning."
 
-However, they go on to argue that:
+They go on to argue that:
 
 "However useful these programs may be in some narrow domains (they can be helpful in computer programming, for example,
 or in suggesting rhymes for light verse), we know from the science of linguistics and the philosophy of knowledge that
 they differ profoundly from how humans reason and use language. These differences place significant limitations on what
 these programs can do, encoding them with ineradicable defects."
 
+Chomsky and his co-authors are partially right. But when they say "Indeed, such programs are stuck in a prehuman or
+nonhuman phase of cognitive evolution," they are, in fact, over-estimating the abilities of these programs: they are not
+in *any* phase of "cognitive evolution," because they are not cognizing anything at all. Let's see why that is true.
 
 
 ## The Hungarian Vectorization Lab
 
 
-Next, I will adopt John Searle's famous [Chinese room argument](https://plato.stanford.edu/entries/chinese-room/),
+To begin, I will adopt John Searle's famous [Chinese room argument](https://plato.stanford.edu/entries/chinese-room/),
 in which he demonstrated the lack of "I" in "AI,"
 updating it to reflect the way LLMs actually work.
 
-You have been hired by the "Hungarian Vectorization Lab," despite not knowing a single word of Hungarian. (They assure
+Imagine you have been hired by the "Hungarian Vectorization Lab," despite not knowing a single word of Hungarian. (They assure
 you it is completely unimportant that you don't understand the language at all.) 
 Your job is to produce numerical tables that, given a stretch
 of Hungarian text, allow the user of the tables to predict the next word. (This is like a predictive LLM, but generative
@@ -122,6 +125,5 @@ Ironically, since many AI enthusiasts consider themselves to be hrad-headed scie
 enterprise depends upon a belief in magic, much like alchemy: if practitioners can just say the right magic words
 (programs) over a material object (a box of electronic circuits), they can transform a base metal (that box) into gold
 (true intelligence). Unfortunately for the new believers in alchemy, their hope is as absurd now as it was then.
-
 
 
