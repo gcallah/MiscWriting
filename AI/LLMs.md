@@ -121,7 +121,7 @@ But that is where 100% of the brilliance lies: with the engineers who created th
 mere machines built to carry out the wishes of the engineers. The fact that with a complex LLM, the engineers
 themselves do not understand exactly how the model does so does not change that fact one bit.
 
-Ironically, since many AI enthusiasts consider themselves to be hrad-headed scientific rationalists, the entire AI
+Ironically, since many AI enthusiasts consider themselves to be hard-headed scientific rationalists, the entire AI
 enterprise depends upon a belief in magic, much like alchemy: if practitioners can just say the right magic words
 (programs) over a material object (a box of electronic circuits), they can transform a base metal (that box) into gold
 (true intelligence). Unfortunately for the new believers in alchemy, their hope is as absurd now as it was then.
