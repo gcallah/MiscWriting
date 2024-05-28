@@ -5,7 +5,10 @@ Gene Callahan
 
 ## Chomsky
 
-In an article titled "The False Promise of ChatGPT," famed linguist Noam Chomsky and his two co-authors argue that 
+In an article titled "The False Promise of ChatGPT," famed linguist Noam Chomsky and his two co-authors start out by
+declaring that: "OpenAI's ChatGPT, Google's Bard and Microsoft's Sydney are marvels of machine learning."
+
+However, they go on to argue that:
 
 "However useful these programs may be in some narrow domains (they can be helpful in computer programming, for example,
 or in suggesting rhymes for light verse), we know from the science of linguistics and the philosophy of knowledge that
@@ -75,7 +78,7 @@ parameters that work adequately to achieve the programmer's goal for the program
 
 Similarly, when these probability engines output a very ridiculous answer, it is sometimes described as an "hallucination."
 But LLMs do not "hallucinate." They work entirely on probabilities. The fact that 95% of the time X would be the best
-word to follow Y means that 5% of the time it won’t be, and some fraction of that 5%, it will be crazily wrong, like
+word to follow Y means that 5% of the time it won't be, and some fraction of that 5%, it will be crazily wrong, like
 when [Google AI
 recommended](https://www.benzinga.com/general/social-media/24/05/39027017/google-ai-search-tells-woman-to-use-glue-on-pizza-to-keep-cheese-in-place-and-she-did-heres-#)
 using glue to prevent cheese from slipping off of pizza.
@@ -87,7 +90,7 @@ raisin to achieve some aim." That is supposed to represent some level of underst
 Even in the least practically oriented use of intelligence, there is still some aim: to
 understand the nature of the prime numbers, or to contemplate why the universe exists.
 
-But chatGPT and its ilk have no aims. (AI here read what I said as: "But chat, GPT and they’re El Cavo aims.")
+But chatGPT and its ilk have no aims. (AI here read what I said as: "But chat, GPT and they're El Cavo aims.")
 The only entity with an aim involved in the process is us.
 
 Some materialists will argue that, since thought is only a product of the brain, and the brain "must" be some sort of computer,
@@ -114,5 +117,11 @@ clever. I do not wish to downplay the engineering brilliance that went into crea
 But that is where 100% of the brilliance lies: with the engineers who created these models. The models themselves are
 mere machines built to carry out the wishes of the engineers. The fact that with a complex LLM, the engineers
 themselves do not understand exactly how the model does so does not change that fact one bit.
+
+Ironically, since many AI enthusiasts consider themselves to be hrad-headed scientific rationalists, the entire AI
+enterprise depends upon a belief in magic, much like alchemy: if practitioners can just say the right magic words
+(programs) over a material object (a box of electronic circuits), they can transform a base metal (that box) into gold
+(true intelligence). Unfortunately for the new believers in alchemy, their hope is as absurd now as it was then.
+
 
 
