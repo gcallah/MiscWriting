@@ -93,6 +93,10 @@ to us, as well as of our own, can we possibly catch a glimpse of eternal, lastin
 journey through life.
 
 
+====================
+
+Perhaps to include:
+
 
 
 In many places, tribal governance has turned heavily on defined sex roles and the authority of elders over the younger
