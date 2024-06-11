@@ -1,7 +1,8 @@
 # Multiculturalism, True and False
 
-I am a multicultural sort of fellow. I learned percussion with a Ghanaian drum master, I have played in reggae bands for
-30 years, and I am active in my local Filipino-American Association. But I do have a real problem with phony
+I am a multicultural sort of fellow. I learned to play percussion from a Ghanaian drum master.
+I have played in reggae bands for 30 years. 
+I am active in my local Filipino-American Association. But I do have a problem with phony
 multiculturalism, the kind that is fine with eating a Jamaican patty or wearing an African kente cloth
 (https://www.newyorker.com/culture/on-and-off-the-avenue/the-embarrassment-of-democrats-wearing-kente-cloth-stoles), but
 recoils in horror the moment the culture being "embraced" fails to fully adopt every progressive value.
@@ -39,8 +40,8 @@ societies. Or they could learn Sanskrit, and encounter the fascinating metaphysi
 of rigorous education in the concrete reality of other cultures would be entirely praiseworthy… but how often do we see
 "multiculturalism" actually developed in this way?
 
-What's more, there is a particular group of cultures that Western progressives especially loathe, and whose customs they
-despise entirely: the cultures of the West's own past. Of course, as with any culture, will find practices that fall
+It is worth noting that there is a particular group of cultures that Western progressives especially loathe, and whose customs they
+despise entirely: the cultures of the West's own past. Of course, as with any culture, we'll find practices that fall
 short of ideal in our own past cultures. For instance, it is a very good thing that the era of Jim Crow is over.
 
 But there are several factors that should, but don't, prevent progressives from leaping to the conclusion that today is
@@ -76,7 +77,15 @@ Nevertheless, let us grant PBS its count of "hundreds" of cultures that recogniz
 means there are many thousands more that do not. So why conclude that the small minority of cultures that classify
 people into more than two genders are in some way superior to the much greater number that don't? Furthermore, it is
 worth noting that no examples are forthcoming of societies where can simply invent their own, novel "gender," create
-novel pronouns to express it, and then demand that everyone else use such pronouns when mentioning them.
+brand new pronouns to express it, and then demand that everyone else use such pronouns when mentioning them.
+
+There are many other practices common in traditional societies that we don't find highlighted by PBS. For instance,
+in many places, tribal governance has turned heavily on defined sex roles and the authority of elders over the younger
+people in the tribe. In many traditional societies it would be considered madness that the opinion of someone who had just
+reached adulthood should carry equal weight to that a senior member of the group, so that "one person one vote" would be
+seen as something crazy.  (Indeed, Nigerian Afrobeat musician and political activist
+Fela Kuti referred to democracy as a "demonstration of
+craze.") But I have never seen a progressive outlet run a piece praising "The Many Democracy-Rejecting Cultures."
 
 And who could possibly imagine PBS publishing a similar article about, say, acceptance of slavery, or head hunting, or
 female genital mutilation, or isolation of women during menstruation, and suggesting that because they can find
@@ -92,16 +101,4 @@ And the true multiculturalist recognizes that only through such a humble, dispas
 to us, as well as of our own, can we possibly catch a glimpse of eternal, lasting truths that might guide us in our
 journey through life.
 
-
-====================
-
-Perhaps to include:
-
-
-
-In many places, tribal governance has turned heavily on defined sex roles and the authority of elders over the younger
-people in the tribe. Many tribal people would have considered it madness that the opinion of someone who had just
-reached adulthood should carry equal weight to that a senior member of the tribe, so that "one person one vote" would be
-seen as something crazy.  (Indeed, Nigerian Afrobeat artist Fela Kuti referred to democracy as a "demonstration of
-craze.")
 
