@@ -3,12 +3,12 @@
 Gene Callahan
 
 
-## Chomsky
+## Introduction
 
 In an article titled "The False Promise of ChatGPT," famed linguist Noam Chomsky and his two co-authors start out by
 declaring that: "OpenAI's ChatGPT, Google's Bard and Microsoft's Sydney are marvels of machine learning."
 
-They go on to argue that:
+But they go on to argue that:
 
 "However useful these programs may be in some narrow domains (they can be helpful in computer programming, for example,
 or in suggesting rhymes for light verse), we know from the science of linguistics and the philosophy of knowledge that
@@ -23,9 +23,9 @@ in *any* phase of "cognitive evolution," because they are not cognizing anything
 ## The Hungarian Vectorization Lab
 
 
-To begin, I will adopt John Searle's famous [Chinese room argument](https://plato.stanford.edu/entries/chinese-room/),
+To begin, I will take John Searle's famous [Chinese room argument](https://plato.stanford.edu/entries/chinese-room/),
 in which he demonstrated the lack of "I" in "AI,"
-updating it to reflect the way LLMs actually work.
+and update it to reflect the way large language models (LLMs) actually work.
 
 Imagine you have been hired by the "Hungarian Vectorization Lab," despite not knowing a single word of Hungarian. (They assure
 you it is completely unimportant that you don't understand the language at all.) 
@@ -44,7 +44,7 @@ after "At the fox hunt, he put the dogs on the..." you predict "scent."
 Would you say that this means you now understand Hungarian? I think it is clear that you don't. If you had access to
 your tables, and a conversation partner was patient with you while you used them, you might even be able to "hold a
 conversation" in Hungarian. But at no point would you have any idea of what you or your partner were saying: while your
-responses seem "appropriate" to your partner, as far as you know, you are agreeing to have sex with the person, or
+responses seem "appropriate" to your partner, as far as you know, you could be agreeing to have sex with the person, or
 planning a terrorist attack, or discussing the weather. 
 
 
@@ -122,7 +122,8 @@ mere machines built to carry out the wishes of the engineers. The fact that with
 themselves do not understand exactly how the model does so does not change that fact one bit.
 
 Ironically, since many AI enthusiasts consider themselves to be hard-headed scientific rationalists, the entire AI
-enterprise depends upon a belief in magic, much like alchemy: if practitioners can just say the right magic words
+enterprise -- not the genuine technical advances, but the snark hunt for machine intelligence -- 
+depends upon a belief in magic, much like alchemy: if practitioners can just say the right magic words
 (programs) over a material object (a box of electronic circuits), they can transform a base metal (that box) into gold
 (true intelligence). Unfortunately for the new believers in alchemy, their hope is as absurd now as it was then.
 
