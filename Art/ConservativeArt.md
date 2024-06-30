@@ -96,8 +96,8 @@ controversial, oversimplified means of communication, and one that is certainly 
 artist."
 
 Baresel, in the piece linked to above, makes much the same point (although I would be reluctant to call
-someone writing a "novel" or directing a "movie" with the primary aim of pitching a conservative political platform a
-"philosopher") when he writes:
+someone writing a "novel" or directing a "movie" with the primary aim of pitching a conservative political platform is
+acting as a "philosopher") when he writes:
 
 "One factor in why conservatives are alleged to produce bad art is the fact that certain efforts at 'conservative art'
 in fiction and film are, in fact, the work of 'philosophers' rather than of 'artists.' In these cases, the outward form
