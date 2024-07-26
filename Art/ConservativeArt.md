@@ -1,33 +1,33 @@
-# Against "Conservative Art"
+# Against Ideological Art
 
-In various outlets over the last several years, there has been conversations ongoing on something called "conservative
-art," why it is less successful than "progressive art," whether conservatives simply have bad taste, or simply by being
+In various outlets over the last several years, there has been conversations about something called "conservative
+art," why it is less successful than "progressive art," whether conservatives simply have bad taste, or merely by being
 such backwards folks they are incapable of producing decent art, and so on.
 
 
-For instancem at *The Imaginative Conservative*, James Baresel worries about ["The Dilemma of the Conservative
+For instance at *The Imaginative Conservative*, James Baresel worries about ["The Dilemma of the Conservative
 Artist"](https://theimaginativeconservative.org/2023/08/dilemma-conservative-artist-james-baresel.html).
 He asks what conservatives can do "to facilitate the work of conservative artists." But, what, exactly, is a
 "conservative artist"?
 
 A search for "progressive art" on Google yields 
-well over a million hits, while "conservative art" only yields a quarter of a million. Does this mean that progressives
-are much more likely to produce good or great art than are conservatives?
+well over a million hits, while "conservative art" only yields a quarter of a million.
+Is this an indication that progressives are much more likely to produce good or great art than are conservatives?
 
 In a recent piece,
 ["TV Is Always Progressive"](https://americanmind.org/features/a-matter-of-taste/tv-is-always-progressive/),
-Mary Harrington offers a definition of art: "By contrast, if by 'art' you understand (as I do) a fusion of moral,
-aesthetic and political impulses..." She suggests that part of the answer to the quesiton of why art "leans left" is
+Mary Harrington suggests that part of the answer to the quesiton of why art "leans left" is
 that "conservatives have terrible taste." (She goes on to argue that for TV and movies "the media they rely on to
 propagate is progressive by definition." And she may be completely correct on that point, but that is orthogonal to the
-point of this essay.)
+topic of this essay.) Along the way she offers a definition of art: "By contrast, if by 'art' you understand (as I do) a
+fusion of moral, aesthetic and political impulses..."
 
 Now, in general, I am a great admirer of Harrington's work, but here I think she has missed the mark in her
 understanding of what art is.
 I do not deny that often a miscellany of activities is going on nearly simultaneously
 in some person's life. One may be making love to one's spouse, while also watching a golf tournament on TV, and planning
 that evening's dinner. But that does not mean that making love *consists* of a "fusion" of those various activities.
-(And what would such a "fusion" even be?) Similarly, someone may be painting, while alternately attending to beauty of
+(And what would such a "fusion" even be?) Similarly, someone may be painting, while alternately attending to the beauty of
 their painting, whether the painting will advance the worldwide socialist revolution, and if it will help the painter
 seduce the lover he has been pining for. But that no more makes such a miscellany the differentia of art than does the
 previous miscellany represent the differentia of sexual intercourse.  What, then, *does* differentiate art from other
@@ -37,28 +37,27 @@ In an essay titled "The Voice of Poetry in the Conversation of Mankind," Michael
 means artistic activity in general, that its essential character is to take contemplative delight in the conceptual image
 that a work of art presents. He writes that "images in contemplation are merely present... [they are]
 neither pleasurable [inciting desire] nor painful [inciting aversion];
-and [they do] not attract... either moral approval or disapproval.
+and [they do] not attract... either moral approval or disapproval."
 
-But this understanding of art is to be found much earlier, in fact, at least as far back as Aquinas.
-For a brief synopsis of the Aquinas's understanding of art, let us turn to James Joyce's *A Portrait of the Artist as a
-Young Man*:
+This understanding of art is not a novelty of Oakeshott's: it is to be found much earlier, in fact, at least as far back
+as Aquinas.  For a brief synopsis of the Aquinas's understanding of art, let us turn to James Joyce's *A Portrait of the
+Artist as a Young Man*:
 
-"The tragic emotion, in fact, is a face looking two ways, towards terror and towards pity, both of which are phases of
-it. You see I use the word arrest. I mean that the tragic emotion is static. Or rather the dramatic emotion is. The
+"You see I use the word arrest. I mean that the tragic emotion is static. Or rather the dramatic emotion is. The
 feelings excited by improper art are kinetic, desire or loathing. Desire urges us to possess, to go to something;
 loathing urges us to abandon, to go from something. The arts which excite them, pornographical or didactic, are
 therefore improper arts. The esthetic emotion (I used the general term) is therefore static. The mind is arrested and
 raised above desire and loathing."
 
-It might be helpful to clarify what Aquinas means as Joyce understands him. "Proper" art does not mean art that respects
+It might be helpful to clarify what Aquinas (via Joyce) means. "Proper" art does not mean art that respects
 boundaries of propriety, but art achieving a properly artistic end: that of "arrested" contemplation on the artistic image itself.
 It is "proper" in the same sense as driving a nail into wood is the proper use of a hammer. Pornographic art, in
 contrast, moves us emotionally to desire or loathe its image: when we call TV programs showing fabulous homes
-"real estate porn" we are recognizing Aquinas's point. Didactic art also achieves the same effect, but by attempting to
+"real estate porn" we are implicit Thomists. Didactic art also achieves the same effect, but by attempting to
 intellectually, rather than emotionally, convince us that we should desire or loathe its subject. *Aesop's Fables*
 come to mind here.
 
-But why can't someone do both at once, try to make the case for some political cause while also producing an excellent
+But why can't someone do both at once, try to make the case for, e.g., some political cause, while also producing an excellent
 work of art?  Well, because no man may serve two masters. Imagine you are the manager of an NBA basketball team; you set the
 team the simultaneous goals of:
 
@@ -74,7 +73,7 @@ or lack imagination, but because the very term shows
 it to be a mongrel beast of low breeding: art is its own species, as is politics, but
 "conservative art" tries to force them to
 produce fertile offspring. "Progressive art" of course has the exact same problem: it merely has the advantage over
-conservative art in being fashionable.
+conservative art of being fashionable.
 
 To the extent that progressive art is actually "better" than
 conservative art, I think it is largely the effect of ambition: for a budding artist with talent, it will be obvious that
@@ -87,10 +86,10 @@ antithetical to her convictions, stifling her authentic perception and raison d'
 the influence of the near-universal peer ideology, few survive in this climate with their convictions and artistry
 intact."
 
-Clarity goes on to note that attempting to answer this bias with an attempt to promote "conservative art" backfires:
+Clarity goes on to note that answering this bias with an attempt to promote "conservative art" backfires:
 
 "There are limited niche conservative projects, but while these don't violate the conservative element of the artist's
-convictions, they do, unfortunately, often violate his artistic ones--an unfortunate 'other side' to the unique
+convictions, they do, unfortunately, often violate his artistic ones -- an unfortunate 'other side' to the unique
 challenges of the conservative artist. Propaganda remains propaganda even if it is essentially true; it is a
 controversial, oversimplified means of communication, and one that is certainly outside of the voice of any valuable
 artist."
@@ -106,14 +105,15 @@ correct but the artistic failure will not give aesthetic pleasure and will not c
 aside from those who already accept their truth. A good novel can only be written by someone who is primarily concerned
 with the beauty of his work rather than with the ideas which it contains."
 
-David Gelertner quotes a number of great artists echoing these sentiments in his essay ["What Is Conservative
-Art?"](https://www.washingtonexaminer.com/news/1243466/what-is-conservative-art/).
+The great novelist Milan Kundera went so far as to coin a new word for those who would force art to serve political
+ends:
 
-"Matisse: 'The mission of the artist is important enough for him to preoccupy himself only with his art.' Matisse again:
-'One can have liberal ideas, but the artist hasn't the right to lose any of the precious time he has.' Hopper: Daumier
-'was great despite his political explications not because of them.' John Sloan: 'While I am a Socialist, I never allowed
-social propaganda to get into my paintings.' The institutionalized prostitution of art to politics -- invented by the
-twentieth century's monster tyrannies and reenacted for your edification by the whining fools of 1990s Manhattan."
+"To be without a feeling for art is no disaster. A person can live in peace without reading Proust or listening to
+Schubert. But the *misomusist* does not live in peace. He feels humiliated by the existence of something that is beyond
+him, and he hates it. There is a popular misomusy...
+But there is an intellectual, sophisticated misomusy as
+well: it takes revenge on art by forcing it to a purpose beyond the aesthetic. The doctrine of engagé art: art as an
+instrument of politics."
 
 There is nothing preventing someone of conservative political inclinations from producing great art, except the
 misapprehension that their art must somehow support conservative politics. And so may someone of progressive political
@@ -124,8 +124,8 @@ progressives.
 
 None of this is to say that even the greatest artists do not mingle non-aesthetic concerns into their art, nor am I trying to
 set up some rule that they should never do so. In fact, perhaps a certain sprinkling of non-aesthetic bits throughout a
-work of art serve to enhance its aesthetic character, in the same way that a few bits of anchovie may make an otherwise
-edible salad more interesting. 
+work of art serve to enhance its aesthetic character, in the same way that a few bits of anchovies may make an otherwise
+delicious salad more interesting. 
 
 
 If someone of a conservative disposition wishes to produce excellent art that, in a certain sense, supports
