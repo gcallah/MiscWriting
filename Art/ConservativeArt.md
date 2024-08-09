@@ -128,11 +128,12 @@ work of art serve to enhance its aesthetic character, in the same way that a few
 delicious salad more interesting. 
 
 
-If someone of a conservative disposition wishes to produce excellent art that, in a certain sense, supports
+Nevertheless, if someone of a conservative disposition wishes
+to produce excellent art that, in a certain sense, supports
 conservatism, the best thing they can do is to focus simply on producing excellent art.
 They should no more try to produce "conservative art" than a conservative plumber should try to produce "conservative
 plumbing," or a conservative ornithologist should try to produce "conservative ornithology."
-But in doing so, the "conservative artist" might just illustrate the point
+Along the way, the "conservative artist" might just illustrate the point
 that conservatives are not entirely obsessed with politics, as so many progressives are.
 
 
