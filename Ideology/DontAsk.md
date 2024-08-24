@@ -16,7 +16,7 @@ The German-American political philosopher Eric Voegelin provided us with an illu
 response to a seemingly simple question. His starting point is his characterization of ideologies as constructions of
 "dream worlds." By that he meant that the ideologue builds an imaginary world that functions as they wish the real world
 would. For instance, a communist imagines a world in which people are entirely altruistic, need no motivation to work
-besides their desire to benefit their comrades, and has no attachment to the things they produce. This dream may
+besides their desire to benefit their comrades, and have no attachment to the things they produce. This dream may
 describe the Kingdom of Heaven or a world entirely populated by Christian or Buddhist saints, but fails badly in
 matching up to the world we actually find ourselves living in.
 
@@ -34,16 +34,16 @@ protests  were dismissed by calling them "bloodsuckers," "pariahs," or "vermin."
 question posed by a cockroach or a leech!
 
 We can see the same dynamic at work on social media today. If someone asks, "Is it really a good idea to let millions of
-unvetted foreigners pour across our southern border?" Rather than answer the question, it is easier just to smear the
+unvetted foreigners pour across our southern border?" rather than answer the question, it is easier just to smear the
 questioner as a "xenophobe." If someone asks, "Are DEI initiatives actually helping the most needy?", just call them a
 "racist" or "a fragile white person" for even voicing such a heretical query.
 
 We recently saw this phenomena in full display when some people asked why Minnesota governor Tim Walz wanted to mandate
 putting tampons in the boy's bathrooms of state schools. Rather than answer what seems to be a reasonable question,
-progressive respondents attacked the people asking, saying that they "are disgusted by girl's bodies," are "weird," 
+progressive respondents attacked the people asking it, saying that they "are disgusted by girl's bodies," are "weird," 
 or that they want high school girls to be humiliated by bleeding through their clothes because no tampons are available.
 Not one of these responses answers the questions, "Why should we be stocking tampons in the *boy's* bathroom?" Granted,
-girls menstruate, and need something to help with that event, why not make sure tampons are adequately stocked in the
+girls menstruate, and need something to help with that event, so why not make sure tampons are adequately stocked in the
 *girl's* bathroom, and maybe in the nurse's office as a backup supply?
 
 Many progressives forwarded narratives where a guy who carried tampons in his backpack for when his female friends
@@ -56,7 +56,11 @@ on you?"
 
 The posters who find the above a plausible scenario are living in a dream world, a world in which there are no real,
 meaningful differences between males and females, in which are girl experiencing a "heavy flow" is just as likely to ask
-the HS football team's center for a tampon as she is likely to aske her female friend or the school nurse.
+the HS football team's center for a tampon as she is likely to ask her female friend or the school nurse.
+
+But what is particularly of note here is the refusal to answer the simple question, "Why put tampons in the boy's
+bathroom?" Whenever we see such an avoidance of a simple question like this, we are confronting an ideological
+dreamworld.
 
 
 
