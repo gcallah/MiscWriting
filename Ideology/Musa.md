@@ -1,6 +1,10 @@
 # Interview with Musa al-Gharbi
 
 
+Certainly people sometimes believe things because it is in their self interest to do so,
+but I get an uneasy feeling more things that start to be explained that way.
+Did Marx *really* Believe in scientific materialism, or was it just in his class interest to say he did?
+
 What about Asians?
 
 
