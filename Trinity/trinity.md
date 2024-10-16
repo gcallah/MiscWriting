@@ -7,7 +7,7 @@ On the other hand, to many sceptics, it simply says something ridiculous
 like 1 = 3. Nevertheless, as prominent a philosopher as R.G. Collingwood,
 in *An Essay on Metaphysics*, contended that the doctrine of the Trinity was 
 the philosophical solution to the metaphysical crisis that was destroying the
-pagan world, and pagan science along with it,and that this doctrine "has been the main
+pagan world, and pagan science along with it, and that this doctrine "has been the main
 or fundamental presuppositions of natural science ever since" (1984: ???).
 
 Therefore, it may be worthwhile to seek out metaphors that can render this symbol
@@ -35,14 +35,10 @@ in the lively soul: and this is the image of the indwelling Spirit.
 can exist without other: and this is the image of the Trinity." (2004: 28)
 
 
-I was struck by the possibility of using the concept of the algorithm,
-in a fashion similar to how Sayers had used art, while lecturing on computer
-science.
-As I taught my students the Sieve of Eratosthenes (an algorithm to identify prime
-numbers, first described by Eratosthenes in the third century BC).
-I described the sieve
-verbally, then I had them "run" the sieve on paper, then program it in Visual
-Basic.
+I was struck by the possibility of using the concept of the algorithm, in a fashion similar to how Sayers had used art,
+while lecturing on computer science. As I taught my students the Sieve of Eratosthenes (an algorithm to identify prime
+numbers, first described by Eratosthenes in the third century BC). I described the sieve verbally, then I had them "run"
+the sieve on paper, then program it in Visual Basic.
 
 Each step in my lecture: the verbal description, the paper-based version,
 and the coded Visual Basic version, are an "implementation" of the algorithm.
@@ -84,6 +80,10 @@ But that power is also one in being with the form and the implementations: we
 might say the execution of an algorithm *proceeds* from its generative form and
 its implementation.
 
+## Does This Metaphor Do Justice to Trinitarian Theology?
+
+[Webb]
+
 ## Conclusion
 
 The fact that the fairly modern idea of "an algorithm" -- the ancient Greeks 
@@ -102,7 +102,9 @@ the action of the Holy Spirit.
 
 ## Bibliography
 
-- Collingwood, R. G. (1984). *An Essay on Metaphysics*. Lanham, Md: Univ. Pr. of America.
-- Sayers, D. L. (2004). *The Mind of the Maker*. Continuum International Publishing Group Ltd.
+- Collingwood, R.G. (1984). *An Essay on Metaphysics*. Lanham, Md: University Press of America.
+- Sayers, Dorothy L. (2004). *The Mind of the Maker*. [WHERE?]:Continuum International Publishing Group Ltd.
+- Webb, Eugene (2014). *In Search of the Triune God: The Christian Paths of East and West*. Columbia: University of Missouri
+  Press.
 
 
