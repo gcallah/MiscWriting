@@ -38,8 +38,34 @@ unvetted foreigners pour across our southern border?" rather than answer the que
 questioner as a "xenophobe." If someone asks, "Are DEI initiatives actually helping the most needy?", just call them a
 "racist" or "a fragile white person" for even voicing such a heretical query.
 
-We recently saw this phenomena in full display when some people asked why Minnesota governor Tim Walz wanted to mandate
-putting tampons in the boy's bathrooms of state schools. Rather than answer what seems to be a reasonable question,
+
+I would like to offer a couple of examples of her bidding questions that I have witnessed recently on x.com.
+The first one is from the right, and concerns vaccines. No, I am not a medical doctor, and I am genuinely open to the
+idea that some vaccines might have harms that outweigh the benefits. So when I see posts From people who are
+"vigorously" anti-vaccine, I will often ask questions that seem to me to be perfectly reasonable. So if I see someone
+claiming that pharmaceutical companies knew that their vaccines were deadly, but release them anyway, I might ask, "Why
+would these companies want to kill their own customers?" Of course, in a shortsighted quest for profits, a company made
+Russia product to market without being sufficiently sure that it is not harmful. A famous case of this is
+[thalidomide](https://en.wikipedia.org/wiki/Thalidomide#History), which caused many birth defects before removed from
+the market. But the makers of the drug were not trying to cause birth defects, they were simply reckless.
+
+Another sort of claim that I have sometimes questioned asserts that something bad that happened to someone who had been
+vaccinated have been caused by the vaccination. An apparently healthy athlete drops dead of a heart attack during a competition.
+Subsequently, someone will post, "See: the vaccine killed him!" This clearly is an instance of the [*post hoc ergo
+propter hoc*](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc) fallacy. And the obvious question is "What
+evidence do you have that the vaccine was responsible?"
+
+I don't ever recall, receiving a sensible response to either question. Instead, the answers are howls of outrage and
+vituperation. For instance, it is common that someone immediately claims that I am "in the pocket of big pharm."
+Another typical response is, "If you won't see the truth, then go ahead and get the vaccine like a good little sheep!"
+
+
+
+My second example occurred  when some people asked why Minnesota governor Tim Walz wanted to mandate
+putting tampons in the boy's bathrooms of state schools. Now, there is some ambiguity as to whether the law he signed
+really did mandate that, but for our purposes that is actually irrelevant: in the discussions I witnessed, everyone, both the
+pro-Walzers and the anti-Walzers, was assuming that the law *did* require tampons in boys' bathrooms.
+Rather than answer what seems to be a reasonable question,
 progressive respondents attacked the people asking it, saying that they "are disgusted by girl's bodies," are "weird," 
 or that they want high school girls to be humiliated by bleeding through their clothes because no tampons are available.
 Not one of these responses answers the questions, "Why should we be stocking tampons in the *boy's* bathroom?" Granted,
@@ -53,7 +79,6 @@ frontman for a hot local band, but because they carry tampons in their backpack.
 school girls happily share their menstrual condition with their male friends. Does anyone out there ever recall hearing
 a high school girl saying to one of her male friends, "Hey, I'm having a really heavy flow today. Do you have a tampon
 on you?"
-
 The posters who find the above a plausible scenario are living in a dream world, a world in which there are no real,
 meaningful differences between males and females, in which are girl experiencing a "heavy flow" is just as likely to ask
 the HS football team's center for a tampon as she is likely to ask her female friend or the school nurse.
@@ -61,6 +86,7 @@ the HS football team's center for a tampon as she is likely to ask her female fr
 But what is particularly of note here is the refusal to answer the simple question, "Why put tampons in the boy's
 bathroom?" Whenever we see such an avoidance of a simple question like this, we are confronting an ideological
 dreamworld.
+
 
 
 
