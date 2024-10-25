@@ -35,7 +35,7 @@ question posed by a cockroach or a leech!
 
 Today, we often can see the same strategy at work on social media.
 I would like to offer a couple of examples of forbidden questions that I have witnessed recently on x.com.
-The first one is from the right, and concerns vaccines. I am genuinely open to the
+The first one is usually found on the right, and concerns vaccines. I am genuinely open to the
 idea that some vaccines might have harms that outweigh the benefits -- pharmaceutical companies have been known to cut
 corners in testing! Thus, when I see posts from people who are
 "vigorously" anti-vaccine, I will often ask questions that seem to me to be perfectly reasonable. So if I see someone
@@ -59,7 +59,31 @@ Well, I can assure readers that I have never received a penny from "big pharm" i
 some vaccine or not is hardly relevant to justifying the claim that some unfortunate young person's sudden death was
 caused by a vaccine they had received.
 
-My second example arose when some people asked why Minnesota governor Tim Walz wanted to mandate
+A second case, again most seen among people who consider themselves right-of-center, centers around the idea that seed
+oils, such as canola, sunflower, or soybean oil -- oils very common in processed food and fried food from restaurants --
+are "toxic" and are causing a wide variety of ailments. For instance, one tweeter claims that seed oils:
+
+- increase stress
+- increase estrogen
+- lower testosterone
+- toxic [sic] to liver
+- lead to inflammation
+- blocks [sic] glucose use
+- accelerates [sic] aging
+- breaks [sic] down into toxins linked to alzheimers and cancer
+(https://x.com/AlpacaAurelius/status/1510288335339765761)
+
+Robert F. Kennedy Jr. himself claims that "seed oils are one of the driving causes of the obesity epidemic,"
+and that Americans are being "poisoned" by them.
+(https://x.com/RobertKennedyJr/status/1848499491151745180)
+
+
+"has allowed these unhealthy ingredients to dominate the food supply."
+Why? Their must be lobbies for and corporate profits to be made in beef tallow, lard and butter, right? Why did seed
+oils win?
+
+
+My third example arose when some people asked why Minnesota governor Tim Walz wanted to mandate
 putting tampons in the boys' bathrooms of state schools. Now, there is some ambiguity as to whether the law he signed
 really *did* mandate that. (The law says that there must be tampons
 "in restrooms regularly used by students in grades 4 to 12 according to a plan developed by the school district."
