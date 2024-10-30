@@ -82,6 +82,24 @@ and that Americans are being "poisoned" by them.
 Why? Their must be lobbies for and corporate profits to be made in beef tallow, lard and butter, right? Why did seed
 oils win?
 
+https://x.com/x3vyx/status/1851479283744542747
+
+So I went on x.com, found the most recent discussions of how bad seed oils are for you, and repeatedly posted
+"Could you point me to some studies that show how bad seed oils are?"
+
+The "answers" were enlightening. One person told me, "I could but I’m not going to."
+Another charming fellow told me that if I was going to believe such nonsense as studies,
+"you deserve what you get -- including illness and death."
+
+Another person replied: "Try the internet. Glad I could help." (I pointed out to him that we were, in fact, talking on
+the Internet, and my question was, in fact, me "trying" it.) Someone else just sent me a picture of Judge Judy rolling
+her eyes with the caption "Seriously?" One person did link to five studies... but mostly they discussed hydrogenated
+oils, rather than seed oils per se. (And hydrogenation does, indeed, seem to produce dangerous oils.)
+
+The best response was a link to a study that showed the problem is not seed oils per se, but the ratio of oils high in
+omega-6 fatty acidsto those high in oemga-3 fatty acids:
+"The omega-6 to omega-3 ratio should be ideally 2:1 or 1:1, but for most Americans, the ratio is actually a whopping 10:1
+or even 20:1." (https://health.clevelandclinic.org/seed-oils-are-they-actually-toxic)
 
 My third example arose when some people asked why Minnesota governor Tim Walz wanted to mandate
 putting tampons in the boys' bathrooms of state schools. Now, there is some ambiguity as to whether the law he signed
@@ -111,12 +129,8 @@ school girls happily share their menstrual condition with their male friends. Do
 a high school girl saying to one of her male friends, "Hey, I'm having a really heavy flow today. Do you have a tampon
 on you?"
 
-The posters who find the above a plausible scenario are living in a dream world, a world in which there are no real,
-meaningful differences between males and females, in which are girl experiencing a "heavy flow" is just as likely to ask
-the HS football team's center for a tampon as she is likely to ask her female friend or the school nurse.
-
 But what is particularly of note is the refusal to answer simple questions: "Why put tampons in the boys'
-bathroom?" or "Why would a business deliberately kill its own customers?" or "What evidence do you have that this death was
+bathroom?" or "Can you show me some studies to back your view?" or "What evidence do you have that this death was
 actually related to a vaccine?"
 Whenever we see such an avoidance of questions like these, we are confronting an ideological dream world.
 
