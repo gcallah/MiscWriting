@@ -44,6 +44,11 @@
     they suffer from but a deliberate choice on their part.
 
 
+* Is it utopian to expect a society with no heirarchy?
+    (My truism: The attempt to create a society, with no hierarchy, just result in a vicious struggle for position by
+    destabilizing existing hierarchy.)
+
+
 * Should people feel guilty about using DoorDash, Uber, and Lyft? If the people working those gig jobs had a better
     alternative, when they be doing that already?
 
