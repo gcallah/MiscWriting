@@ -6,19 +6,24 @@ to process language and images over the last decade. But along with these
 genuine technical accomplishments comes what Mircea Eliade refers to as
 "ideology" that describes what their enterprise is all about.
 
-Musk
+For instance, Elon Musk [has
+predicted](https://www.ft.com/content/027b133f-f7e3-459d-95bf-8afd815ae23d)
+that AI will "overtake" human intelligence "next year."
 
 
 Thus, it may be of interest to look into the past, at some similar enterprises
 achieving genuine technical breakthroughs, accompanied by an ideology of
-dubious validity. And doing so, we will make extensive use of Eliade's book The
-Forge and the Crucible. In it, he traces how the ideology associated with
-metallurgy and mining gradually gave birth to alchemy.
+dubious validity. In doing so, we will make extensive use of Eliade's book *The
+Forge and the Crucible*. In it, he traces how the ideology associated with
+metallurgy and mining gradually gave birth to alchemy. (I don't particularly
+like this use of "ideology," but, having been unable to come up with a better
+word, I will use Eliade's term.)
 
 
 
-Eliade 8: Very early on we are confronted with the notion that ores "grow" in
-the belly of the Earth after the manner of embryos.
+Eliade writes, of primitive metallurgy, "Very early on we are confronted with
+the notion that ores "grow" in the belly of the Earth after the manner of
+embryos." (8)
 
 Much in the way that large language models are supposed to be "learning" as
 they are being programmed.
