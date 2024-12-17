@@ -8,7 +8,9 @@ genuine technical accomplishments comes what Mircea Eliade refers to as
 
 For instance, Elon Musk [has
 predicted](https://www.ft.com/content/027b133f-f7e3-459d-95bf-8afd815ae23d)
-that AI will "overtake" human intelligence "next year."
+that AI will "overtake" human intelligence "next year." *Forbes Magazine*
+worries (or hopes?) that ["Artificial Superintelligence Could Be Humanity's
+Final Invention"](https://www.forbes.com/sites/bernardmarr/2024/10/31/why-artificial-superintelligence-could-be-humanitys-final-invention/).
 
 
 Thus, it may be of interest to look into the past, at some similar enterprises
@@ -100,15 +102,21 @@ able to achieve in a few weeks." 169
 
 Similarly, the AI alchemist tries to duplicate an evolution of consciousness
 that took hundreds of millions of years in the time it takes to train an LLM.
+The Forbes article linked to above says "Unlike human intelligence, which is
+constrained by biology, ASI would operate at digital speeds... Imagine a being
+that could read and understand every scientific paper ever written in an
+afternoon..." (Since computers have operated at many diffferent speeds, I have
+no idea whjat "digital speeds" are.) All of humanity's understanding of the
+natural world, achieved over many millenia, will be surpassed in an afternoon!
 
 
-Eliade explicitly recognizes that the alchemist's dream has not died with the
+Eliade himself explicitly recognized that the alchemist's dream has not died with the
 death of alchemy: " the idea of a new Epoch, crystallized around the myth of
 infinite progress and boosted by the experimental sciences, and the progress of
 industrialization which dominated and inspired the whole of the 19th century,
 takes up and carries forward... the millennary dream of the alchemist." 172
 
-" visionaries myth of the perfection... of Nature survives, in camouflage form,
+"visionaries myth of the perfection... of Nature survives, in camouflage form,
 in the pathetic program of the industrial societies, whose aim is the total
 Transmutation of nature" 172
 
