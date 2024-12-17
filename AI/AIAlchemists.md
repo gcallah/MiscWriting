@@ -30,13 +30,21 @@ embryos." (8)
 Much in the way that large language models are supposed to be "learning" as
 they are being programmed.
 
-8-9:
-What what the smelter, Smith and alchemist have in common is that all three
-they claim to a particular magico-religious experience in their relations with
+
+
+"What what the smelter, smith and alchemist have in common is that all three
+lay claim to a particular magico-religious experience in their relations with
 matter; this experience is their monopoly and its secret is transmitted through
 the initiatory rights of their trades. All three work on a Matter which they
 hold to be at once alive and sacred, and in their labours they pursue the
-transformation of matter, its perfection and its transmutation.
+transformation of matter, its perfection and its transmutation." (8-9)
+
+[Writing in *The Economist*](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world),
+"futurist" Ray Kurzweil promises that AI will
+deliver just such a perfection of the physical world.
+
+
+
 
 11: soteriological function of alchemy 
 
@@ -102,12 +110,17 @@ able to achieve in a few weeks." 169
 
 Similarly, the AI alchemist tries to duplicate an evolution of consciousness
 that took hundreds of millions of years in the time it takes to train an LLM.
-The Forbes article linked to above says "Unlike human intelligence, which is
+The *Forbes* article linked to above says "Unlike human intelligence, which is
 constrained by biology, ASI would operate at digital speeds... Imagine a being
 that could read and understand every scientific paper ever written in an
 afternoon..." (Since computers have operated at many diffferent speeds, I have
 no idea whjat "digital speeds" are.) All of humanity's understanding of the
 natural world, achieved over many millenia, will be surpassed in an afternoon!
+[*Time Magazine*](https://time.com/6310115/ai-revolution-reshape-the-world/)
+claims that "We are facing a step change in what’s possible for
+individual people to do, and at a previously unthinkable pace."
+
+
 
 
 Eliade himself explicitly recognized that the alchemist's dream has not died with the
