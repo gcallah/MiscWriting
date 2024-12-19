@@ -2,24 +2,31 @@
 
 
 AI researchers have achieved genuine breakthroughs in the ability of computers
-to process language and images over the last decade. But along with these
-genuine technical accomplishments comes what Mircea Eliade refers to as
-"ideology" that describes what their enterprise is all about.
+to process language, sounds, and images over the last decade. But along with these
+real technical accomplishments comes what Mircea Eliade refers to as
+an "ideology" that describes what their enterprise is up to.
 
 For instance, Elon Musk [has
 predicted](https://www.ft.com/content/027b133f-f7e3-459d-95bf-8afd815ae23d)
 that AI will "overtake" human intelligence "next year." *Forbes Magazine*
 worries (or hopes?) that ["Artificial Superintelligence Could Be Humanity's
 Final Invention"](https://www.forbes.com/sites/bernardmarr/2024/10/31/why-artificial-superintelligence-could-be-humanitys-final-invention/).
+Raymond Kurzweil asserts that we are entering into the age of "spiritual
+machines." One can easily find a multitude of similar extravagant claims with a
+simple Internet search.
 
+Such views have in common the idea that the dilemma we face in our human
+existence, of finding ourselves born into a world that we did not create and
+whose purpose we do not know, can be solved by *technical* means.
 
 Thus, it may be of interest to look into the past, at some similar enterprises
-achieving genuine technical breakthroughs, accompanied by an ideology of
+that achieved genuine technical breakthroughs, while accompanied by an ideology of
 dubious validity. In doing so, we will make extensive use of Eliade's book *The
 Forge and the Crucible*. In it, he traces how the ideology associated with
-metallurgy and mining gradually gave birth to alchemy. (I don't particularly
-like this use of "ideology," but, having been unable to come up with a better
-word, I will use Eliade's term.)
+metallurgy and mining gradually gave birth to alchemy, and how that ideology
+was often utopian in its promises of what these new technologies could achieve.
+(I don't particularly like this use of "ideology," but, having been unable to
+come up with a better word, I will use Eliade's term.)
 
 
 
@@ -142,6 +149,7 @@ in the pathetic program of the industrial societies, whose aim is the total
 Transmutation of nature" 172
 
 
+
 No one today would suggest that, in order to appreciate stainless steel cutlery
 or iron grill work, we must acknowledge the occult properties of iron, or that
 to form a metal alloy requires sexual purity on the part of the metallurgist.
@@ -150,9 +158,16 @@ produce offspring to appreciate Newton's theory of gravity or the calculus.
 
 Similarly, we can appreciate the genuine technical advances being achieved by
 today's AI shamans without buying into their occult fantasies of creating
-"spiritual machines" by chanting magical incantations over silicon crystals.
+"spiritual machines" or fundamentally altering human existence
+by chanting magical incantations over silicon crystals.
 
-
+Furthermore, we ought to recognize that the technological "utopias," whether
+those of the earlier alchemists, or those of our modern, AI alchemists, do not
+even approach the fundamental mystery of human existence: what are our lives
+*for*? If I have no idea *why* I am alive, or what I ought to be doing while I
+am, simply extending the span of my life and making it easier for me to avoid
+disease and hardship is only a means of drawing out my existential angst over a
+longer and longer stretch of meaningless existence.
 
 
 
