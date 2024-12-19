@@ -99,10 +99,18 @@ blemishes from the most base metal, can wash unclean things from the body and
 prevents decay of the body to such an extent that it prolongs life by several
 centuries" 167
 
-This is analogies to the transhumanist dream of "uploading" human consciousness
-into a machine not subject to physical decay.
+Compare this to AI promoter Dario Amodei's claims in his essay, ["Machines of
+Loving Grace"](https://darioamodei.com/machines-of-loving-grace):
 
+"But I suspect AI-accelerated biology will greatly expand what is possible:
+weight, physical appearance, reproduction, and other biological processes will
+be fully under people’s control. We’ll refer to these under the heading of
+biological freedom: the idea that everyone should be empowered to choose what
+they want to become and live their lives in the way that most appeals to
+them... [so] that most of those currently alive today will be able to live as long
+as they want."
 
+Eliade says of the mystical metallurgist and alchemist that,
 "in taking upon himself the responsibility of changing Nature, man put himself
 in the place of Time; that which would have required millennia or aeons to
 'ripen' in the depths of the earth, the metallurgist and alchemist claim to be
