@@ -111,7 +111,7 @@ Loving Grace"](https://darioamodei.com/machines-of-loving-grace):
 
 "But I suspect AI-accelerated biology will greatly expand what is possible:
 weight, physical appearance, reproduction, and other biological processes will
-be fully under people’s control. We’ll refer to these under the heading of
+be fully under people's control. We'll refer to these under the heading of
 biological freedom: the idea that everyone should be empowered to choose what
 they want to become and live their lives in the way that most appeals to
 them... [so] that most of those currently alive today will be able to live as long
@@ -132,10 +132,19 @@ afternoon..." (Since computers have operated at many diffferent speeds, I have
 no idea whjat "digital speeds" are.) All of humanity's understanding of the
 natural world, achieved over many millenia, will be surpassed in an afternoon!
 [*Time Magazine*](https://time.com/6310115/ai-revolution-reshape-the-world/)
-claims that "We are facing a step change in what’s possible for
+claims that "We are facing a step change in what's possible for
 individual people to do, and at a previously unthinkable pace."
 
 
+
+The old alchemists sought to perfect matter by, for instance, turning base metals into gold,
+As Eliade writes, "Alchemical transmutation is therefore equivalent to the perfecting of matter or, in Christian
+terminology, to its redemption." (151)
+Our new alchemists instead
+seek to perfect matter by turning stupid matter into matter that can compute:
+"The point of all these... numbers is that extremely
+little of the stuff on earth is devoted to useful computation. This is even more true when we consider all the dumb
+matter in the earths midst." (Kurzweil, 259)
 
 
 Eliade himself explicitly recognized that the alchemist's dream has not died with the
@@ -168,6 +177,12 @@ even approach the fundamental mystery of human existence: what are our lives
 am, simply extending the span of my life and making it easier for me to avoid
 disease and hardship is only a means of drawing out my existential angst over a
 longer and longer stretch of meaningless existence.
+
+For example, Kurzweil never seems to consider if these "silicon-based humans" need a purpose.
+Let us say we grant that his fantasy of a world in which most "humans" are actually
+machines comes true, won't any of them ever ask "What is the point of all this computation we are doing?"
+Or will they be fully satisfied simply to compute more and more things, faster and faster, without any clue as to why
+they are doing so?
 
 
 
