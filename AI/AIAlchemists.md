@@ -4,7 +4,7 @@
 AI researchers have achieved genuine breakthroughs in the ability of computers
 to process language, sounds, and images over the last decade. But along with these
 real technical accomplishments comes what Mircea Eliade refers to as
-an "ideology" that describes what their enterprise is up to.
+an "ideology" that describes what many of them think their enterprise is doing.
 
 For instance, Elon Musk [has
 predicted](https://www.ft.com/content/027b133f-f7e3-459d-95bf-8afd815ae23d)
@@ -12,10 +12,10 @@ that AI will "overtake" human intelligence "next year." *Forbes Magazine*
 worries (or hopes?) that ["Artificial Superintelligence Could Be Humanity's
 Final Invention"](https://www.forbes.com/sites/bernardmarr/2024/10/31/why-artificial-superintelligence-could-be-humanitys-final-invention/).
 Raymond Kurzweil asserts that we are entering into the age of "spiritual
-machines." One can easily find a multitude of similar extravagant claims with a
+machines." One can easily find a multitude of similar utopian claims with a
 simple Internet search.
 
-Such views have in common the idea that the dilemma we face in our human
+Often, the suggestion is that the dilemma we face in our human
 existence, of finding ourselves born into a world that we did not create and
 whose purpose we do not know, can be solved by *technical* means.
 
@@ -28,16 +28,11 @@ was often utopian in its promises of what these new technologies could achieve.
 (I don't particularly like this use of "ideology," but, having been unable to
 come up with a better word, I will use Eliade's term.)
 
-
-
-Eliade writes, of primitive metallurgy, "Very early on we are confronted with
-the notion that ores "grow" in the belly of the Earth after the manner of
-embryos." (8)
-
-Much in the way that large language models are supposed to be "learning" as
-they are being programmed.
-
-
+Many people think of alchemy as primitive chemistry, attempting to turn lead
+into gold, and have no idea that metallurgy and mining were ever anything other
+than purely practical activities. But Eliade demonstrates that all three fields
+always involved mystical, occult ideologies that saw these activities as far
+more than mere technology. As he put it:
 
 "What what the smelter, smith and alchemist have in common is that all three
 lay claim to a particular magico-religious experience in their relations with
@@ -46,26 +41,26 @@ the initiatory rights of their trades. All three work on a Matter which they
 hold to be at once alive and sacred, and in their labours they pursue the
 transformation of matter, its perfection and its transmutation." (8-9)
 
-[Writing in *The Economist*](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world),
-"futurist" Ray Kurzweil promises that AI will
-deliver just such a perfection of the physical world.
+One of our leading modern alchemists, Ray Kurzweil,
+[writing in *The Economist*](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world),
+promises that AI will deliver just such a perfection of the physical world.
 
 
+Eliade writes, of primitive metallurgy, "Very early on we are confronted with
+the notion that ores 'grow' in the belly of the Earth after the manner of
+embryos." (8)
 
+Much in the way that large language models are supposed to be "learning" as
+they are being programmed.
 
-11: soteriological function of alchemy 
-
-20: magical rock crystal: silicon!
-
-24: the image, the symbol and the right anticipate – sometimes even make possible – the practical applications of a discovery.
-
-
-29: the tools of the Smith also shared the sacred quality. The hammer,
-thebellows, and the anvil are revealed to be animate miraculous objects. They
+Indeed, the tools of these trades themselves were regarded as magical, per
+Eliade: "The tools of the Smith also shared the sacred quality. The hammer,
+the bellows, and the anvil are revealed to be animate miraculous objects. They
 were regarded as capable of operating by their own magico-religious force,
-unassisted by the smith.
+unassisted by the smith."
 
-Much like the LLM today!
+This is very similar to the belief that large-language models themselves
+"understand" their input and "learn" from it.
 
 
 63: the transformation of holy matter (which is what metal is) demands for its accomplishment the sacrifice of a human being
@@ -129,13 +124,11 @@ The *Forbes* article linked to above says "Unlike human intelligence, which is
 constrained by biology, ASI would operate at digital speeds... Imagine a being
 that could read and understand every scientific paper ever written in an
 afternoon..." (Since computers have operated at many diffferent speeds, I have
-no idea whjat "digital speeds" are.) All of humanity's understanding of the
+no idea what "digital speeds" are.) All of humanity's understanding of the
 natural world, achieved over many millenia, will be surpassed in an afternoon!
 [*Time Magazine*](https://time.com/6310115/ai-revolution-reshape-the-world/)
 claims that "We are facing a step change in what’s possible for
 individual people to do, and at a previously unthinkable pace."
-
-
 
 
 Eliade himself explicitly recognized that the alchemist's dream has not died with the
