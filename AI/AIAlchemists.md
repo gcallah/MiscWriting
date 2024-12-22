@@ -2,9 +2,9 @@
 
 
 AI researchers have achieved genuine breakthroughs in the ability of computers
-to process language, sounds, and images over the last decade. But along with these
-real technical accomplishments comes what Mircea Eliade refers to as
-an "ideology" that describes what many of them think their enterprise is doing.
+to process language, sounds, and imametallurgyges over the last decade. But these
+significant technical accomplishments have been accompanied by a constellation
+of non-technical propositions about what these advances signify.
 
 For instance, Elon Musk [has
 predicted](https://www.ft.com/content/027b133f-f7e3-459d-95bf-8afd815ae23d)
@@ -20,19 +20,22 @@ existence, of finding ourselves born into a world that we did not create and
 whose purpose we do not know, can be solved by *technical* means.
 
 Thus, it may be of interest to look into the past, at some similar enterprises
-that achieved genuine technical breakthroughs, while accompanied by an ideology of
-dubious validity. In doing so, we will make extensive use of Eliade's book *The
-Forge and the Crucible*. In it, he traces how the ideology associated with
+that achieved genuine technical breakthroughs, while accompanied by speculative
+ideas of dubious validity. In doing so, we will make extensive use of Mircea
+Eliade's book *The
+Forge and the Crucible*. In it, he traces how the "ideology" associated with
 metallurgy and mining gradually gave birth to alchemy, and how that ideology
 was often utopian in its promises of what these new technologies could achieve.
 (I don't particularly like this use of "ideology," but, having been unable to
 come up with a better word, I will use Eliade's term.)
 
-Many people think of alchemy as primitive chemistry, attempting to turn lead
-into gold, and have no idea that metallurgy and mining were ever anything other
-than purely practical activities. But Eliade demonstrates that all three fields
+Eliade's central thesis is that early mining, early metallurgy, and alchemy were
+all largely *spiritual* practices. That claim is likely surprising to most of our readers.
+Typically, alchemy is thought of as primitive chemistry, attempting to turn lead
+into gold, and metallurgy and mining as
+purely practical activities. But Eliade demonstrates that all three fields
 always involved mystical, occult ideologies that saw these activities as far
-more than mere technology. As he put it:
+more than mere technical disciplines. As he put it:
 
 "What what the smelter, smith and alchemist have in common is that all three
 lay claim to a particular magico-religious experience in their relations with
@@ -72,31 +75,9 @@ perhaps even the belief that man, by his own work, is capable of superseding
 the process of nature.
 
 
-The ubiquity of alchemy
 
-
-It is of note that the sexual imagery, the idea of the union of male and female
-elements, is not explicit in the soteriological AI literature
-????
-
-
-Isaac Newton and alchemy
-
-https://www.neh.gov/humanities/2011/januaryfebruary/feature/newton-the-last-magician
-
-Consider this line in a recipe for "sophic mercury," which dissolved gold and
-allowed the precious metal to "vegetate" and mature into the philosopher's
-stone: "Marry [sulfur] with , that is our [mercury] which is impregnated with
-must be espoused with our gold then hast thou two sulphurs married & two s of
-one of[f]spring whose father is the [gold] & [silver] the mother."
-
-This led Keynes, who was responsible for bringing to light Newton's devotion to
-alchemy, to call Newton "the last of the magicians": but Keynes himself might
-be considered a latter day magician, his theories transforming profligate
-spending and useless work into prosperity! (Eliade saw the "systems of
-political economy" as carrying forward the alchemist's dream.)
-
-Roger Bacon wrote about a "medicine, which gets rid of impurities and all
+Roger Bacon, often considered a forerunner of the Scientific Revolution,
+wrote about a "medicine, which gets rid of impurities and all
 blemishes from the most base metal, can wash unclean things from the body and
 prevents decay of the body to such an extent that it prolongs life by several
 centuries" 167
@@ -139,6 +120,28 @@ seek to perfect matter by turning stupid matter into matter that can compute:
 "The point of all these... numbers is that extremely
 little of the stuff on earth is devoted to useful computation. This is even more true when we consider all the dumb
 matter in the earths midst." (Kurzweil, 259)
+
+Lest anyone doubt that a practitioner can make enormous technical advances
+while yet embracing a dubious ideology, we offer you... Isaac Newton and alchemy.
+
+John Maynard Keynes was upset by the low price that Isaac Newton's papers had
+fetched at auction, and so he began buying them up himself. Whilst doing so, he
+uncovered Newton's enduring interest in alchemy, a subject to which he devoted
+more time than he did to mathematics or physics.
+
+This led Keynes to call Newton
+["the last of the magicians."](https://www.neh.gov/humanities/2011/januaryfebruary/feature/newton-the-last-magician)
+(However, Keynes himself might
+be considered a latter-day magician, his theories transforming profligate
+spending and useless work into prosperity! In fact, Eliade saw the "systems of
+political economy" as carrying forward the alchemist's dream.)
+
+As an example of what Newton spent a large amount of his time doing,
+consider this line in Newton's recipe for "sophic mercury," which dissolved gold and
+allowed the precious metal to "vegetate" and mature into the philosopher's
+stone: "Marry [sulfur] with , that is our [mercury] which is impregnated with
+must be espoused with our gold then hast thou two sulphurs married & two s of
+one of[f]spring whose father is the [gold] & [silver] the mother."
 
 
 Eliade himself explicitly recognized that the alchemist's dream has not died with the
