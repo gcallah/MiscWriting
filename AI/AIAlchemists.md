@@ -2,9 +2,9 @@
 
 
 AI researchers have achieved genuine breakthroughs in the ability of computers
-to process language, sounds, and imametallurgyges over the last decade. But these
+to process language, sounds, and images over the last decade. But these
 significant technical accomplishments have been accompanied by a constellation
-of non-technical propositions about what these advances signify.
+of non-technical propositions about what these advances mean.
 
 For instance, Elon Musk [has
 predicted](https://www.ft.com/content/027b133f-f7e3-459d-95bf-8afd815ae23d)
@@ -12,10 +12,9 @@ that AI will "overtake" human intelligence "next year." *Forbes Magazine*
 worries (or hopes?) that ["Artificial Superintelligence Could Be Humanity's
 Final Invention"](https://www.forbes.com/sites/bernardmarr/2024/10/31/why-artificial-superintelligence-could-be-humanitys-final-invention/).
 Raymond Kurzweil asserts that we are entering into the age of "spiritual
-machines." One can easily find a multitude of similar utopian claims with a
-simple Internet search.
-
-Often, the suggestion is that the dilemma we face in our human
+machines." One can easily find a multitude of similar statements with a
+simple Internet search. Behind these claims lies the fantasy that
+the dilemma we face in our human
 existence, of finding ourselves born into a world that we did not create and
 whose purpose we do not know, can be solved by *technical* means.
 
@@ -46,10 +45,15 @@ transformation of matter, its perfection and its transmutation." (8-9)
 
 One of our leading modern alchemists, Ray Kurzweil,
 [writing in *The Economist*](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world),
-promises that AI will deliver just such a perfection of the physical world.
+promises that "AI will transform the physical world."
 
+Right up until the last few centuries, metallurgy and mining were surrounded by
+mystical rites and attitudes. Creating new furnaces or new mines were preceded
+by periods of ritual purity that culminated in sacrificial rites; Eliade writes
+"the transformation of holy matter (which is what metal is) demands for its
+accomplishment the sacrifice of a human being."
 
-Eliade writes, of primitive metallurgy, "Very early on we are confronted with
+He writes, of primitive metallurgy, "Very early on we are confronted with
 the notion that ores 'grow' in the belly of the Earth after the manner of
 embryos." (8)
 
@@ -57,27 +61,24 @@ Much in the way that large language models are supposed to be "learning" as
 they are being programmed.
 
 Indeed, the tools of these trades themselves were regarded as magical, per
-Eliade: "The tools of the Smith also shared the sacred quality. The hammer,
+Eliade: "The tools of the smith also shared the sacred quality. The hammer,
 the bellows, and the anvil are revealed to be animate miraculous objects. They
 were regarded as capable of operating by their own magico-religious force,
 unassisted by the smith."
+Just as large-language models are regarded as capable of 
+understanding their input and learning from it, unassisted by the programmer.
 
-This is very similar to the belief that large-language models themselves
-"understand" their input and "learn" from it.
+Eliade shows that the ideology behind alchemy originated in earlier work with
+metals:
 
-
-63: the transformation of holy matter (which is what metal is) demands for its accomplishment the sacrifice of a human being
-
-
-75: to sum up: in the symbols and rites accompanying metallurgical operations
+"To sum up: in the symbols and rites accompanying metallurgical operations
 there comes into being the idea of an active collaboration of man and nature,
 perhaps even the belief that man, by his own work, is capable of superseding
-the process of nature.
-
+the process of nature." (75)
 
 
 Roger Bacon, often considered a forerunner of the Scientific Revolution,
-wrote about a "medicine, which gets rid of impurities and all
+wrote about alchemy as a "medicine, which gets rid of impurities and all
 blemishes from the most base metal, can wash unclean things from the body and
 prevents decay of the body to such an extent that it prolongs life by several
 centuries" 167
@@ -139,47 +140,44 @@ political economy" as carrying forward the alchemist's dream.)
 As an example of what Newton spent a large amount of his time doing,
 consider this line in Newton's recipe for "sophic mercury," which dissolved gold and
 allowed the precious metal to "vegetate" and mature into the philosopher's
-stone: "Marry [sulfur] with , that is our [mercury] which is impregnated with
-must be espoused with our gold then hast thou two sulphurs married & two s of
+stone: "Marry [sulfur] with... [mercury] which is impregnated with [and]
+must be espoused with our gold then hast thou two sulphurs married & two... of
 one of[f]spring whose father is the [gold] & [silver] the mother."
 
-
 Eliade himself explicitly recognized that the alchemist's dream has not died with the
-death of alchemy: " the idea of a new Epoch, crystallized around the myth of
+death of alchemy: "the idea of a new Epoch, crystallized around the myth of
 infinite progress and boosted by the experimental sciences, and the progress of
 industrialization which dominated and inspired the whole of the 19th century,
-takes up and carries forward... the millennary dream of the alchemist." 172
-
-"visionaries myth of the perfection... of Nature survives, in camouflage form,
+takes up and carries forward... the millennary dream of the alchemist...
+visionaries myth of the perfection... of Nature survives, in camouflage form,
 in the pathetic program of the industrial societies, whose aim is the total
-Transmutation of nature" 172
-
+Transmutation of nature." (172)
 
 
 No one today would suggest that, in order to appreciate stainless steel cutlery
 or iron grill work, we must acknowledge the occult properties of iron, or that
 to form a metal alloy requires sexual purity on the part of the metallurgist.
-Nor would we have to buy into a theory of how to marry mercury and sulphur to
-produce offspring to appreciate Newton's theory of gravity or the calculus.
+Nor would we have to be ready to celebrate the marriage of mercury and sulphur
+to appreciate Newton's theory of gravity or the calculus.
 
 Similarly, we can appreciate the genuine technical advances being achieved by
 today's AI shamans without buying into their occult fantasies of creating
 "spiritual machines" or fundamentally altering human existence
-by chanting magical incantations over silicon crystals.
+by passing magical incantations over silicon crystals.
 
 Furthermore, we ought to recognize that the technological "utopias," whether
 those of the earlier alchemists, or those of our modern, AI alchemists, do not
-even approach the fundamental mystery of human existence: what are our lives
+even address the fundamental mystery of human existence: what are our lives
 *for*? If I have no idea *why* I am alive, or what I ought to be doing while I
 am, simply extending the span of my life and making it easier for me to avoid
 disease and hardship is only a means of drawing out my existential angst over a
 longer and longer stretch of meaningless existence.
 
-For example, Kurzweil never seems to consider if these "silicon-based humans" need a purpose.
+Someone like Kurzweil never seems to consider if these "silicon-based humans" need a purpose.
 Let us say we grant that his fantasy of a world in which most "humans" are actually
 machines comes true, won't any of them ever ask "What is the point of all this computation we are doing?"
-Or will they be fully satisfied simply to compute more and more things, faster and faster, without any clue as to why
-they are doing so?
+Or will they be fully satisfied simply to compute more and more things, faster
+and faster, without any clue as to what end they perform all of this computation?
 
 
 
