@@ -11,7 +11,8 @@ predicted](https://www.ft.com/content/027b133f-f7e3-459d-95bf-8afd815ae23d)
 that AI will "overtake" human intelligence "next year." *Forbes Magazine*
 worries (or hopes?) that ["Artificial Superintelligence Could Be Humanity's
 Final Invention"](https://www.forbes.com/sites/bernardmarr/2024/10/31/why-artificial-superintelligence-could-be-humanitys-final-invention/).
-Raymond Kurzweil asserts that we are entering into the age of "spiritual
+One of our leading new alchemists, Raymond Kurzweil,
+asserts that we are entering into the age of "spiritual
 machines." One can easily find a multitude of similar statements with a
 simple Internet search. Behind these claims lies the fantasy that
 the dilemma we face in our human
@@ -43,7 +44,7 @@ the initiatory rights of their trades. All three work on a Matter which they
 hold to be at once alive and sacred, and in their labours they pursue the
 transformation of matter, its perfection and its transmutation." (8-9)
 
-One of our leading modern alchemists, Ray Kurzweil,
+Similarly, Kurzweil,
 [writing in *The Economist*](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world),
 promises that "AI will transform the physical world."
 
@@ -117,10 +118,11 @@ The old alchemists sought to perfect matter by, for instance, turning base metal
 As Eliade writes, "Alchemical transmutation is therefore equivalent to the perfecting of matter or, in Christian
 terminology, to its redemption." (151)
 Our new alchemists instead
-seek to perfect matter by turning stupid matter into matter that can compute:
+seek to perfect matter by turning stupid matter into matter that can compute.
+In  *The Age of Spiritual Machines*, Kurzweil says,
 "The point of all these... numbers is that extremely
 little of the stuff on earth is devoted to useful computation. This is even more true when we consider all the dumb
-matter in the earths midst." (Kurzweil, 259)
+matter in the earths midst." (259)
 
 Lest anyone doubt that a practitioner can make enormous technical advances
 while yet embracing a dubious ideology, we offer you... Isaac Newton and alchemy.
