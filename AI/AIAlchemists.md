@@ -5,7 +5,7 @@ Gene Callahan
 AI researchers have achieved genuine breakthroughs in the ability of computers
 to process language, sounds, and images over the last decade. But these
 significant technical accomplishments have been accompanied by a constellation
-of non-technical propositions about what these advances mean.
+of non-technical claims about what these advances mean.
 
 For instance, Elon Musk [has
 predicted](https://www.ft.com/content/027b133f-f7e3-459d-95bf-8afd815ae23d)
@@ -31,53 +31,47 @@ was often utopian in its promises of what these new technologies could achieve.
 come up with a better word, I will use Eliade's term.)
 
 Eliade's central thesis is that early mining, early metallurgy, and alchemy were
-all largely *spiritual* practices. That claim is likely surprising to most of our readers.
+all largely *spiritual* practices. That claim is likely surprising to many readers.
 Typically, alchemy is thought of as primitive chemistry, attempting to turn lead
 into gold, and metallurgy and mining as
 purely practical activities. But Eliade demonstrates that all three fields
 always involved mystical, occult ideologies that saw these activities as far
 more than mere technical disciplines. As he put it:
 
-"What what the smelter, smith and alchemist have in common is that all three
+"What the smelter, smith and alchemist have in common is that all three
 lay claim to a particular magico-religious experience in their relations with
 matter; this experience is their monopoly and its secret is transmitted through
 the initiatory rights of their trades. All three work on a Matter which they
 hold to be at once alive and sacred, and in their labours they pursue the
 transformation of matter, its perfection and its transmutation." (8-9)
-
-Similarly, Kurzweil,
+(Similarly, Kurzweil,
 [writing in *The Economist*](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world),
-promises that "AI will transform the physical world."
+promises that "AI will transform the physical world.")
 
 Right up until the last few centuries, metallurgy and mining were surrounded by
 mystical rites and attitudes. Creating new furnaces or new mines were preceded
 by periods of ritual purity that culminated in sacrificial rites; Eliade writes
 "the transformation of holy matter (which is what metal is) demands for its
 accomplishment the sacrifice of a human being."
-
-He writes, of primitive metallurgy, "Very early on we are confronted with
+Regarding primitive metallurgy, Eliade notes that "Very early on we are confronted with
 the notion that ores 'grow' in the belly of the Earth after the manner of
-embryos." (8)
-
-Much in the way that large language models are supposed to be "learning" as
-they are being programmed.
+embryos." (8) (Much in the way that large language models are supposed
+to be growing in knowledge as they are being programmed.)
 
 Indeed, the tools of these trades themselves were regarded as magical, per
 Eliade: "The tools of the smith also shared the sacred quality. The hammer,
 the bellows, and the anvil are revealed to be animate miraculous objects. They
 were regarded as capable of operating by their own magico-religious force,
-unassisted by the smith."
-Just as large-language models are regarded as capable of 
-understanding their input and learning from it, unassisted by the programmer.
+unassisted by the smith." (Just as LLMs are regarded as capable of 
+understanding their input and learning from it, unassisted by the programmer.)
 
-Eliade shows that the ideology behind alchemy originated in earlier work with
+Eliade traces the ideology behind alchemy to its origin in earlier work with
 metals:
 
 "To sum up: in the symbols and rites accompanying metallurgical operations
 there comes into being the idea of an active collaboration of man and nature,
 perhaps even the belief that man, by his own work, is capable of superseding
 the process of nature." (75)
-
 
 Roger Bacon, often considered a forerunner of the Scientific Revolution,
 wrote about alchemy as a "medicine, which gets rid of impurities and all
@@ -115,7 +109,10 @@ claims that "We are facing a step change in what's possible for
 individual people to do, and at a previously unthinkable pace."
 
 
-The old alchemists sought to perfect matter by, for instance, turning base metals into gold,
+The old alchemists sought to perfect matter by, for instance, turning base metals into gold.
+(This is the kernel of truth at the core of the common misapprehension of alchemists as seekers of wealth by turning
+lead into gold: they did, indeed, seek the recipe for transforming "base" metals into gold,
+but this was because gold was "spiritually pure," and not because it was more expensive.)
 As Eliade writes, "Alchemical transmutation is therefore equivalent to the perfecting of matter or, in Christian
 terminology, to its redemption." (151)
 Our new alchemists instead
@@ -123,9 +120,9 @@ seek to perfect matter by turning stupid matter into matter that can compute.
 In  *The Age of Spiritual Machines*, Kurzweil says,
 "The point of all these... numbers is that extremely
 little of the stuff on earth is devoted to useful computation. This is even more true when we consider all the dumb
-matter in the earths midst." (259)
+matter in the earth's [core]." (259)
 
-And like how the alchemy of old "delivers Nature from its own laws" (130),
+And like how the alchemy of old "delivers Nature from its own laws" (Eliade, 130),
 so does the new alchemy: "The laws of physics are not
 repealed by intelligence, but they effectively evaporate in its presence." (Kurzweil, 260)
 
@@ -141,7 +138,7 @@ This led Keynes to call Newton
 ["the last of the magicians."](https://www.neh.gov/humanities/2011/januaryfebruary/feature/newton-the-last-magician)
 (However, Keynes himself might
 be considered a latter-day magician, his theories transforming profligate
-spending and useless work into prosperity! In fact, Eliade saw the "systems of
+spending and useless work into prosperity. In fact, Eliade saw the "systems of
 political economy" as carrying forward the alchemist's dream.)
 
 As an example of what Newton spent a large amount of his time doing,
@@ -162,10 +159,11 @@ Transmutation of nature." (172)
 
 
 No one today would suggest that, in order to appreciate stainless steel cutlery
-or iron grill work, we must acknowledge the occult properties of iron, or that
+or iron grill work, we must sacrifice chickens in a new furnace, or that
 to form a metal alloy requires sexual purity on the part of the metallurgist.
-Nor would we have to be ready to celebrate the marriage of mercury and sulphur
-to appreciate Newton's theory of gravity or the calculus.
+Nor do we have to be ready to celebrate the marriage of mercury and sulphur,
+and its offspring, the philosopher's stone, in order to appreciate
+Newton's theory of gravity or the calculus.
 
 Similarly, we can appreciate the genuine technical advances being achieved by
 today's AI shamans without buying into their occult fantasies of creating
@@ -180,11 +178,9 @@ am, simply extending the span of my life and making it easier for me to avoid
 disease and hardship only means drawing out my existential angst over a
 longer and longer stretch of meaningless existence.
 
-Someone like Kurzweil never seems to consider if these "silicon-based humans" need a purpose.
+Kurzweil and his ilk never seem to consider if these "silicon-based humans" need a purpose.
 Let us say we grant that his fantasy of a world in which most "humans" are actually
 machines comes true, won't any of them ever ask "What is the point of all this computation we are doing?"
 Or will they be fully satisfied simply to compute more and more things, faster
-and faster, without any clue as to what end they perform all of this computation?
-
-
+and faster, without any clue about for what end they perform all of these calculations?
 
