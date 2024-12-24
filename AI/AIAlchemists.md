@@ -1,5 +1,6 @@
 # The New Alchemists
 
+Gene Callahan
 
 AI researchers have achieved genuine breakthroughs in the ability of computers
 to process language, sounds, and images over the last decade. But along with these
@@ -146,6 +147,10 @@ seek to perfect matter by turning stupid matter into matter that can compute:
 little of the stuff on earth is devoted to useful computation. This is even more true when we consider all the dumb
 matter in the earths midst." (Kurzweil, 259)
 
+And like the alchemy of old "delivers Nature from its own laws" (130),
+so does the new alchemy: "The laws of physics are not
+repealed by intelligence, but they effectively evaporate in its presence." (Kurzweil, 260)
+
 
 Eliade himself explicitly recognized that the alchemist's dream has not died with the
 death of alchemy: " the idea of a new Epoch, crystallized around the myth of
@@ -175,7 +180,7 @@ those of the earlier alchemists, or those of our modern, AI alchemists, do not
 even approach the fundamental mystery of human existence: what are our lives
 *for*? If I have no idea *why* I am alive, or what I ought to be doing while I
 am, simply extending the span of my life and making it easier for me to avoid
-disease and hardship is only a means of drawing out my existential angst over a
+disease and hardship only means drawing out my existential angst over a
 longer and longer stretch of meaningless existence.
 
 For example, Kurzweil never seems to consider if these "silicon-based humans" need a purpose.
