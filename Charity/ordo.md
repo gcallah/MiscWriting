@@ -2,7 +2,7 @@ F.A. Hayek and Ordo Amoris
 
 "But if any man have not care of his own, and especially of those of his house, he hath denied the faith, and is worse than an infidel." 1 Timothy 5:8
 
-There has been a big flap lately about Vice President J.D. Vance's citing the Christian concept of ordo amoris to defend his statement that "charity begins at home."
+There has been a big flap lately about Vice President J.D. Vance's citing the Christian concept of *ordo amoris* to defend his statement that "charity begins at home."
 
 The idea that our loves have a proper ordering, and that we owe our love first to God, then to our family, then to our
 neighbors, then to those in our region, then to our fellow countryman, and then to all humanity, certainly fits with
@@ -58,7 +58,7 @@ food shortages often bankrupts local farmers and many times is culturally and nu
 recipient country, as described, for example, here.
 (https://bruinpoliticalreview.org/articles?post-slug=u-s-international-food-aid-policies-are-harmful-and-inefficient)
 
-Many people complaining about J.D. Vance's invocation of ordo amoris have brought up the parable of the good Samaritan
+Many people complaining about J.D. Vance's invocation of *ordo amoris* have brought up the parable of the good Samaritan
 to argue that Vance's position is not very Christian. They seemingly ignored the fact that the Samaritan was being
 charitable to someone he discovered lying beaten on the very road he was traveling. The story in fact illustrates
 Hayek's point about the particular circumstances of time and place: the Samaritan could see with his own eyes that right
