@@ -1,4 +1,6 @@
-F.A. Hayek and Ordo Amoris
+# F.A. Hayek and Ordo Amoris
+
+Gene Callahan
 
 "But if any man have not care of his own, and especially of those of his house, he hath denied the faith, and is worse than an infidel." 1 Timothy 5:8
 
