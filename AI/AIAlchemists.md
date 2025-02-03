@@ -15,9 +15,9 @@ Final Invention"](https://www.forbes.com/sites/bernardmarr/2024/10/31/why-artifi
 One of our leading new alchemists, Raymond Kurzweil,
 asserts that we are entering into the age of "spiritual
 machines." One can easily find a multitude of similar statements with a
-simple Internet search. Behind these claims lies the fantasy that
-the dilemma we face in our human
-existence, of finding ourselves born into a world that we did not create and
+simple Internet search. Behind these claims lies the conceit that
+the human dilemma
+of finding ourselves born into a world that we did not create and
 whose purpose we do not know, can be solved by *technical* means.
 
 Thus, it may be of interest to look into the past, at some similar enterprises
