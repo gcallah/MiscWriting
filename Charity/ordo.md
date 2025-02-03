@@ -1,4 +1,4 @@
-# F.A. Hayek Defends Ordo Amoris
+# A Hayekian Defense of *Ordo Amoris*
 
 Gene Callahan
 
@@ -11,7 +11,8 @@ defend his statement that "charity begins at home." One former British MP went s
 
 The idea that our loves have a proper ordering, and that we owe our love first to God, then to our family, then to our
 neighbors, then to those in our region, then to our fellow countryman, and then to all humanity, certainly fits with
-common sense. It also conforms with how most people actually do behave in their lives, rather than in their theorizing.
+common sense. It also conforms with how most people actually do behave in their lives (at least in terms of the worldly
+ordering), rather than in their theorizing.
 I would guess that not a single one of the people hyperventilating over Vance's comment actually worries about the
 welfare of some child halfway around the world just as much as they do their own child.
 
@@ -23,7 +24,7 @@ We can turn to the work of the Nobel-prize-winning economist F.A. Hayek to see w
 
 "But a little reflection will show that there is beyond question a body of very important but unorganized knowledge
 which cannot possibly be called scientific in the sense of knowledge of general rules: the knowledge of the particular
-circumstances of time in place. It is with respect to this that practically every individual has some advantage over all
+circumstances of time and place. It is with respect to this that practically every individual has some advantage over all
 others because he possesses unique information of which beneficial use might be made, but of which use can be made only
 if the decisions depending on it are left to him or are made with his active cooperation... to know of and put to use a
 machine not fully employed, or somebody's skill which could be better utilized, or to be aware of a surplus stock which
@@ -34,10 +35,10 @@ While Hayek was focused on business decisions, his principle applies, perhaps ev
 charitable decisions. If my own son or daughter is struggling with a personal or social problem, I am in a privileged
 position in terms of helping them. I know their entire life history. I know what other struggles they have undergone,
 and what traumas they may have faced. I understand their character about as well as any human being can understand anyone
-else's character. I know who their friends are, who their teachers are, who their coaches are, and I know their aunts
-and uncles and grandparents.
+else's character. I know who their friends are, who their teachers are, who their coaches are, and I know their
+cousins and aunts and uncles and grandparents.
 
-When we move out of the immediate family, clearly our level of knowledge decreases. While I am familiar with my
+When we move outward from the immediate family, obviously our level of knowledge decreases. While I am familiar with my
 neighbor's child, I may not know that his parents are fighting at home. I may not know that he has taken to hanging out
 with a group of kids who are using drugs. (Of course, I may not know that about my own children, either, but I am more
 *likely* to know it.) I may not know about some physical condition he has, or some mishap he
@@ -72,7 +73,7 @@ charitable to someone he discovered lying beaten *on the very road he was travel
 Hayek's emphasis on the importance of understanding the particular circumstances of time and place:
 the Samaritan could see with his own eyes that *right in front of him* was a man who could desperately use his assistance.
 He was not shipping money thousands of miles away to the "Aid for Beaten Travelers in Baluchistan Fund," without any
-idea if such money might simply be grabbed by Kleptocrats in the far-off land and used to bolster their control over the
+idea if such money might simply be grabbed by kleptocrats in that far-off land and used to bolster their control over the
 local population.
 
 The principle of *ordo amoris* does not mean that we should never care about anybody's problems except those closest to
@@ -83,9 +84,11 @@ right that I should sacrifice some resources I had intended to devote to my chil
 people of that land. *Ordo amoris* offers us what we today might call a "default" ordering, one which can be
 "overridden" when events demand it.
 
-If we really want "effective altruism," we should recognize
-thart J.D. Vance is correct in noting that charity begins at home. And that is not only because our natural
-affections direct it there first, but also because that is where our charity is most effective.
+In short, if we really want ["effective altruism,"](https://www.effectivealtruism.org)
+we should recognize
+that J.D. Vance is correct in noting that charity begins at home. And that is not only because our natural
+affections direct it there first, but also because that is where our charity is most likely
+to be effective.
 
 
 
