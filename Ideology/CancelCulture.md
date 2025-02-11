@@ -1,5 +1,6 @@
 # Has cancel culture been canceled?
 
+And if it hasn't, should it be?
 
 Marko Elez, a software engineer working in Elon Musk's DOGE, was recently "canceled" due to some offensive remarks...
 and then uncanceled the next day.
@@ -48,7 +49,8 @@ are perfectly legitimate reasons for dismissal from a group if those actions dir
 if you work for the worldwide council on promoting veganism, but are "outed" enjoying a 32-ounce porterhouse steak at
 Peter Luger's, you have no legitimate complaint if you lose your job.
 
-Are there any legitimate limits an organization might place on an employee's speech and action outside of work,
+Now let us ask if there
+are there any legitimate limits an organization might place on an employee's speech and action outside of work,
 if they do not relate to the group's central mission? I would argue that there clearly are such limits.
 For instance, looking back to Eich's case, if instead of just disagreeing with the legalization of gay marriage, he had
 posted on social media "death to all the gays" we have a completely different story: now, gay coworkers really would
