@@ -31,7 +31,7 @@ Let us look at a paradigmatic case of bad cancel culture: the forced departure o
 the company that develops the Firefox web browser.
 Eich is, among other things, the inventor of JavaScript, which is now one of the most popular programming languages in the
 world. But he was "cancelled" when it was revealed that
-he had donated to a campaign attempting block gay marriage in California. I think this is a clear example of the cancel
+he had donated to a campaign attempting to block gay marriage in California. I think this is a clear example of the cancel
 culture that people want to get rid of: Eich simply had an opinion that was unpopular with progressives in the
 tech industry. Rather than exhibiting the tolerance that they so loudly proclaim as one of their special virtues, they showed
 themselves to be completely intolerant of his simply disagreeing with them. It is worth noting that Eich
@@ -46,7 +46,7 @@ themselves directly in opposition to the organization's stated goals. Similarly,
 can legitimately be fired for advocating for abortion rights, just as it would be legitimate to fire an employee of an
 abortion rights advocacy group for publicly declaring that "abortion is murder." And even some completely legal actions
 are perfectly legitimate reasons for dismissal from a group if those actions directly counter the group's raison d'etre:
-if you work for the worldwide council on promoting veganism, but are "outed" enjoying a 32-ounce porterhouse steak at
+if you work for the Worldwide Council on Promoting Veganism, but are "outed" enjoying a 32-ounce porterhouse steak at
 Peter Luger's, you have no legitimate complaint if you lose your job.
 
 Now let us ask if there
@@ -89,5 +89,5 @@ Now perhaps Elez has expressed sincere regret for those remarks. Musk is obvious
 with this young man than am I, which is why I say I am only "inclined" to disagree. In any case, complaints about cancel
 culture are often on target: people way too often have been turning legitimate disagreements about political policies into a
 reason too destroy a person's career. But that in no way means that *absolutely anything* someone does or says outside
-of work is not a reason for their dismissal. And, unfortunately for those who wish for systems so perfect that no
-one needs to be good, it is only our prudential judgment that can separate the sheep from the goats in this regard.
+of work is not a reason for their dismissal. And, unfortunately for those who dream of systems so perfect that no
+one will need to be good, it is only our prudential judgment that can separate the sheep from the goats in this regard.
