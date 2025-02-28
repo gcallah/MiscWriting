@@ -80,9 +80,13 @@ The Iranian revolution or the current rise of populist parties *is* the course o
 in the course of events that the person declaring them "interventions" does not like.
 
 If we place all movements towards a state of affairs we prefer in the course of events, and place any counter
-movement (no matter how large) into the category of "interventions in the course of events, then we can always conclude
-that history is moving towards our preferred state of affairs, despite the fact that it gets interrupted as frequently
-as...
+movement (no matter how large) into the category of "interventions in the course of events," then we can always conclude
+that history is moving towards our preferred state of affairs, despite the fact that history seeminngly
+gets interrupted as frequently as...
+
+
+Your side victories are the road that history is traveling, while the victories of the other side are just bumps in that
+road.
 
 
 
