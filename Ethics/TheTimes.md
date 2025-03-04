@@ -35,7 +35,8 @@ slave trade, the climate of opinion became much more accepting of slavery. We ca
 owner in 1820 answering an abolitionist by pointing out how "out of touch" the abolitionist position was.
 
 Similarly, Christianity had promoted the idea that all people are equally God's children, and thus equally deserving of
-the same respect and rights. But the rise of social Darwinism and eugenics in the late 19th century saw such views
+the same respect and rights. (And Buddhism and Islam held similar views.)
+But the rise of social Darwinism and eugenics in the late 19th century saw such views
 as antiquated, and not in keeping with "the times," since "modern biology" had refuted them. Numerous "progressives"
 in the early 20th century, such as [Woodrow Wilson and Margaret
 Sanger](https://www.independent.org/news/article.asp?id=13217),
