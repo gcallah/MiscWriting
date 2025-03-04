@@ -37,7 +37,9 @@ owner in 1820 answering an abolitionist by pointing out how "out of touch" the a
 Similarly, Christianity had promoted the idea that all people are equally God's children, and thus equally deserving of
 the same respect and rights. But the rise of social Darwinism and eugenics in the late 19th century saw such views
 as antiquated, and not in keeping with "the times," since "modern biology" had refuted them. Numerous "progressives"
-in the early 20th century thought that it was important to stop "inferior races" from breeding and weakening the genetic
+in the early 20th century, such as [Woodrow Wilson and Margaret
+Sanger](https://www.independent.org/news/article.asp?id=13217),
+thought that it was important to stop "inferior races" from breeding and weakening the genetic
 stock of the human race.
 
 In the 17th century, the absolute monarchies of Spain, and France appeared to be the "modern" model of how a state
