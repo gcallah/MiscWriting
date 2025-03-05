@@ -12,9 +12,8 @@ he told me I was "out of touch" and blocked me.
 
 Another phrase expressing this same idea is that one's opponents ideas are on ["the wrong side of
 history."](https://newhumanist.org.uk/articles/6284/wrong-side-of-history)
-And yet another common version of this sort of argument simply states the current year or century, as though that alone should
+Yet another common version of this genre of argument simply states the current year or century, as though that alone should
 make obvious which side is right in an ethical debate.
-
 For example, Katha Pollit of *The Nation* entitled a talk she gave ""What?! It's the 21st Century and We're Still
 Fighting for Reproductive Rights?" (I wonder if someone gave a talk in 1240 entitled, ""What?! It's the 13th Century and
 We're Still Fighting About Whether Trial by Ordeal Works?") This fallacy was recognized as early as Aristotle's time:
@@ -24,7 +23,7 @@ from the year.
 All of these arguments share the same premise: if what Alfred North Whitehead, in *Science and the Modern World*,
 called "the climate of opinion" favors some practice, but
 you are against it, you are obviously wrong. There is no need to even address any substantive argument you might make
-suggesting that the climate of opinion has taken a turn towards foul weather.
+suggesting that the climate of opinion looks like bad weather.
 
 Aside from the silliness of such a method of evaluating moral arguments, it also displays a profound ignorance of how
 the winds in the climate of opinion have sometimes blown this way, and sometimes that.
@@ -35,7 +34,7 @@ slave trade, the climate of opinion became much more accepting of slavery. We ca
 owner in 1820 answering an abolitionist by pointing out how "out of touch" the abolitionist position was.
 
 Similarly, Christianity had promoted the idea that all people are equally God's children, and thus equally deserving of
-the same respect and rights. (And Buddhism and Islam held similar views.)
+the same respect and rights. (And Buddhism and Islam promoted similar views.)
 But the rise of social Darwinism and eugenics in the late 19th century saw such views
 as antiquated, and not in keeping with "the times," since "modern biology" had refuted them. Numerous "progressives"
 in the early 20th century, such as [Woodrow Wilson and Margaret
@@ -61,8 +60,8 @@ mass killing of intellectuals, ethnic minorities, Cambodian Christians, and Budd
 So how do people maintain the illusion that "the times" are on their side, and people who disagree with them are "out of
 touch," when history offers so many counter examples to the times always being correct?
 
-It is by embracing an error in historical thinking that Michael Oakeshott pointed out many years ago, that of splitting
-history into "the course of events," and "interventions in the course of events."
+They do so by embracing an error in historical thinking that Michael Oakeshott pointed out many years ago, that of splitting
+history into "the course of events," and "interventions (or interruptions) in the course of events."
 
 For instance, for someone who sees liberal capitalism as what "the times" tell us is the "right side of history" (e.g.,
 Francis Fukuyama), then
@@ -79,7 +78,7 @@ The Iranian revolution or the current rise of populist parties *are* the course 
 in the course of events that the person declaring them "interventions" does not like.
 
 If we place all movements towards a state of affairs we prefer in the course of events, and place any counter
-movement (no matter how large) into the category of "interventions in the course of events," then we can always conclude
+movement (no matter how large) into the category of "interruptions in the course of events," then we can always conclude
 that history is moving towards our preferred state of affairs, despite the fact that history seeminngly
 gets interrupted as frequently as the Pope addressing a Baptist convention. You just assume that
 your side's victories are the road that history is traveling, while your defeats are just bumps in that
