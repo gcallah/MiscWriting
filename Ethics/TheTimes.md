@@ -11,12 +11,25 @@ arrangement to acquire a child. When I told him I objected to surrogacy for hete
 he told me I was "out of touch" and blocked me.
 
 Another phrase expressing this same idea is that one's opponents ideas are on ["the wrong side of
-history."](https://newhumanist.org.uk/articles/6284/wrong-side-of-history)
+history."](https://newhumanist.org.uk/articles/6284/wrong-side-of-history). For instance, Google's recent changes to its
+[AI principles](https://www.eff.org/deeplinks/2025/02/google-wrong-side-history) are on the wrong side of history, and
+[President Trump](https://www.nytimes.com/2025/02/12/opinion/trump-dei-meritocracy-civil-right.html) is *deliberately* on
+the wrong side of history.
+[Germany](https://arabcenterdc.org/resource/once-again-germany-is-on-the-wrong-side-of-history/) is on the wrong side of
+history for its support of Israel, and, in his second appearance in this essay, [Sam
+Altman](https://youtu.be/3DEPDN8oD0w?si=6Tgn8v6wzXr0Cysb) has declared that OpenAI has been on the wrong side of history
+regarding open source software.
+
 Yet another common version of this genre of argument simply states the current year or century, as though that alone should
 make obvious which side is right in an ethical debate.
 For example, Katha Pollit of *The Nation* entitled a talk she gave ""What?! It's the 21st Century and We're Still
 Fighting for Reproductive Rights?" (I wonder if someone gave a talk in 1240 entitled, ""What?! It's the 13th Century and
-We're Still Fighting About Whether Trial by Ordeal Works?") This fallacy was recognized as early as Aristotle's time:
+We're Still Fighting About Whether Trial by Ordeal Works?")
+You can even buy gay-pride t-shirts for toddlers emblazoned with a pride rainbow and the words ["Hello,
+It's the 21st
+Century"](https://www.threadless.com/shop/%40stineiva/design/hello-its-the-21st-century-pride/kids/toddler-t-shirt), as
+though just mentioning the current century could determine sexual ethics.
+It is noteworthy that this was recognized as a fallacious argument over 2000 years ago, as
 the (*argumentum ad annum*)[https://www.newoxfordreview.org/documents/is-the-natural-law-still-natural/], or argument
 from the year.
 
@@ -60,7 +73,7 @@ mass killing of intellectuals, ethnic minorities, Cambodian Christians, and Budd
 So how do people maintain the illusion that "the times" are on their side, and people who disagree with them are "out of
 touch," when history offers so many counter examples to the times always being correct?
 
-They do so by embracing an error in historical thinking that Michael Oakeshott pointed out many years ago, that of splitting
+Often, they do so by embracing an error in historical thinking that Michael Oakeshott pointed out many years ago, that of splitting
 history into "the course of events," and "interventions (or interruptions) in the course of events."
 
 For instance, for someone who sees liberal capitalism as what "the times" tell us is the "right side of history" (e.g.,
@@ -80,7 +93,7 @@ in the course of events that the person declaring them "interventions" does not 
 If we place all movements towards a state of affairs we prefer in the course of events, and place any counter
 movement (no matter how large) into the category of "interruptions in the course of events," then we can always conclude
 that history is moving towards our preferred state of affairs, despite the fact that history seeminngly
-gets interrupted as frequently as the Pope addressing a Baptist convention. You just assume that
+gets interrupted as frequently as President Trump addressing Democratic congressmen. You just assume that
 your side's victories are the road that history is traveling, while your defeats are just bumps in that
 road.
 
@@ -93,8 +106,13 @@ And this is where the use of this argument in condemning moral or policy choices
 it is a faulty analogy with a field like physics or chemistry, in which is clear when progress is being made, since the
 explanations of the field encompass more and more phenomena.
 
-But as John Gray has demonstrated at length, we simply have no reason to conclude that humanity's moral or political
-life has a similarly progressive character. So the right response, if someone tells you, "You're behind the times on
+But as [John Gray has demonstrated](https://kirkcenter.org/reviews/after-liberalismfaith/),
+we simply have no reason to conclude that humanity's moral or political
+life has a similarly progressive character. In fact, the idea it does
+is an example of the error political philosopher Eric Voegelin
+termed ["immanentizing the eschaton,"](https://www.ncregister.com/blog/dont-immanentize-the-eschaton)
+or trying to bring the kingdom of heaven down to earth.
+So the right response, if someone tells you, "You're behind the times on
 this issue," is "The times have repeatedly been wrong in the past, and so they are now."
 
 
