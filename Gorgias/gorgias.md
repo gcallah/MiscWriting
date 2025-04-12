@@ -41,7 +41,7 @@ what hard luck it will be for me if, when you're making a long speech and refusi
 I am not allowed to go away and get out of hearing." (28-29)
 
 That's right: Socrates pioneered the "Mute" button, to be clicked on whenever you find yourself in a "conversation" with
-someone who won't stop babbling on about their pet peeves, whatever is being discussed.
+someone who won't stop babbling on about whatever bee is currently in their bonnet.
 
 Which of us has not posted what we believe to be a cogent argument for some conclusion, only to be met with "LOL" as a
 response? When Socrates tells Polus that the man who establishes a tyranny is more miserable than the man who tries to establish
@@ -50,10 +50,10 @@ response:
 
 "What's this, Polus? Laughing? Is this a new type of proof, laughing at what your opponent says instead of giving reasons?" 
 
-And surely many of our readers have experienced engaging someone in an online discussion, and presenting strong evidence
-that the first assertion they made in the discussion is nonsense. But rather than either acknowledging that fact, or presenting counter-evidence,
-that person merely switches the topic by making a brand new assertion. And if that one is proven false, they just...
-switch the topic again!
+And surely many of our readers have engaged someone in an online discussion, and presented strong evidence
+that the first assertion that person made in the discussion is nonsense. But rather than either acknowledging that fact,
+or presenting counter-evidence, they merely switch topics by making a brand new assertion, unconnected to their first
+one. And if that one is proven false, they just...  switch the topic again!
 
 Socrates encountered this exact problem: "Oh, oh, Callicles, what a rogue you are! You're treating me like a child,
 changing your ground from moment to moment, to mislead me." 92
