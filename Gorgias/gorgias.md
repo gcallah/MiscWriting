@@ -64,9 +64,10 @@ accuse you of supporting whoever it is you don't want to fight: so anyone who wa
 Ukraine pro-Putin. But that tactic seems to be at least 2400 years old, since when Socrates criticizes Pericles,
 Callicles tells him, "The people who tell you that are pro-Spartans with cauliflower ears, Socrates." (118)
 
+Another common tactic employed in Internet discussions, when someone argues for an unpopular opinion, is to tell that
+person to "read the room." So, for instance, if you say, "I think that IVF is morally problematic," you may be met with
+"Read the room: even Trump favors IVF!"
 
-
-In the "marketplace of ideas," it is most often those who pander to people's base nature who win out.
 
 "Then it is quite possible to pander to the souls of a crowd, without regard to what is best for them?" 96
 
