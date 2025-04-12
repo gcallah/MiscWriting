@@ -68,8 +68,8 @@ Another common tactic employed in Internet discussions, when someone argues for 
 person to "read the room." So, for instance, if you say, "I think that IVF is morally problematic," you may be met with
 "Read the room: even Trump favors IVF!"
 
-
-"Then it is quite possible to pander to the souls of a crowd, without regard to what is best for them?" 96
+But Socrates knew that "the room" is a very unreliable meter to gauge the truth or justice of some position. He knew
+that the sophists often would "pander to the souls of a crowd, without regard to what is best for them?" 96
 
 
 "Do the orators in your opinion speak always with an eye to what is best, and make it the constant aim of their speeches
@@ -77,15 +77,6 @@ to improve their fellow-citizens as much as possible, or do they to o set out me
 sacrificing the public interest to their own personal success, and treating the assemblies like children, whom their
 only object is to please, without caring at all whether their speeches make them better or worse?" 98
 
-
-
-"we can win happiness only by directing all our own efforts, and those are the state to the realization of justice and
-self discipline, not by allowing our desires to go unchecked, and, in an attempt to satisfy them, evil without end,
-leading the life of an outlaw." 107
-
-"an orator in the proper sense" 107
-
-112: life extension fanatics
 
 
 114: the power to persuade a populous will involve becoming like that populous, and if it is corrupt, will involve becoming corrupt oneself
@@ -96,15 +87,12 @@ leading the life of an outlaw." 107
 So what wins out in the "marketplace of ideas" is whatever ideas bolster the self image of the people in that marketplace, not whichever ideas are true or best.
 
 
-"That is because the love of demos in your soul, Callicles, is putting up resistance to my argument" 115
+And seeking popularity in that marketplace can itself make one resistant to truth: "That is because the love of demos in
+your soul, Callicles, is putting up resistance to my argument" 115
 
 
  128: pandering
 
 
-Accepting Plato's case here does not yield any simple conclusion about freedom of speech. Restricting it, of course, as its own problems, such as allowing a repressive regime to silence, political opponents. But it does mean that we can not rely on the fictitious "marketplace of ideas" to move people towards the truth.
-
-
-
-
-
+Although engaging in online discussions today may often be vexing, it might be a relief to know that the problems we
+face are not unique to our age, and that Socrates offered us a guide for how to cope with them 2400 years ago.
