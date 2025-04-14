@@ -7,8 +7,8 @@ The sophists claimed to be able to teach their students how to persuade others o
 believe, so that those students could win court cases, forward their own political agendas, and so on. Socrates
 calls into question the sophists' assumption that getting one's way is the highest achievement in life.
 For instance, he argues that committing a crime and then getting away with it through oratorical skill is actually
-*worse* for the criminal who is punished, since the latter is might actually be healed of his
-wrongdoing by accepting his punishment as just.
+*worse* for the criminal than is being punished, since in the latter case he might actually be healed of his
+wrongdoing by accepting his punishment.
 
 Along the way, Socrates encounters many of the same rhetorical stunts that we will run into on the Internet today.
 For example, early in the dialogue, Socrates says to Gorgias:
@@ -20,7 +20,7 @@ speaking from motives of personal spite..."
 
 Socrates could just as easily deliver the same remarks today to anyone who has engaged in a few discussions on Facebook or
 X. It typically takes only a few rounds of back-and-forth before somebody is accusing someone else of being a fascist,
-a racist, a communist, or a brain-washed MAGA cultist.
+a libtard, a racist, a communist, or a brain-washed MAGA cultist.
 
 But Socrates also offers the remedy to this malady, at least for oneself:
 
@@ -33,7 +33,7 @@ interlocutor, who continually wanders off to deliver a long diatribe on another
 issue only tangentially related to the topic under discussion. What's worse, if you try to return his attention to the
 issue at hand, he accuses you of stifling his freedom of speech.
 Socrates, also, is only too familiar with this tactic, and knows how to handle it. When he warns Polus to "keep in check
-the loan speeches with you and Barton at the beginning of our conversation," Polus responds, "What? Am I now allowed to
+the loan speeches with you embarked on at the beginning of our conversation," Polus responds, "What? Am I now allowed to
 say as much as I choose?"
 
 Socrates replies:
@@ -78,7 +78,7 @@ that the sophists often would "pander to the souls of a crowd, without regard to
 He then asks Callicles:
 
 "Do the orators in your opinion speak always with an eye to what is best, and make it the constant aim of their speeches
-to improve their fellow-citizens as much as possible, or do they to o set out merely to gratify the citizens,
+to improve their fellow-citizens as much as possible, or do they... set out merely to gratify the citizens,
 sacrificing the public interest to their own personal success, and treating the assemblies like children, whom their
 only object is to please, without caring at all whether their speeches make them better or worse?"
 
@@ -87,7 +87,8 @@ And Callicles admits that there are many orators who indeed do not care whether 
 Socrates then points out that the power to persuade a *demos* (a people) will involve becoming like that *demos*,
 and if the people are corrupt, that will involve becoming corrupt oneself. As he says, "Each *demos* takes pleasure in
 hearing sentiments which are in harmony with its own nature and detests the reverse."
-Thus, contrary to those who declare that the "marketplace of ideas" will select the best ideas, what wins out in that
+Thus, contrary to those who declare that the "reading the room" or accepting the judgment of 
+"marketplace of ideas" will lead to the truth, what wins out in that
 marketplace is whatever ideas bolster the self-image of the people being addressed, regardless of their truth.
 And seeking popularity in that marketplace can itself make one resistant to truth, as Socrates warns Callicles: "the
 love of *demos* in your soul, Callicles, is putting up resistance to my argument"
