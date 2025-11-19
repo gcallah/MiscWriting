@@ -3,12 +3,12 @@
 
 In Plato's dialogue *Gorgias*, Socrates discusses the art of oratory with several prominent sophists:
 Gorgias, Polus, and Callicles.
-The sophists claimed to be able to teach their students how to persuade others of whatever they wanted them to
-believe, so that those students could win court cases, forward their own political agendas, and so on. Socrates
+The sophists claimed to be able to teach their students how to persuade listeners of almost anything,
+so that those students could win court cases, forward their own political agendas, and so on. Socrates
 calls into question the sophists' assumption that getting one's way is the highest achievement in life.
 For instance, he argues that committing a crime and then getting away with it through oratorical skill is actually
 *worse* for the criminal than is being punished, since in the latter case he might actually be healed of his
-wrongdoing by accepting his punishment.
+wrongdoing.
 
 Along the way, Socrates encounters many of the same rhetorical stunts that we will run into on the Internet today.
 For example, early in the dialogue, Socrates says to Gorgias:
@@ -33,7 +33,7 @@ interlocutor, who continually wanders off to deliver a long diatribe on another
 issue only tangentially related to the topic under discussion. What's worse, if you try to return his attention to the
 issue at hand, he accuses you of stifling his freedom of speech.
 Socrates, also, is only too familiar with this tactic, and knows how to handle it. When he warns Polus to "keep in check
-the loan speeches with you embarked on at the beginning of our conversation," Polus responds, "What? Am I now allowed to
+the long speeches which you embarked on at the beginning of our conversation," Polus responds, "What? Am I now allowed to
 say as much as I choose?"
 
 Socrates replies:
@@ -64,7 +64,7 @@ changing your ground from moment to moment, to mislead me."
 If you are skeptical about our country plunging into yet another war, very frequently, people in favor of the war will
 accuse you of supporting whoever it is you don't want to fight: so anyone who was against intervening in Bosnia in the
 1990s must have been pro-Milosevic, anyone against Obama's airstrikes in Syria pro-Assad, and anyone urging peace in
-Ukraine pro-Putin. But that tactic seems to be at least 2400 years old, since when Socrates criticizes Pericles,
+Ukraine pro-Putin. That tactic seems to be at least 2400 years old, since when Socrates criticizes Pericles,
 Callicles tells him, "The people who tell you that are pro-Spartans with cauliflower ears, Socrates." (The
 "cauliflower ears" is a reference to the Spartan's love of boxing.)
 
