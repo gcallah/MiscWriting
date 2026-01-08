@@ -52,6 +52,8 @@ liberal capitalist" criterion became dependent upon US defense.
 ## The Benefits
 
 
+Trump is casting off Europe as part of the American Empire.
+
 
 
 ## Objections
