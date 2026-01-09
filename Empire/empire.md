@@ -112,6 +112,9 @@ A possible answer is to surrender our empire, and pull our military back within 
 lacks prudence: following its advice would create a power vacuum, and power vacuums get filled. The most likely result
 would be China stepping in to fill it.
 
+When the Western Roman empire finally fell apart, the result was not liberation, but the dark ages. Townspeople inside the
+empire had lived down in the fertile river valleys: when the empire was gone, they moved up into fortified hill towns.
+
 
 
 
