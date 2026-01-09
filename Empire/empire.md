@@ -38,7 +38,12 @@ In gratitude, the *Optimates* assasinated Caesar. As a consequence they faced th
 Lepidus, who, having learned the lesson that their opponents could not be trusted, had them killed, drove them to
 suicide, or robbed them of all their possesions and left them destitute.
 
-Analyzing that situation using Vilfredo Pareto's theory of (the circulation of the elites)[] is informative:
+Analyzing that situation using Vilfredo Pareto's theory of (the circulation of elites)[https://en.wikipedia.org/wiki/Circulation_of_elites]
+is informative: the *Optimates* were a declining elite who were trying to retain their elite status,
+while the *Populares* were a rising elite. The first *Populare* to take power, Julius Caesar, offered the members of the
+declining elite an olive branch. Failing to recognize that this was the best offer they were going to get, the
+*Optimates* rejected his offer, and instead were wiped out.
+
 
 
 
