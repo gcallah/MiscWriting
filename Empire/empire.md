@@ -100,6 +100,22 @@ Trump is casting off Europe as part of the American Empire.
 
 ## Objections
 
+### Against Empire Building
+
+
+One person to whom I showed an early sketch of this essay didn't like it, as he "objected to empire building." But this
+is like objecting to the deforestation of the island of Manhattan: it's too late; it has already happened. Objecting to
+American empire building might have made good sense in 1848 or 1898, but today, it is already built. The question is
+what do we do with it?
+
+A possible answer is to surrender our empire, and pull our military back within the borders of the US. But that answer
+lacks prudence: following its advice would create a power vacuum, and power vacuums get filled. The most likely result
+would be China stepping in to fill it.
+
+
+
+
+
 ### It Is Better to Be Hypocritical Than Unashamedly Bad
 
 Contra Venezuela defeated America:
