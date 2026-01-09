@@ -102,8 +102,24 @@ Trump is casting off Europe as part of the American Empire.
 
 ### It Is Better to Be Hypocritical Than Unashamedly Bad
 
+Contra Venezuela defeated America:
 
+We are not in the situation in which it is ambiguous as to whether America has an empire, where the forces for
+and against an imperial America are in flux, and paying lip service to Wilsonian ideals might tilt the balance in favor
+of "no Empire."
 
+The situation is actually more like one in which someone has sired a large number of illegitimate children. Probably it was
+best if he hadn't done so. But he did, and now they exist: so does he keep trying to pretend that he's been a faithful husband
+and only has fathered hislegitimate children? Or do he admit that he has a whole bunch of other children for whom he is
+responsible, and choose to live up to that responsibility?
+
+The question of whether we ought to have acquired an empire is an interesting one, but I will not deal with it at all
+here, because I am interested in what to do about the reality that we *have* acquired one. *While* we were acquiring it,
+perhaps it *was* better that we usually pretended we were ust "promoting liberty," or something of the sort. 
+
+While the philandering husband in our analogy might've been justified in paying lipservice to marital fidelity whilst he was
+out fooling around, once he has actually sired children, failing to acknowledge that reality is no longer "vice paying
+tribute to virtue," but "vice failing to take responsibility for its [???]."
 
 
 ### The State Should Guide Us Morally
