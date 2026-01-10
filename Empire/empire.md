@@ -71,6 +71,11 @@ respected things that had endured. (They had an early understanding of the Lindy
 But besides that one large faling, the Romans in general did not concern themselves with how the residents of some
 conquered territory conducted their lives: they could 
 
+Daniel McCarthy points out that the Monroe Doctrine was similarly non-ideological: 
+
+"The Monroe Doctrine was not primarily ideological. It did not specify that the United States expected to see certain
+kinds of governments in Latin America or elsewhere in the Americas."
+(here)[https://modernagejournal.com/venezuela-and-the-donroe-doctrine/254262/]
 
 ## An Empire That Hides Its Reality Behind an Ideology
 
