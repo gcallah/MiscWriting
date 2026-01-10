@@ -51,15 +51,11 @@ Let's look at what that means.
 
 ## A Non-Ideological Empire
 
+The Romans
 
-The Romans did not have to ideologically defeat every culture they brought into their empire. They only required that
+did not have to ideologically defeat every culture they brought into their empire. They only required that
 they acknowledged the empire's sovereignty.
 
-Americans should really just acknowledge that their government rules an empire, and the government folks might admit it as well.
-
-Then the question would become, "How can we rule this empire most prudently and justly?"
-
-And at that point we'd be having a genuine discussion.
 
 
 The one failing of their tolerance was the Christians. And that was because Christianity, because of its strict monotheism, did not permit its
@@ -170,6 +166,11 @@ ways to fulfill there stewardship, as well as lessening resistance to their rule
 
 ## Conclusion
 
+Americans should really just acknowledge that their government rules an empire, and the government folks might admit it as well.
+
+Then the question would become, "How can we rule this empire most prudently and justly?"
+
+And at that point we'd be having a genuine discussion.
 
 
 
