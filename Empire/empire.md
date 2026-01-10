@@ -15,7 +15,7 @@ evidence that the process is reversible.
 I swam competitively for a number of years. I achieved my best times at about the age of 25 or so.
 I would love to be able to swim that fast again, and it's an entertaining fantasy to imagine that I could.
 
-But it's just that: a fantasy. Well I might be able to get in better shape than I am today, I cannot undo 41 years of
+But it's just that: a fantasy. While I might be able to get in better shape than I am today, I cannot undo 41 years of
 aging. My body will never perform like it was 25 again, at least until the final resurrection.
 
 Hoping to get back to the republic of the 1820s (or whatever other era the defender of small-r republicanism idealizes)
@@ -25,14 +25,16 @@ going to happen.
 The fact of the matter is that America is today a global empire. While nostalgic longing for some republican era of the
 past is understandable, actually pinning one's hopes on a revivification of that corpse is not healthy.
 
-And we have a very good cautionary example of the danger involved at the close of the Roman Republic. As I described in
+And we have a very good cautionary example of the folly of pretending that some past political form can be reincarnated in
+the changed circustances of the present. As I argue in
 *Oakeshott on Rome and America*, the spirit that had animated the Roman Republic had been well dissipated by the time of
 Julius Caesar's ascendancy. There was no realistic possibility of restoring the old republic.
 
 Brutus, Cassius, and Cato are often potrayed as civic heroes in our literature. In fact, their inability to recognize
-that their imagined republic could not be realized led to years of civil war, and even made the situation worse for
-themselves and all their supporters. Julius Caesar, after taking power, was willing to make peace with *Optimates*,
-forgiving those who had opposed him and leaving them their ???.
+that their imagined republic could not be recreated led to years of civil war, and even made the situation worse for
+themselves and all their supporters. Julius Caesar, after taking power, was willing to make
+peace with (*Optimates*)[https://en.wikipedia.org/wiki/Optimates_and_populares],
+forgiving those who had opposed him, leaving them alive and not without status or property.
 
 In gratitude, the *Optimates* assasinated Caesar. As a consequence they faced the second triumvirate of Octavius, Marc Antony, and
 Lepidus, who, having learned the lesson that their opponents could not be trusted, had them killed, drove them to
@@ -42,10 +44,10 @@ Analyzing that situation using Vilfredo Pareto's theory of (the circulation of e
 is informative: the *Optimates* were a declining elite who were trying to retain their elite status,
 while the *Populares* were a rising elite. The first *Populare* to take power, Julius Caesar, offered the members of the
 declining elite an olive branch. Failing to recognize that this was the best offer they were going to get, the
-*Optimates* rejected his offer, and instead were wiped out.
+*Optimates* rejected it, and instead were essentially wiped out.
 
-
-
+One important fact about the empire that falling upon the Roman civil wars is that it was not an ideological empire.
+Let's look at what that means.
 
 ## A Non-Ideological Empire
 
@@ -131,24 +133,29 @@ at least some importance, right? Many of the Nazis were probably telling themsel
 camps was for the greater good: is that really more important, let alone "everything," compared to the fact that they
 were committing genocide?
 
-
-
-We are not in the situation in which it is ambiguous as to whether America has an empire, where the forces for
-and against an imperial America are in flux, and paying lip service to Wilsonian ideals might tilt the balance in favor
-of "no Empire."
+Bertrand goes on to argue that the virtuous story we told ourselves about those earlier
+interventions was, like most hypocrisy, "vice paying tribute to virtue," which is surely better than unapologetic vice.
+However, we are not in the situation in which it is ambiguous as to whether America has an empire, one 
+where the forces for and against an imperial America are in flux, and paying lip service to Wilsonian ideals 
+while acquiring an empire might tilt the balance in favor of "no empire."
 
 The situation is actually more like one in which someone has sired a large number of illegitimate children. Probably it was
-best if he hadn't done so. But he did, and now they exist: so does he keep trying to pretend that he's been a faithful husband
-and only has fathered hislegitimate children? Or do he admit that he has a whole bunch of other children for whom he is
+best if he hadn't done so.
+But he *did* sire them, and now they exist.
+While the philandering husband might've been justified in paying lipservice to marital fidelity whilst he was
+out fooling around, once he has actually sired children, failing to acknowledge that reality is no longer "vice paying
+tribute to virtue," but "vice failing to take responsibility for its actions."
+
+and only has fathered his legitimate children? Or do he admit that he has a whole bunch of other children for whom he is
 responsible, and choose to live up to that responsibility?
 
 The question of whether we ought to have acquired an empire is an interesting one, but I will not deal with it at all
 here, because I am interested in what to do about the reality that we *have* acquired one. *While* we were acquiring it,
-perhaps it *was* better that we usually pretended we were ust "promoting liberty," or something of the sort. 
+perhaps it *was* better that we usually pretended we were "promoting liberty," or something of the sort. 
 
-While the philandering husband in our analogy might've been justified in paying lipservice to marital fidelity whilst he was
-out fooling around, once he has actually sired children, failing to acknowledge that reality is no longer "vice paying
-tribute to virtue," but "vice failing to take responsibility for its [???]."
+But now that we have an empire, pretending that we do not renders us incapable of talking about how to manage that
+empire as prudently and justly as possible.
+
 
 
 ### The State Should Guide Us Morally
@@ -159,6 +166,9 @@ Ideally, of course, but recently, the states main role in that area has been to 
 If the rulers of our empire recognized its proper role as currently best institution for preventing widespread violence
 and anarchy, they would understand that leaving local parts of the empire alone as much as possible is one of the best
 ways to fulfill there stewardship, as well as lessening resistance to their rule.
+
+
+## Conclusion
 
 
 
