@@ -51,17 +51,17 @@ Let's look at what that means.
 
 ## A Non-Ideological Empire
 
-The Romans
+As Michael Oakeshott wrote in his *Lectures in the History of Political Thought*, the Romans believed that they were
+"blessed by the gods... their destiny to rule the world and impose a civilization and an orderliness upon its
+barbarisms." The pragmatic folks that they were, their emphasis was on imposing order, not on forcing all of the
+subcultures within their empire to adopt Roman ideas. As a result, they did not require every culture they
+brought into their empire to adopt some Roman "ideology.: They only required that they acknowledged the empire's
+sovereignty.
 
-did not have to ideologically defeat every culture they brought into their empire. They only required that
-they acknowledged the empire's sovereignty.
-
-
-
-The one failing of their tolerance was the Christians. And that was because Christianity, because of its strict monotheism, did not permit its
-adherents to pay homage to the ancient gods of the Roman polity. The many polytheistic societies Rome had conquered were
-allowed to keep all of their local gods and traditional rites, so long as they added into those the appropriate civil
-performance of homage to the Roman gods.
+The one failing of their tolerance was the Christians. And that was because Christianity, because of its strict
+monotheism, did not permit its adherents to pay homage to the ancient gods of the Roman polity. The many polytheistic
+societies Rome had conquered were allowed to keep all of their local gods and traditional rites, so long as they added
+into those the appropriate civil performance of homage to the Roman gods.
 
 
 Jewish monotheism escaped the fate of Christianity because it was old, clearly older than Rome, and the Romans
@@ -98,7 +98,7 @@ Trump is casting off Europe as part of the American Empire.
 
 ## Objections
 
-### I'm Against Empire Building
+### Against Empire Building
 
 
 One person to whom I showed an early sketch of this essay didn't approve because he "objected to empire building." But this
