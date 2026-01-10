@@ -100,10 +100,10 @@ Trump is casting off Europe as part of the American Empire.
 
 ## Objections
 
-### Against Empire Building
+### I'm Against Empire Building
 
 
-One person to whom I showed an early sketch of this essay didn't like it, as he "objected to empire building." But this
+One person to whom I showed an early sketch of this essay didn't approve because he "objected to empire building." But this
 is like objecting to the deforestation of the island of Manhattan: it's too late; it has already happened. Objecting to
 American empire building might have made good sense in 1848 or 1898, but today, it is already built. The question is
 what do we do with it?
@@ -121,7 +121,17 @@ empire had lived down in the fertile river valleys: when the empire was gone, th
 
 ### It Is Better to Be Hypocritical Than Unashamedly Bad
 
-Contra Venezuela defeated America:
+In an essay entitled ("Venezuela killed the U.S.")[https://arnaudbertrand.substack.com/p/venezuela-killed-the-us], Araud
+Bertrand contends that although the U.S. intervened in Latin America to create regime change "at least 41 times," at
+least in the previous instances, the U.S. was hypocritical about its motives: "The story a nation tells itself is not
+trivial - it is everything."
+
+That is a weird contention on its face: surely that story is not "everything," and what the nation actually does is of
+at least some importance, right? Many of the Nazis were probably telling themselves that their work in the concentration
+camps was for the greater good: is that really more important, let alone "everything," compared to the fact that they
+were committing genocide?
+
+
 
 We are not in the situation in which it is ambiguous as to whether America has an empire, where the forces for
 and against an imperial America are in flux, and paying lip service to Wilsonian ideals might tilt the balance in favor
