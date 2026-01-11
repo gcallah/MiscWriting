@@ -35,7 +35,7 @@ Brutus, Cassius, and Cato are often potrayed as civic heroes in our literature. 
 that their imagined republic could not be recreated led to years of civil war, and even made the situation worse for
 themselves and all their supporters. Julius Caesar, after taking power, was willing to make
 peace with (*Optimates*)[https://en.wikipedia.org/wiki/Optimates_and_populares],
-forgiving those who had opposed him, leaving them alive and not without status or property.
+forgiving those who had opposed him, leaving them alive and not without status and property.
 
 In gratitude, the *Optimates* assasinated Caesar. As a consequence they faced the second triumvirate of Octavius, Marc Antony, and
 Lepidus, who, having learned the lesson that their opponents could not be trusted, had them killed, drove them to
@@ -47,7 +47,7 @@ while the *Populares* were a rising elite. The first *Populare* to take power, J
 declining elite an olive branch. Failing to recognize that this was the best offer they were going to get, the
 *Optimates* rejected it, and instead were essentially wiped out.
 
-One important fact about the empire that falling upon the Roman civil wars is that it was not an ideological empire.
+One important fact about the empire that followed the Roman civil wars is that it was not an ideological empire.
 Let's look at what that means.
 
 ## A Non-Ideological Empire
@@ -60,20 +60,16 @@ brought into their empire to adopt some Roman "ideology." They only required tha
 sovereignty.
 
 The main group falling outside the scope of Roman tolerance was the Christians.
-And that was because Christianity, because of its strict
+And that was because Christianity, due to its strict
 monotheism, did not permit its adherents to pay homage to the ancient gods of the Roman polity. The many polytheistic
 societies Rome had conquered were allowed to keep all of their local gods and traditional rites, so long as they added
 into those the appropriate civil performance of homage to the Roman gods. The Romans would have similarly allowed
 Christians their own practices, except for their steadfast (and to the Romans inexplicable) refusal to perform the
 required civic rituals.
 
-
 Jewish monotheism escaped the fate of Christianity because it was old, clearly older than Rome, and the Romans
 respected things that had endured. (They had an early understanding of the Lindy effect.)
 (https://en.wikipedia.org/wiki/Lindy_effect)
-
-But besides that one large faling, the Romans in general did not concern themselves with how the residents of some
-conquered territory conducted their lives: they could 
 
 Daniel McCarthy points out that the Monroe Doctrine was similarly non-ideological: 
 
@@ -83,6 +79,7 @@ kinds of governments in Latin America or elsewhere in the Americas."
 
 ## An Empire That Hides Its Reality Behind an Ideology
 
+In stark contract to the Roman Empire, the American Empire has often been highly ideological.
 
 Wilson
 
