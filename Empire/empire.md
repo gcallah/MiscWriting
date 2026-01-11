@@ -16,7 +16,8 @@ I swam competitively for a number of years. I achieved my best times at about th
 I would love to be able to swim that fast again, and it's an entertaining fantasy to imagine that I could.
 
 But it's just that: a fantasy. While I might be able to get in better shape than I am today, I cannot undo 41 years of
-aging. My body will never perform like it was 25 again, at least until the final resurrection.
+aging. My body will never perform like it was 25 again, at least not until the final resurrection, after which I expect
+my 1650 freestyle time will be remarkable.
 
 Hoping to get back to the republic of the 1820s (or whatever other era the defender of small-r republicanism idealizes)
 is like me hoping to match my swimming times from when I was 25. It's an attractive fantasy, but it's not
@@ -55,13 +56,16 @@ As Michael Oakeshott wrote in his *Lectures in the History of Political Thought*
 "blessed by the gods... their destiny to rule the world and impose a civilization and an orderliness upon its
 barbarisms." The pragmatic folks that they were, their emphasis was on imposing order, not on forcing all of the
 subcultures within their empire to adopt Roman ideas. As a result, they did not require every culture they
-brought into their empire to adopt some Roman "ideology.: They only required that they acknowledged the empire's
+brought into their empire to adopt some Roman "ideology." They only required that they acknowledged the empire's
 sovereignty.
 
-The one failing of their tolerance was the Christians. And that was because Christianity, because of its strict
+The main group falling outside the scope of Roman tolerance was the Christians.
+And that was because Christianity, because of its strict
 monotheism, did not permit its adherents to pay homage to the ancient gods of the Roman polity. The many polytheistic
 societies Rome had conquered were allowed to keep all of their local gods and traditional rites, so long as they added
-into those the appropriate civil performance of homage to the Roman gods.
+into those the appropriate civil performance of homage to the Roman gods. The Romans would have similarly allowed
+Christians their own practices, except for their steadfast (and to the Romans inexplicable) refusal to perform the
+required civic rituals.
 
 
 Jewish monotheism escaped the fate of Christianity because it was old, clearly older than Rome, and the Romans
