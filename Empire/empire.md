@@ -101,6 +101,26 @@ liberal capitalist" criterion became dependent upon US defense.
 ## The Benefits
 
 
+One benefit of admitting that we have an empire would be a clarification of the status of various portions of it. The
+Romans for instance had a spectrum of relationships with various parts of their empire: a territory could be classified
+as 
+
+- independent allies that were only required to support Rome in foreign policy but otherwise had full self-governance, e.g. many Italian peoples prior to the Social War
+- client kingdoms, like Judea, that retained their own king but were under somewhat tighter control from Rome, 
+- Free cities, like Athens,
+- Tributary communities 
+- Latin rights, intermediate between ally and full citizen
+- Municipia
+- Colonies
+- Provinces
+
+It is notable that most of these statuses allowed a large degree of self governance. What was not tolerated was directly
+acting against the interests of the empire as a whole, so that after, for instance, a Numidian King went to war with
+Rome, Numidia lost its status as an independent ally. Of course, a people could no longer be an independent ally if they
+were no longer an ally at all.
+
+
+
 Trump is casting off Europe as part of the American Empire.
 
 
