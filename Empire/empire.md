@@ -76,16 +76,44 @@ kinds of governments in Latin America or elsewhere in the Americas."
 
 ## An Empire That Hides Its Reality Behind an Ideology
 
-In stark contract to the Roman Empire, the American Empire has often been highly ideological.
-
-Wilson
-
-Spreading democracy
+In stark contract to the Roman Empire, the American Empire has often been highly ideological, .
 
 
-Many of the adherents of Wilsonianism were sincere. But the problem is that 
+President McKinley justified the U.S. taking possession of the Philippines based up the civilizing effect of being
+conquered by Anglo-Saxon people, rather than Spaniards:
 
-constantly punished if democracy is not spreading, and that locale..
+"It is our proud title to belong to the Anglo-Saxon race, the leaders in the march of civilization, in every age and in
+every quarter of the globe where that race enters it always remains, bringing with it the blessings of greater health
+and happiness, of a larger and more perfect fertility and of freer interchange with the commerce and arts of the world.
+It proclaims liberty; it establishes law; it enshrines religion and hastens progress; it makes the world the better for
+its being."
+
+-- McKinley, [draft of undelivered speech](https://direct.mit.edu/isec/article/48/2/49/118109/The-Meddler-s-Trap-McKinley-the-Philippines-and)
+
+But the result of our rule their produced the Marcos kleptocracy and some of the lowest living standards in East Asia.
+Despite years of communist rule in China and Vietnam, both countries nevertheless have significantly higher GDP per
+capita than does the Philippines.
+
+
+Woodrow Wilson famously justified our entry into World War I by arguing that "The world must be made safe for democracy."
+[Here.](https://historymatters.gmu.edu/d/4943/)
+
+Instead, that war made the world ripe for some of the worst, most despotic regimes ever to occupy the Earth, and created
+decades of chaos in places like the Balkans.
+
+George W. Bush used similar rhetoric to justify the wars the US was waging in Afghanistan and Iraq, for example, boasting of how
+"With the steady leadership of President Karzai, the people of Afghanistan are building a modern and peaceful
+government."
+
+https://georgewbush-whitehouse.archives.gov/news/releases/2003/11/20031106-2.html
+
+Of course, the war there would continue another two decades and the end result was the reestablishment of Taliban
+control. So we have a reckless expenditure of lives and resources in pursuit of an ideological fantasy.
+
+
+
+
+
 
 
 How much the actors in this play intended the result, that, in fact, happened, was that the states meeting the "democratic,
