@@ -1,7 +1,4 @@
-# An Empire if You Can Keep It
-
-
-## We Could not Keep It
+# An Empire, if You Can Keep It
 
 When Elizabeth Willing Powel encountered Benjamin Franklin exiting the Constitutional Convention in Philadelphia,
 she reportedly asked him, "Well, Doctor, what have we got, a republic or a monarchy?"
