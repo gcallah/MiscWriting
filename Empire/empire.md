@@ -120,8 +120,9 @@ An American empire which saw its job primarily as keeping order within its borde
 true localism than is our current regime. With our government vacillating between trying to enforce a left-wing
 ideology and a right-wing ideology, more local governance within its scope is continually being interfered with on
 matters that a pragmatic empire would recognize as irrelevant to its proper end: maintaining order. The Romans would not
-have cared if Lusitania permitted gay marriage while Armenia did not, or if Arabia used racial preferences in hiring
-while Britannia did not.
+have cared if Lusitania permitted gay marriage while Armenia did not, if Arabia used racial preferences in hiring
+while Britannia did not, or if Dacia adopted a socialist economic system while Mauretania enthusiastically embraced free
+markets.
 
 
 Trump is casting off Europe as part of the American Empire.
