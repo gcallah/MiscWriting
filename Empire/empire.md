@@ -34,14 +34,14 @@ Julius Caesar's ascendancy. There was no realistic possibility of restoring the 
 Brutus, Cassius, and Cato are often potrayed as civic heroes in our literature. In fact, their inability to recognize
 that their imagined republic could not be recreated led to years of civil war, and even made the situation worse for
 themselves and all their supporters. Julius Caesar, after taking power, was willing to make
-peace with (*Optimates*)[https://en.wikipedia.org/wiki/Optimates_and_populares],
+peace with [*Optimates*](https://en.wikipedia.org/wiki/Optimates_and_populares),
 forgiving those who had opposed him, leaving them alive and not without status and property.
 
 In gratitude, the *Optimates* assasinated Caesar. As a consequence they faced the second triumvirate of Octavius, Marc Antony, and
 Lepidus, who, having learned the lesson that their opponents could not be trusted, had them killed, drove them to
 suicide, or robbed them of all their possesions and left them destitute.
 
-Analyzing that situation using Vilfredo Pareto's theory of (the circulation of elites)[https://en.wikipedia.org/wiki/Circulation_of_elites]
+Analyzing that situation using Vilfredo Pareto's theory of [the circulation of elites](https://en.wikipedia.org/wiki/Circulation_of_elites)
 is informative: the *Optimates* were a declining elite who were trying to retain their elite status,
 while the *Populares* were a rising elite. The first *Populare* to take power, Julius Caesar, offered the members of the
 declining elite an olive branch. Failing to recognize that this was the best offer they were going to get, the
@@ -75,7 +75,7 @@ Daniel McCarthy points out that the Monroe Doctrine was similarly non-ideologica
 
 "The Monroe Doctrine was not primarily ideological. It did not specify that the United States expected to see certain
 kinds of governments in Latin America or elsewhere in the Americas."
-(here)[https://modernagejournal.com/venezuela-and-the-donroe-doctrine/254262/]
+[here](https://modernagejournal.com/venezuela-and-the-donroe-doctrine/254262/)
 
 ## An Empire That Hides Its Reality Behind an Ideology
 
@@ -91,7 +91,7 @@ Many of the adherents of Wilsonianism were sincere. But the problem is that
 constantly punished if democracy is not spreading, and that locale..
 
 
-How much the actors in this play intended result, what, in fact, happened, was that the states meeting the "democratic,
+How much the actors in this play intended the result, that, in fact, happened, was that the states meeting the "democratic,
 liberal capitalist" criterion became dependent upon US defense.
 
 
@@ -116,6 +116,12 @@ acting against the interests of the empire as a whole, so that after, for instan
 Rome, Numidia lost its status as an independent ally. Of course, a people could no longer be an independent ally if they
 were no longer an ally at all.
 
+An American empire which saw its job primarily as keeping order within its borders would, in fact, be much more open to
+true localism than is our current regime. With our government vacillating between trying to enforce a left-wing
+ideology and a right-wing ideology, more local governance within its scope is continually being interfered with on
+matters that a pragmatic empire would recognize as irrelevant to its proper end: maintaining order. The Romans would not
+have cared if Lusitania permitted gay marriage while Armenia did not, or if Arabia used racial preferences in hiring
+while Britannia did not.
 
 
 Trump is casting off Europe as part of the American Empire.
@@ -123,6 +129,36 @@ Trump is casting off Europe as part of the American Empire.
 
 
 ## Objections
+
+### Machiavellian
+
+Some will argue that my recommendation:
+
+1. Leaves America with no inspiring purpose that might unite its people; and/or:
+2. Ignores morality and adopts a Machiavellian view of government as merely a matter of capturing and keeping power.
+
+In regards to the first, why isn't being the power that brings relative order to what would other wise be a fractious
+anarchy an inspiring purpose? In a cosmos tending towards disorder, creating order is a genuine accomplishment. And, as
+[John Gray would argue](https://www.newstatesman.com/ideas/2025/10/how-to-save-british-liberalism), this sort of
+"Hobbesian liberalism" is, in fact, the most plausible and as well as the most genuinely libertarian version of
+liberalism available to us.
+
+And contra the charge of amorality, this realist view of the current American situation is moral, in that it
+prudentially acknowledges that the American empire can conceivably achieve one large moral purpose: to bring a halt to
+the "war of all against all" within its borders. However, should it instead (as it often does at present) strive to
+spread some ["comprehensive doctrine"](https://plato.stanford.edu/archives/spr2019/entries/rawls/#ReaCit) across its
+empire, it will:
+
+1. Fail in that attempt (due to the tremendous diversity of peoples within the empire) and even worse,
+2. Cripple its ability to perform the moral task it really can perform, since the attempt will foster resentment among
+   peoples not inclined to go along with the latest crusade launched from Washington.
+
+Dan McCarthy (in the same podcast linked to above) notes that the Trump administrations recent intervention in
+Venezuela, in fact, is grounded in this realist approach:
+
+"The primary US interest is not in the kind of regime that may exist in a place like Venezuela... [our limited aim is]
+we're going to take out someone like Maduro who is causing problems for us."
+
 
 ### Against Empire Building
 
@@ -145,7 +181,7 @@ empire had lived down in the fertile river valleys: when the empire was gone, th
 
 ### It Is Better to Be Hypocritical Than Unashamedly Bad
 
-In an essay entitled ("Venezuela killed the U.S.")[https://arnaudbertrand.substack.com/p/venezuela-killed-the-us], Araud
+In an essay entitled ["Venezuela killed the U.S."](https://arnaudbertrand.substack.com/p/venezuela-killed-the-us), Araud
 Bertrand contends that although the U.S. intervened in Latin America to create regime change "at least 41 times," at
 least in the previous instances, the U.S. was hypocritical about its motives: "The story a nation tells itself is not
 trivial - it is everything."
