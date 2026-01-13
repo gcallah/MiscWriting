@@ -127,49 +127,59 @@ One benefit of admitting that we have an empire would be a clarification of the 
 Romans for instance had a spectrum of relationships with various parts of their empire: a territory could be classified
 as 
 
-- independent allies that were only required to support Rome in foreign policy but otherwise had full self-governance, e.g. many Italian peoples prior to the Social War
-- client kingdoms, like Judea, that retained their own king but were under somewhat tighter control from Rome, 
-- Free cities, like Athens,
+- Independent allies, such as Numidia
+- Client kingdoms, e.g., Judea
+- Free cities, like Athens
 - Tributary communities 
-- Latin rights, intermediate between ally and full citizen
+- Latin rights territories (intermediate between ally and full citizen)
 - Municipia
 - Colonies
 - Provinces
 
 It is notable that most of these statuses allowed a large degree of self governance. What was not tolerated was directly
 acting against the interests of the empire as a whole, so that after, for instance, a Numidian King went to war with
-Rome, Numidia lost its status as an independent ally. Of course, a people could no longer be an independent ally if they
+Rome, Numidia lost its status as an independent ally. Naturally, a people could no longer be an independent ally if they
 were no longer an ally at all.
 
 An American empire which saw its job primarily as keeping order within its borders would, in fact, be much more open to
-true localism than is our current regime. With our government vacillating between trying to enforce a left-wing
-ideology and a right-wing ideology, more local governance within its scope is continually being interfered with on
-matters that a pragmatic empire would recognize as irrelevant to its proper end: maintaining order. The Romans would not
+true localism than is our current regime. With our government vacillating between trying to promote some left-wing
+ideology and trying to promote some right-wing ideology, it repeatedly interferes with local governance to promote the
+ideology *de jour*.
+A pragmatic empire would recognize that many of the issues the American Empire becomes involved with are irrelevant to
+its proper end: maintaining order. The Romans would not, for instance,
 have cared if Lusitania permitted gay marriage while Armenia did not, if Arabia used racial preferences in hiring
 while Britannia did not, or if Dacia adopted a socialist economic system while Mauretania enthusiastically embraced free
 markets.
 
-
-Trump is casting off Europe as part of the American Empire.
-
-
+Another important benefit of recognizing our real situation would be that the American government could recognize that
+some territories that have been *de facto* within the empire really should be regarded as outside it. The main consequence
+of such a recognition would be that the US military would cease being the primary defender of those territories. Perhaps
+this is what the Trump administration is doing with regard to Europe: Donations of Europe, or not particularly happy
+with American hegemony, and the United States is spending a lot of money defending these unhappy client states.
+Yet Europe has plenty of wealth and manpower to defend its own independence from, say, Russia, or China. So a realist
+audit of the current boundaries of the empire could well recommend pulling back from Europe.
 
 ## Objections
 
-### Machiavellian
+### Too Machiavellian
 
-Some will argue that my recommendation:
+Some might argue that my recommendation is "too Machiavellian," because:
 
 1. Leaves America with no inspiring purpose that might unite its people; and/or:
 2. Ignores morality and adopts a Machiavellian view of government as merely a matter of capturing and keeping power.
 
 In regards to the first, why isn't being the power that brings relative order to what would other wise be a fractious
 anarchy an inspiring purpose? In a cosmos tending towards disorder, creating order is a genuine accomplishment. And, as
-[John Gray would argue](https://www.newstatesman.com/ideas/2025/10/how-to-save-british-liberalism), this sort of
+[John Gray argues](https://www.newstatesman.com/ideas/2025/10/how-to-save-british-liberalism), this sort of
 "Hobbesian liberalism" is, in fact, the most plausible and as well as the most genuinely libertarian version of
 liberalism available to us.
 
-And contra the charge of amorality, this realist view of the current American situation is moral, in that it
+And contra the charge of amorality, the realist view of the current American situation takes morality much *more*
+seriously than does the morally kitsch notion that we are really, in our hearts, just James Stewart trying to make his
+hometown better, but who accidentally found himself establishing military bases in 80 or 90 countries.
+
+
+is moral, in that it
 prudentially acknowledges that the American empire can conceivably achieve one large moral purpose: to bring a halt to
 the "war of all against all" within its borders. However, should it instead (as it often does at present) strive to
 spread some ["comprehensive doctrine"](https://plato.stanford.edu/archives/spr2019/entries/rawls/#ReaCit) across its
@@ -185,24 +195,31 @@ Venezuela, in fact, is grounded in this realist approach:
 "The primary US interest is not in the kind of regime that may exist in a place like Venezuela... [our limited aim is]
 we're going to take out someone like Maduro who is causing problems for us."
 
+In other words, Venezuela's status as an independent ally was put at risk when Maduro repeatedly acted to subvert the
+order prevailing in the western hemisphere, by sponsoring revolutionary activities in other states and allying itself
+with extra-hemispheric powers such as Iran, Russia, and China.
+
+
 
 ### Against Empire Building
 
 
 One person to whom I showed an early sketch of this essay didn't approve because he "objected to empire building." But this
-is like objecting to the deforestation of the island of Manhattan: it's too late; it has already happened. Objecting to
-American empire building might have made good sense in 1848 or 1898, but today, it is already built. The question is
+is like objecting to the deforestation of the island of Manhattan: it's too late to object: it has already happened. Objecting to
+American empire building might have made good sense in 1848 or 1898, but today, the empire is already built. The question is
 what do we do with it?
 
-A possible answer is to surrender our empire, and pull our military back within the borders of the US. But that answer
+For those who wish America were still a small-r republic, a possible answer to that question is,
+"surrender our empire, and pull our military back within the borders of the US."
+
+But that answer
 lacks prudence: following its advice would create a power vacuum, and power vacuums get filled. The most likely result
 would be China stepping in to fill it.
 
 When the Western Roman empire finally fell apart, the result was not liberation, but the dark ages. Townspeople inside the
 empire had lived down in the fertile river valleys: when the empire was gone, they moved up into fortified hill towns.
-
-
-
+And, ironically, many of the German tribes whose incursions into the Western Empire resulted in its dissolution actually
+had the aim of living inside the empire, since that was a more desirable existence.
 
 
 ### It Is Better to Be Hypocritical Than Unashamedly Bad
@@ -230,16 +247,12 @@ While the philandering husband might've been justified in paying lipservice to m
 out fooling around, once he has actually sired children, failing to acknowledge that reality is no longer "vice paying
 tribute to virtue," but "vice failing to take responsibility for its actions."
 
-and only has fathered his legitimate children? Or do he admit that he has a whole bunch of other children for whom he is
-responsible, and choose to live up to that responsibility?
-
 The question of whether we ought to have acquired an empire is an interesting one, but I will not deal with it at all
 here, because I am interested in what to do about the reality that we *have* acquired one. *While* we were acquiring it,
 perhaps it *was* better that we usually pretended we were "promoting liberty," or something of the sort. 
 
 But now that we have an empire, pretending that we do not renders us incapable of talking about how to manage that
 empire as prudently and justly as possible.
-
 
 
 ### The State Should Guide Us Morally
