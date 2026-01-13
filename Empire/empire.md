@@ -200,7 +200,6 @@ order prevailing in the western hemisphere, by sponsoring revolutionary activiti
 with extra-hemispheric powers such as Iran, Russia, and China.
 
 
-
 ### Against Empire Building
 
 
@@ -225,11 +224,11 @@ had the aim of living inside the empire, since that was a more desirable existen
 ### It Is Better to Be Hypocritical Than Unashamedly Bad
 
 In an essay entitled ["Venezuela killed the U.S."](https://arnaudbertrand.substack.com/p/venezuela-killed-the-us), Araud
-Bertrand contends that although the U.S. intervened in Latin America to create regime change "at least 41 times," at
-least in the previous instances, the U.S. was hypocritical about its motives: "The story a nation tells itself is not
+Bertrand contends that although the U.S. intervened in Latin America to create regime change "at least 41 times,"
+thankfully, in the previous instances, the U.S. was hypocritical about its motives: "The story a nation tells itself is not
 trivial - it is everything."
 
-That is a weird contention on its face: surely that story is not "everything," and what the nation actually does is of
+That is a weird contention on its face: surely that story is not "everything": What the nation actually *does* is of
 at least some importance, right? Many of the Nazis were probably telling themselves that their work in the concentration
 camps was for the greater good: is that really more important, let alone "everything," compared to the fact that they
 were committing genocide?
@@ -257,8 +256,12 @@ empire as prudently and justly as possible.
 
 ### The State Should Guide Us Morally
 
+Another possible objection to this Hobbesian understanding of the American Empire is that one of the jobs of the state
+is to be "a wise teacher and an inculcator of good habits"
+[here](https://www.theatlantic.com/ideas/archive/2020/03/common-good-constitutionalism/609037/).
 
-Ideally, of course, but recently, the states main role in that area has been to misguide us morally.
+I agree with those who hold this for you, at least in so far as the ideal situation is that the state can take on this
+role. But recently, the state's main role in that area has been to inculcate bad habits.
 
 If the rulers of our empire recognized its proper role as currently best institution for preventing widespread violence
 and anarchy, they would understand that leaving local parts of the empire alone as much as possible is one of the best
@@ -271,7 +274,7 @@ Americans should really just acknowledge that their government rules an empire, 
 
 Then the question would become, "How can we rule this empire most prudently and justly?"
 
-And at that point we'd be having a genuine discussion.
+And at that point we'd be having a genuine conversation.
 
 
 
@@ -281,29 +284,5 @@ And at that point we'd be having a genuine discussion.
 
 
 If we admit we have an empire, we might be able to define its borders so others would know when they were stepping across them.
-
-
-
-Ahmari:
-
-"One rift inside the foreign-policy restraint camp is between:
-
-(A) Jeffersonian small-r republicans;
-
-(B) essentially American primacists who believe in pursuing different priorities than those long preferred by liberal Atlanticists.
-
-I have some (A) in me, but mostly I'm a (B)."
-
-
-
-Maybe: 
-
-Of course: because "international law" is a just an international suggestion without an international sovereign ready to enforce that law.
-
-
-There is no true law, in the city of man, without a sovereign to enforce that law.
-
-"international law" is a just an international suggestion without an international sovereign ready to enforce that law.
-
 
 
