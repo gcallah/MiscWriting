@@ -12,7 +12,7 @@ evidence that the process is reversible.
 I swam competitively for a number of years. I achieved my best times at about the age of 25 or so.
 I would love to be able to swim that fast again, and it's an entertaining fantasy to imagine that I could.
 
-But it's just that: a fantasy. While I might be able to get in better shape than I am today, I cannot undo 41 years of
+But while I might be able to get in better shape than I am today, I cannot undo 41 years of
 aging. My body will never perform like it was 25 again, at least not until the final resurrection, after which I expect
 my 1650 freestyle time will be remarkable.
 
@@ -23,7 +23,7 @@ going to happen.
 The fact of the matter is that America is today a global empire. While nostalgic longing for some republican era of the
 past is understandable, actually pinning one's hopes on a revivification of that corpse is not healthy.
 
-And we have a very good cautionary example of the folly of pretending that some past political form can be reincarnated in
+And we have a very good cautionary tale of the risk of pretending that some past political form can be reincarnated in
 the changed circustances of the present. As I argue in
 *Oakeshott on Rome and America*, the spirit that had animated the Roman Republic had been well dissipated by the time of
 Julius Caesar's ascendancy. There was no realistic possibility of restoring the old republic.
@@ -38,15 +38,7 @@ In gratitude, the *Optimates* assasinated Caesar. As a consequence they faced th
 Lepidus, who, having learned the lesson that their opponents could not be trusted, had them killed, drove them to
 suicide, or robbed them of all their possesions and left them destitute.
 
-Analyzing that situation using Vilfredo Pareto's theory of [the circulation of elites](https://en.wikipedia.org/wiki/Circulation_of_elites)
-is informative: the *Optimates* were a declining elite who were trying to retain their elite status,
-while the *Populares* were a rising elite. The first *Populare* to take power, Julius Caesar, offered the members of the
-declining elite an olive branch. Failing to recognize that this was the best offer they were going to get, the
-*Optimates* rejected it, and instead were essentially wiped out.
-
 One important fact about the empire that followed the Roman civil wars is that it was not an ideological empire.
-Let's look at what that means.
-
 As Michael Oakeshott wrote in his *Lectures in the History of Political Thought*, the Romans believed that they were
 "blessed by the gods... their destiny to rule the world and impose a civilization and an orderliness upon its
 barbarisms." The pragmatic folks that they were, their mission was imposing order.
@@ -55,28 +47,25 @@ brought into their empire to adopt some Roman "ideology." They only required tha
 sovereignty.
 
 The main group falling outside the scope of this Roman tolerance was the Christians.  Christianity, due to its strict
-monotheism, did not permit its adherents to pay homage to the ancient gods of the Roman polity. The many polytheistic
+monotheism, did not permit its adherents to pay tribute to the ancient gods of the Roman polity. The many polytheistic
 societies Rome had conquered were allowed to keep all of their local gods and traditional rites, so long as they added
 into those the appropriate civil performance of homage to the Roman gods. The Romans would have similarly allowed
 Christians their own practices, except for their steadfast (and to the Romans inexplicable) refusal to perform the
 required civic rituals.
 
 Jewish monotheism escaped the fate of Christianity because it was old, clearly older than Rome, and the Romans
-respected things that had endured. (They had an early understanding of the Lindy effect.)
-(https://en.wikipedia.org/wiki/Lindy_effect)
+respected things that had endured. (They had an early understanding of the [Lindy effect](https://en.wikipedia.org/wiki/Lindy_effect).)
 
-Daniel McCarthy points out that the Monroe Doctrine was similarly non-ideological: 
+In his piece *The Donroe Doctrine*, Daniel McCarthy points out that the Monroe Doctrine was similarly non-ideological: 
 
 "The Monroe Doctrine was not primarily ideological. It did not specify that the United States expected to see certain
 kinds of governments in Latin America or elsewhere in the Americas."
 
 https://modernagejournal.com/venezuela-and-the-donroe-doctrine/254262/
 
-In stark contract to the Roman Empire, the American Empire has often been commonly justified its foreign adventures on
-ideological ground.
-
-For example, President McKinley argued for the U.S. taking possession of the Philippines based up the civilizing effect of being
-conquered by Anglo-Saxon people, rather than Spaniards:
+In stark contract to the Roman Empire, the American Empire has commonly justified its foreign adventures on
+ideological grounds. For example, President McKinley argued for the U.S. taking possession of the Philippines based up
+the civilizing effect of being conquered by Anglo-Saxon people, rather than Spaniards:
 
 "It is our proud title to belong to the Anglo-Saxon race, the leaders in the march of civilization, in every age and in
 every quarter of the globe where that race enters it always remains, bringing with it the blessings of greater health
@@ -86,14 +75,14 @@ its being."
 
 -- McKinley, [draft of undelivered speech](https://direct.mit.edu/isec/article/48/2/49/118109/The-Meddler-s-Trap-McKinley-the-Philippines-and)
 
-But the outcome of our rule there the Marcos kleptocracy and some of the lowest living standards in East Asia.
+But the outcome of our rule there was the Marcos kleptocracy and some of the lowest living standards in East Asia.
 Despite years of communist rule in China and Vietnam, both countries still have significantly higher GDP per
 capita than does the Philippines.
 
-Woodrow Wilson famously defended our entry into World War I by claiming that "The world must be made safe for democracy."
-[Here.](https://historymatters.gmu.edu/d/4943/)
+A couple of decades later Woodrow Wilson famously defended our entry into World War I by claiming that "The world must
+be made safe for democracy." https://historymatters.gmu.edu/d/4943/
 
-Instead, that war made the world ripe for some of the worst, most despotic regimes ever to occupy the Earth, and created
+Instead, that war made the world safe for some of the worst, most despotic regimes ever to occupy the Earth, and created
 decades of chaos in places like the Balkans.
 
 George W. Bush used similar rhetoric to justify the wars the US was waging in Afghanistan and Iraq, for example, boasting of how
@@ -102,8 +91,8 @@ government."
 
 https://georgewbush-whitehouse.archives.gov/news/releases/2003/11/20031106-2.html
 
-Of course, the war there would continue another two decades and the end result was the reestablishment of Taliban
-control. So we have a reckless expenditure of lives and resources in pursuit of an ideological fantasy.
+Of course, the war there would continue for almost two decades more and the end result was the reestablishment of Taliban
+control: it was a reckless expenditure of lives and resources in pursuit of an ideological fantasy.
 
 Could these ideologically driven blunders be avoided by admitting that we have an empire?
 One benefit of doing so would be a clarification of the status of various portions of the empire. The
@@ -120,7 +109,7 @@ as
 - Provinces
 
 It is notable that most of these statuses allowed a large degree of self governance. What was not tolerated was directly
-acting against the interests of the empire as a whole, so that after, for instance, a Numidian King went to war with
+acting against the interests of the empire as a whole. For instance, after a Numidian King went to war with
 Rome, Numidia lost its status as an independent ally. Naturally, a people could no longer be an independent *ally* if they
 were no longer an ally at all.
 
@@ -129,7 +118,7 @@ true localism than is our current regime. With our government vacillating betwee
 ideology and trying to promote some right-wing ideology, it repeatedly interferes with local governance to promote that
 ideology *de jour*.
 A pragmatic empire would recognize that many of the issues the American Empire becomes involved with are irrelevant to
-its proper end: maintaining order. The Romans would not, for instance,
+its proper end of maintaining order. The Romans would not, for instance,
 have cared if Lusitania permitted gay marriage while Armenia did not, if Arabia used racial preferences in hiring
 while Britannia did not, or if Dacia adopted a socialist economic system while Mauretania enthusiastically embraced free
 markets.
@@ -142,8 +131,8 @@ with American hegemony, and the United States is expending a good amount of reso
 Yet Europe has plenty of wealth and manpower to defend its own independence from, say, Russia, or China. So a realist
 audit of the current boundaries of the empire could well recommend pulling back from Europe.
 
-Of course my recommendation here will disconcert many people.
-Some might argue that my recommendation is amoral, because it:
+My recommendation here will disconcert many people.
+Some might argue that it is amoral or even immoral, because it:
 
 1. Leaves America with no inspiring purpose that might unite its people; and/or:
 2. Ignores morality and adopts a Machiavellian view of government as merely a matter of capturing and keeping power.
@@ -158,7 +147,7 @@ liberalism available to us.
 
 And contra the charge of amorality, the realist view of the current American situation takes morality much *more*
 seriously than does the morally kitsch notion that we are really, in our hearts, just James Stewart trying to make his
-hometown better, but a Jimmy who accidentally found himself establishing military bases in 80 or 90 countries.
+hometown better, but Jimmy accidentally found himself establishing military bases in 80 or 90 countries.
 The realist view *is* moral, in that it
 prudentially acknowledges that the American empire can plausibly achieve one large moral purpose: to bring a halt to
 the "war of all against all" within its borders. However, should it instead (as it often does at present) strive to
@@ -189,8 +178,8 @@ For those who wish America were still a small-r republic, a possible answer to t
 "surrender our empire, and pull our military back within the borders of the US."
 
 But that answer
-lacks prudence: following its advice would create a power vacuum, and power vacuums get filled. The most likely result
-would be China stepping in to fill it.
+lacks prudence: following its advice would create a power vacuum, and power vacuums get filled. The most likely results
+would be China stepping in to fill it, or chaotic struggle as other powers tried to become the hegemon.
 
 When the Western Roman empire finally fell apart, the result was not liberation, but the dark ages. Townspeople inside the
 empire had lived down in the fertile river valleys: when the empire was gone, they moved up into fortified hill towns.
@@ -199,7 +188,7 @@ had the aim of living inside the empire, since that was a more desirable place t
 borders.
 
 Another objection is represented by an essay entitled ["Venezuela killed the
-U.S."](https://arnaudbertrand.substack.com/p/venezuela-killed-the-us), where Araud Bertrand contends that although the
+U.S."](https://arnaudbertrand.substack.com/p/venezuela-killed-the-us), where Arnaud Bertrand contends that although the
 U.S. intervened in Latin America to create regime change "at least 41 times," thankfully, in the previous instances, the
 U.S. was hypocritical about its motives: "The story a nation tells itself is not trivial - it is everything."
 
@@ -209,7 +198,7 @@ camps was for the greater good: is that really more important, let alone "everyt
 were committing genocide?
 
 Bertrand goes on to argue that the virtuous story we told ourselves about those earlier
-interventions was, like most hypocrisy, "vice paying tribute to virtue," which is surely better than unapologetic vice.
+interventions was, as is most hypocrisy, "vice paying tribute to virtue," which is surely better than unapologetic vice.
 However, we are not in the situation in which it is ambiguous as to whether America has an empire, one 
 where the forces for and against an imperial America are in flux, and paying lip service to Wilsonian ideals 
 while acquiring an empire might tilt the balance in favor of "no empire."
@@ -222,8 +211,8 @@ out fooling around, once he has actually sired children, failing to acknowledge 
 tribute to virtue," but "vice failing to take responsibility for its actions."
 
 Another possible objection to this Hobbesian understanding of the American Empire is that one of the jobs of the state
-is to be "a wise teacher and an inculcator of good habits"
-[here](https://www.theatlantic.com/ideas/archive/2020/03/common-good-constitutionalism/609037/).
+is to be "a wise teacher and an inculcator of good habits."
+https://www.theatlantic.com/ideas/archive/2020/03/common-good-constitutionalism/609037/
 
 I agree with those who hold this view, at least in so far as the ideal situation is that the state can take on this
 role. But recently, the state's main role in that area has been to inculcate bad habits. If we took on the Roman
