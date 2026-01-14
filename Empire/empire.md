@@ -51,13 +51,12 @@ Let's look at what that means.
 
 As Michael Oakeshott wrote in his *Lectures in the History of Political Thought*, the Romans believed that they were
 "blessed by the gods... their destiny to rule the world and impose a civilization and an orderliness upon its
-barbarisms." The pragmatic folks that they were, their emphasis was on imposing order, not on forcing all of the
-subcultures within their empire to adopt Roman ideas. As a result, they did not require every culture they
+barbarisms." The pragmatic folks that they were, their mission was imposing order.
+As a result, they did not require every culture they
 brought into their empire to adopt some Roman "ideology." They only required that they acknowledged the empire's
 sovereignty.
 
-The main group falling outside the scope of Roman tolerance was the Christians.
-And that was because Christianity, due to its strict
+The main group falling outside the scope of this Roman tolerance was the Christians.  Christianity, due to its strict
 monotheism, did not permit its adherents to pay homage to the ancient gods of the Roman polity. The many polytheistic
 societies Rome had conquered were allowed to keep all of their local gods and traditional rites, so long as they added
 into those the appropriate civil performance of homage to the Roman gods. The Romans would have similarly allowed
@@ -72,14 +71,13 @@ Daniel McCarthy points out that the Monroe Doctrine was similarly non-ideologica
 
 "The Monroe Doctrine was not primarily ideological. It did not specify that the United States expected to see certain
 kinds of governments in Latin America or elsewhere in the Americas."
-[here](https://modernagejournal.com/venezuela-and-the-donroe-doctrine/254262/)
 
-## An Empire That Hides Its Reality Behind an Ideology
+https://modernagejournal.com/venezuela-and-the-donroe-doctrine/254262/
 
-In stark contract to the Roman Empire, the American Empire has often been highly ideological, .
+In stark contract to the Roman Empire, the American Empire has often been commonly justified its foreign adventures on
+ideological ground.
 
-
-President McKinley justified the U.S. taking possession of the Philippines based up the civilizing effect of being
+For example, President McKinley argued for the U.S. taking possession of the Philippines based up the civilizing effect of being
 conquered by Anglo-Saxon people, rather than Spaniards:
 
 "It is our proud title to belong to the Anglo-Saxon race, the leaders in the march of civilization, in every age and in
@@ -90,12 +88,11 @@ its being."
 
 -- McKinley, [draft of undelivered speech](https://direct.mit.edu/isec/article/48/2/49/118109/The-Meddler-s-Trap-McKinley-the-Philippines-and)
 
-But the result of our rule their produced the Marcos kleptocracy and some of the lowest living standards in East Asia.
-Despite years of communist rule in China and Vietnam, both countries nevertheless have significantly higher GDP per
+But the outcome of our rule there the Marcos kleptocracy and some of the lowest living standards in East Asia.
+Despite years of communist rule in China and Vietnam, both countries still have significantly higher GDP per
 capita than does the Philippines.
 
-
-Woodrow Wilson famously justified our entry into World War I by arguing that "The world must be made safe for democracy."
+Woodrow Wilson famously defended our entry into World War I by claiming that "The world must be made safe for democracy."
 [Here.](https://historymatters.gmu.edu/d/4943/)
 
 Instead, that war made the world ripe for some of the worst, most despotic regimes ever to occupy the Earth, and created
@@ -110,21 +107,9 @@ https://georgewbush-whitehouse.archives.gov/news/releases/2003/11/20031106-2.htm
 Of course, the war there would continue another two decades and the end result was the reestablishment of Taliban
 control. So we have a reckless expenditure of lives and resources in pursuit of an ideological fantasy.
 
-
-
-
-
-
-
-How much the actors in this play intended the result, that, in fact, happened, was that the states meeting the "democratic,
-liberal capitalist" criterion became dependent upon US defense.
-
-
-## The Benefits
-
-
-One benefit of admitting that we have an empire would be a clarification of the status of various portions of it. The
-Romans for instance had a spectrum of relationships with various parts of their empire: a territory could be classified
+Could these ideologically driven blunders be avoided by admitting that we have an empire?
+One benefit of doing so would be a clarification of the status of various portions of the empire. The
+Romans, for instance, had a spectrum of relationships with various parts of their empire: a territory could be classified
 as 
 
 - Independent allies, such as Numidia
@@ -138,12 +123,12 @@ as
 
 It is notable that most of these statuses allowed a large degree of self governance. What was not tolerated was directly
 acting against the interests of the empire as a whole, so that after, for instance, a Numidian King went to war with
-Rome, Numidia lost its status as an independent ally. Naturally, a people could no longer be an independent ally if they
+Rome, Numidia lost its status as an independent ally. Naturally, a people could no longer be an independent *ally* if they
 were no longer an ally at all.
 
 An American empire which saw its job primarily as keeping order within its borders would, in fact, be much more open to
 true localism than is our current regime. With our government vacillating between trying to promote some left-wing
-ideology and trying to promote some right-wing ideology, it repeatedly interferes with local governance to promote the
+ideology and trying to promote some right-wing ideology, it repeatedly interferes with local governance to promote that
 ideology *de jour*.
 A pragmatic empire would recognize that many of the issues the American Empire becomes involved with are irrelevant to
 its proper end: maintaining order. The Romans would not, for instance,
@@ -154,33 +139,30 @@ markets.
 Another important benefit of recognizing our real situation would be that the American government could recognize that
 some territories that have been *de facto* within the empire really should be regarded as outside it. The main consequence
 of such a recognition would be that the US military would cease being the primary defender of those territories. Perhaps
-this is what the Trump administration is doing with regard to Europe: Donations of Europe, or not particularly happy
-with American hegemony, and the United States is spending a lot of money defending these unhappy client states.
+this is what the Trump administration is doing with regard to Europe: the nations of Europe are not particularly happy
+with American hegemony, and the United States is expending a good amount of resources defending these unhappy client states.
 Yet Europe has plenty of wealth and manpower to defend its own independence from, say, Russia, or China. So a realist
 audit of the current boundaries of the empire could well recommend pulling back from Europe.
 
-## Objections
-
-### Too Machiavellian
-
-Some might argue that my recommendation is "too Machiavellian," because:
+Of course my recommendation here will disconcert many people.
+Some might argue that my recommendation is amoral, because it:
 
 1. Leaves America with no inspiring purpose that might unite its people; and/or:
 2. Ignores morality and adopts a Machiavellian view of government as merely a matter of capturing and keeping power.
 
-In regards to the first, why isn't being the power that brings relative order to what would other wise be a fractious
-anarchy an inspiring purpose? In a cosmos tending towards disorder, creating order is a genuine accomplishment. And, as
+In regards to the first complaint, why isn't being the power that brings relative order to what would otherwise be a fractious
+anarchy an inspiring purpose? In a cosmos tending towards disorder, creating order is a genuine accomplishment. Our
+current elite defend their status partially by portaying themselves as defenders of liberal ideological aims, but they
+might be re-oriented to see themselves as defenders of order.  Furthermore, as
 [John Gray argues](https://www.newstatesman.com/ideas/2025/10/how-to-save-british-liberalism), this sort of
 "Hobbesian liberalism" is, in fact, the most plausible and as well as the most genuinely libertarian version of
 liberalism available to us.
 
 And contra the charge of amorality, the realist view of the current American situation takes morality much *more*
 seriously than does the morally kitsch notion that we are really, in our hearts, just James Stewart trying to make his
-hometown better, but who accidentally found himself establishing military bases in 80 or 90 countries.
-
-
-is moral, in that it
-prudentially acknowledges that the American empire can conceivably achieve one large moral purpose: to bring a halt to
+hometown better, but a Jimmy who accidentally found himself establishing military bases in 80 or 90 countries.
+The realist view *is* moral, in that it
+prudentially acknowledges that the American empire can plausibly achieve one large moral purpose: to bring a halt to
 the "war of all against all" within its borders. However, should it instead (as it often does at present) strive to
 spread some ["comprehensive doctrine"](https://plato.stanford.edu/archives/spr2019/entries/rawls/#ReaCit) across its
 empire, it will:
@@ -197,13 +179,9 @@ we're going to take out someone like Maduro who is causing problems for us."
 
 In other words, Venezuela's status as an independent ally was put at risk when Maduro repeatedly acted to subvert the
 order prevailing in the western hemisphere, by sponsoring revolutionary activities in other states and allying itself
-with extra-hemispheric powers such as Iran, Russia, and China.
+with extra-hemispheric powers such as Iran, Russia, and China. And that is sufficient reason for acting against Maduro.
 
-
-### Against Empire Building
-
-
-One person to whom I showed an early sketch of this essay didn't approve because he "objected to empire building." But this
+One friend to whom I showed an early sketch of this essay didn't approve because he "objected to empire building." But this
 is like objecting to the deforestation of the island of Manhattan: it's too late to object: it has already happened. Objecting to
 American empire building might have made good sense in 1848 or 1898, but today, the empire is already built. The question is
 what do we do with it?
@@ -218,15 +196,13 @@ would be China stepping in to fill it.
 When the Western Roman empire finally fell apart, the result was not liberation, but the dark ages. Townspeople inside the
 empire had lived down in the fertile river valleys: when the empire was gone, they moved up into fortified hill towns.
 And, ironically, many of the German tribes whose incursions into the Western Empire resulted in its dissolution actually
-had the aim of living inside the empire, since that was a more desirable existence.
+had the aim of living inside the empire, since that was a more desirable place to live than in the wild lands beyond its
+borders.
 
-
-### It Is Better to Be Hypocritical Than Unashamedly Bad
-
-In an essay entitled ["Venezuela killed the U.S."](https://arnaudbertrand.substack.com/p/venezuela-killed-the-us), Araud
-Bertrand contends that although the U.S. intervened in Latin America to create regime change "at least 41 times,"
-thankfully, in the previous instances, the U.S. was hypocritical about its motives: "The story a nation tells itself is not
-trivial - it is everything."
+Another objection is represented by an essay entitled ["Venezuela killed the
+U.S."](https://arnaudbertrand.substack.com/p/venezuela-killed-the-us), where Araud Bertrand contends that although the
+U.S. intervened in Latin America to create regime change "at least 41 times," thankfully, in the previous instances, the
+U.S. was hypocritical about its motives: "The story a nation tells itself is not trivial - it is everything."
 
 That is a weird contention on its face: surely that story is not "everything": What the nation actually *does* is of
 at least some importance, right? Many of the Nazis were probably telling themselves that their work in the concentration
@@ -246,43 +222,20 @@ While the philandering husband might've been justified in paying lipservice to m
 out fooling around, once he has actually sired children, failing to acknowledge that reality is no longer "vice paying
 tribute to virtue," but "vice failing to take responsibility for its actions."
 
-The question of whether we ought to have acquired an empire is an interesting one, but I will not deal with it at all
-here, because I am interested in what to do about the reality that we *have* acquired one. *While* we were acquiring it,
-perhaps it *was* better that we usually pretended we were "promoting liberty," or something of the sort. 
-
-But now that we have an empire, pretending that we do not renders us incapable of talking about how to manage that
-empire as prudently and justly as possible.
-
-
-### The State Should Guide Us Morally
-
 Another possible objection to this Hobbesian understanding of the American Empire is that one of the jobs of the state
 is to be "a wise teacher and an inculcator of good habits"
 [here](https://www.theatlantic.com/ideas/archive/2020/03/common-good-constitutionalism/609037/).
 
-I agree with those who hold this for you, at least in so far as the ideal situation is that the state can take on this
-role. But recently, the state's main role in that area has been to inculcate bad habits.
+I agree with those who hold this view, at least in so far as the ideal situation is that the state can take on this
+role. But recently, the state's main role in that area has been to inculcate bad habits. If we took on the Roman
+understanding of how to rule an empire, it would at least allow pockets of "integralism" to exist within its borders.
 
-If the rulers of our empire recognized its proper role as currently best institution for preventing widespread violence
-and anarchy, they would understand that leaving local parts of the empire alone as much as possible is one of the best
-ways to fulfill there stewardship, as well as lessening resistance to their rule.
+In short, Americans should really just acknowledge that their government rules an empire, and the government might admit
+it as well.
 
-
-## Conclusion
-
-Americans should really just acknowledge that their government rules an empire, and the government folks might admit it as well.
-
-Then the question would become, "How can we rule this empire most prudently and justly?"
+Then the salient question would become, "How can we rule this empire most prudently and justly?"
 
 And at that point we'd be having a genuine conversation.
 
-
-
-
-## Notes
-
-
-
-If we admit we have an empire, we might be able to define its borders so others would know when they were stepping across them.
 
 
