@@ -177,7 +177,8 @@ we're going to take out someone like Maduro who is causing problems for us."
 
 In other words, Venezuela's status as an independent ally was put at risk when Maduro repeatedly acted to subvert the
 order prevailing in the western hemisphere, by sponsoring revolutionary activities in other states and allying itself
-with extra-hemispheric powers such as Iran, Russia, and China. And that is sufficient reason for acting against Maduro.
+with extra-hemispheric powers such as Iran, Russia, and China. And that is sufficient reason for a police operation
+against Maduro, within the American Empire.
 
 One friend to whom I showed an early sketch of this essay didn't approve because he "objected to empire building." But this
 is like objecting to the deforestation of the island of Manhattan: it's too late to object: it has already happened. Objecting to
