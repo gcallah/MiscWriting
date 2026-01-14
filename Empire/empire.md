@@ -47,8 +47,6 @@ declining elite an olive branch. Failing to recognize that this was the best off
 One important fact about the empire that followed the Roman civil wars is that it was not an ideological empire.
 Let's look at what that means.
 
-## A Non-Ideological Empire
-
 As Michael Oakeshott wrote in his *Lectures in the History of Political Thought*, the Romans believed that they were
 "blessed by the gods... their destiny to rule the world and impose a civilization and an orderliness upon its
 barbarisms." The pragmatic folks that they were, their mission was imposing order.
@@ -236,6 +234,4 @@ it as well.
 Then the salient question would become, "How can we rule this empire most prudently and justly?"
 
 And at that point we'd be having a genuine conversation.
-
-
 
