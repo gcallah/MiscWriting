@@ -73,6 +73,13 @@ pneumatic computer could compute the same things.
 
 ### Building a Water Computer
 
+The purpose of the exercise here is to demystify what a computer is.
+
+The Church-Turing thesis tells us that our water computer can compute anything that the most gargantuan AI server farm
+can compute; the server farm may compute it in 10 seconds while our water computer takes 10 million years, but there is
+no *theoretical* difference in what they can compute.
+
+
 Water
 Pipes
 Electrical Wires
