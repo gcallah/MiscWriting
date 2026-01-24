@@ -1,4 +1,4 @@
-# A Semiotic Understanding of Artificial Intelligence: There's No Thirdness There
+# A Semiotic View of Artificial Intelligence: There's No Thirdness There
 
 Gene Callahan
 
@@ -17,14 +17,12 @@ simpler, dyadic relationships.
 
 But computers, even when executing programs that may be called "artificial intelligence," exhibit only dyadic
 relationships: their output is literally meaningless until it enters into a relationship of thirdness with a human
-being.
+being. And since engaging in semiosis is at the core of intelligence, this demonstrates that there’s no "there" there in AI.
 
 
 
+## Just What Is "Artificial Intelligence"?
 
-
-
-### AI Has Always Moved the Goalposts
 
 Playing chess was thought to be cutting edge AI... until LLMs came along.
 
