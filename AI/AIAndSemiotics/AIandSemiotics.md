@@ -1,4 +1,4 @@
-# AI and Semiotics
+# A Semiotic Understanding of Artificial Intelligence: There's No Thirdness There
 
 Gene Callahan
 
@@ -6,12 +6,18 @@ Gene Callahan
 ## Introduction
 
 
+Various sceptical authors have addressed question of whether AI genuinely is thinking now, or will ever think. While I
+think that many of their arguments are perfectly sound, they involve first getting the reader to engage in some
+metaphysical thinking.
 
-Just What Is "AI"
-Superintelligence?
-Overlords?
-Or just impressive software?
+But the discipline of semiotics provides a way to demonstrate that there is a fundamental gulf between the way a human
+interacts with the world and the way a machine does so. That is because humans do not interact with the world in
+strictly dyadic relationships: they exhibit Peirce’s "thirdness," which, as he demonstrated, cannot be decomposed into
+simpler, dyadic relationships.
 
+But computers, even when executing programs that may be called "artificial intelligence," exhibit only dyadic
+relationships: their output is literally meaningless until it enters into a relationship of thirdness with a human
+being.
 
 
 
@@ -256,8 +262,11 @@ Thirdness and AI
 
 
 
-John Searle
+Employing thirdness in this context, sheds light upon the controversy over John Searle's "Chinese Room" argument
+(Searle, 2009).
+
 Objection: The system "as a whole" understands Chinese.
+
 Yes, it does: so long as the "whole" is big enough to include the humans who set up the room!
 
 
@@ -278,21 +287,52 @@ Thus, "meaning" cannot be reduced to a physical state.
 Multiple Realizability
 
 
+Types of Signs
 
 
 Computer programs are legisigns.
 
 
 
-Types of Signs
-
-
-
-
 
 We don't know how humans do
+
 Nothing so far suggests more than secondness
+
 The head in C.S. Lewis: possessed by a demon!
+
+
+## Intelligence without Semantics?
+
+
+Given the inherent lack of semantics, and a computational device, it is understandable that some authors have attempted to
+establish "cognition" without any basis in semantics. A notable effort in that vein is David Chalmers'
+*On Implementing a Computation*.
+
+After setting out his theory that maps physical states to computations through state transitions,
+Chalmers writes "it will be noted that nothing in my account of computation and
+implementation invokes any semantic considerations, such as the representational content of internal states... If we build
+semantic considerations into the conditions for implementation, any role that computation can play in providing a
+foundation for AI and cognitive science will be endangered..." (1995, p. 399)
+
+As I hope I have shown in this paper, Chalmers is certainly correct that including semantic considerations will
+"endanger" using computation as a foundation for AI and cognitive science. In fact, Chalmers' fears were over
+optimistic: once we see the centrality of meaning for any semiotic process, it becomes clear that computation cannot be
+the basis for anything that might reasonably be called "cognitive science," and that the correct name for what has been
+going by "artificial intelligence" is "advanced automation."
+
+In what appears to be merely wishful thinking, Chalmers cites Haugeland to claim "if you take care of the syntax, the
+semantics will take care of itself" (1995, 399). Imagine trying to teach a group of students to speak, say, Hungarian,
+by just teaching them the syntax of Hungarian, and then hoping that all the meaning will "take care of itself"!
+
+
+And he claims that "computer designers... are not concerned with the semantic content" (1995, 399) of their work, a claim
+that as a software designer I can confidently assert is nonsense.
+
+"To implement a computation is just to have a set of components that interact causally according to a certain pattern"
+(1995, p. 401).
+
+Of course, this definition renders the entire universe a giant computational device -- see Wolfram.
 
 
 
@@ -311,11 +351,14 @@ If an AI becomes intelligent, it will no longer be artificial — and no longer 
 
 ## Bibliography
 
-- Church, A. (1936a). "A Note on the Entscheidungsproblem." Journal of Symbolic Logic, 1(1), 40–41, 101–102.
+- Chalmers, David J. (1995). "On Implementing a Computation." *Minds and Machines*, vol. 4, no. 4, 1994,
+pp. 391–402, https://doi.org/10.1007/BF00974166.
 
-- Church, A. (1936b). "An Unsolvable Problem in Elementary Number Theory." American Journal of Mathematics, 58, 345–363.
+- Church, A. (1936a). "A Note on the Entscheidungsproblem." *Journal of Symbolic Logic*, 1(1), 40–41, 101–102.
 
-- Turing, A. M. (1937). "On Computable Numbers, with an Application to the Entscheidungsproblem". Proceedings of the
-London Mathematical Society. Series 2, Volume 42, Issue 1, pp. 230–265. 
+- Church, A. (1936b). "An Unsolvable Problem in Elementary Number Theory." *American Journal of Mathematics*, 58, 345–363.
 
+- Searle, John (2009). "Chinese Room Argument." *Scholarpedia Journal*, vol. 4, no. 8, p. 3100, https://doi.org/10.4249/scholarpedia.3100.
 
+- Turing, A. M. (1937). "On Computable Numbers, with an Application to the Entscheidungsproblem".
+*Proceedings of the London Mathematical Society*. Series 2, Volume 42, Issue 1, pp. 230–265. 
