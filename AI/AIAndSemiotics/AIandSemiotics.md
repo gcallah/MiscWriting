@@ -24,6 +24,17 @@ being. And since engaging in semiosis is at the core of intelligence, this demon
 ## Just What Is "Artificial Intelligence"?
 
 
+Artificial Intelligence (henceforth "AI") is not a technical term of computer science. Is not, for instance, comparable
+to the classes of algorithms, such as divide-and-conquer, randomized, sorting, and greedy algorithm defined in the
+standard textbook, *Introduction to Algorithms* (Cormen et al., 2009), which are defined by their CS theoretic
+characteristics. As Bender and Hanna put it:
+
+"To put it bluntly, "AI" is a marketing term. It doesn't refer to a coherent set of technologies. Instead, the phrase
+'artificial intelligence' is deployed when the people building or selling a particular set of technologies will profit
+from getting others to believe that their technology is similar to humans..." (2025, p. 5)
+
+
+
 Playing chess was thought to be cutting edge AI... until LLMs came along.
 
 
@@ -333,21 +344,36 @@ that as a software designer I can confidently assert is nonsense.
 Of course, this definition renders the entire universe a giant computational device -- see Wolfram.
 
 
+## Could AIs Become Conscious?
+
+This portion of this paper is purely speculative, but I think it is worth sending out my thoughts here. In particular, I
+am not denying the possibility that an AI could become conscious. What I am arguing instead is that the fact that it has
+implemented a computation, in Chalmers sense, gives us no evidence at all to suggest that it might be conscious, since
+it gives us no evidence that there was any meaning involved in the process.
+
+However, since we really have no idea how we have a sense of consciousness, floating around with our biological bodies,
+it would be very foolish to claim that AI consciousness is impossible. But if it ever happens, it will not be because
+someone wrote an even more clever program to run on an even larger data center full of computers.
+
+Furthermore, if an AI becomes intelligent, it will no longer be artificial — and no longer just a machine.
+
+
 
 ## Conclusion
 
 
-Could AIs Become Conscious?
 
-
-
-
-
-
-If an AI becomes intelligent, it will no longer be artificial — and no longer just a machine.
+Even if it turns out, contrary to anything we have found so far, that the physical processes in our brain can be mapped
+neatly into a program that could run on the touring machine, this would still leave out the matter of meaning. Even if,
+as I type this paper, my brain was running a computer program, it is, nevertheless, the case that I mean something by
+what I have written here. And as we have seen, and as is admitted by even enthusiast for reducing human thought,
+computation, the physical computation itself has no inherent meaning.
 
 
 ## Bibliography
+
+- Bender, Emily M., and Alex Hanna (2025). *The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want*. First edition.
+New York, NY: Harper, an imprint of HarperCollinsPublishers.
 
 - Chalmers, David J. (1995). "On Implementing a Computation." *Minds and Machines*, vol. 4, no. 4, 1994,
 pp. 391–402, https://doi.org/10.1007/BF00974166.
@@ -355,6 +381,12 @@ pp. 391–402, https://doi.org/10.1007/BF00974166.
 - Church, A. (1936a). "A Note on the Entscheidungsproblem." *Journal of Symbolic Logic*, 1(1), 40–41, 101–102.
 
 - Church, A. (1936b). "An Unsolvable Problem in Elementary Number Theory." *American Journal of Mathematics*, 58, 345–363.
+
+- Cormen, Thomas H., Charles Eric Leiserson, Ronald L. Rivest, and Clifford Stein (2009). *Introduction to Algorithms*.
+Third edition. Cambridge, Mass.: MIT Press.
+
+- Larson, Erik J. (2021). *The Myth of Artificial Intelligence: Why Computers Can’t Think the Way We Do*.
+Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
 
 - Searle, John (2009). "Chinese Room Argument." *Scholarpedia Journal*, vol. 4, no. 8, p. 3100, https://doi.org/10.4249/scholarpedia.3100.
 
