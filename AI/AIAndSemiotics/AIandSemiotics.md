@@ -314,7 +314,8 @@ The head in C.S. Lewis: possessed by a demon!
 ## Intelligence without Semantics?
 
 
-Given the inherent lack of semantics, and a computational device, it is understandable that some authors have attempted to
+Given the inherent lack of semantics, and a computational device, it is understandable that some authors,
+given their metaphysical presuppositions (more on this below), have attempted to
 establish "cognition" without any basis in semantics. A notable effort in that vein is David Chalmers'
 *On Implementing a Computation*.
 
@@ -333,10 +334,16 @@ going by "artificial intelligence" is "advanced automation."
 In what appears to be merely wishful thinking, Chalmers cites Haugeland to claim "if you take care of the syntax, the
 semantics will take care of itself" (1995, 399). Imagine trying to teach a group of students to speak, say, Hungarian,
 by just teaching them the syntax of Hungarian, and then hoping that all the meaning will "take care of itself"!
-
-
 And he claims that "computer designers... are not concerned with the semantic content" (1995, 399) of their work, a claim
-that as a software designer I can confidently assert is nonsense.
+that as a software designer I can confidently assert is not true.
+
+Why would someone as brilliant as Chalmers dismiss the importance of something so essential as meaning to what we do when we
+think? Although I do not wish to speculate about any particular individual, I suggest that in general, this is because
+AI enthusiasts have a prior commitment to a metaphysical of view, namely, some sort of mechanical reductionism. Speaking
+of one of the pioneering proponents of such a view in mathematics, David Hilbert, Larson writes, "[Hilbert's] larger
+dream, thinly disguised, was really a worldview, a picture of the universe, as itself a mechanism. AI began taking shape
+as...  a philosophical position..." (2021, pp. 14-15).
+
 
 "To implement a computation is just to have a set of components that interact causally according to a certain pattern"
 (1995, p. 401).
@@ -392,3 +399,6 @@ Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
 
 - Turing, A. M. (1937). "On Computable Numbers, with an Application to the Entscheidungsproblem".
 *Proceedings of the London Mathematical Society*. Series 2, Volume 42, Issue 1, pp. 230–265. 
+
+- Turing, A. M. (1950). "Computing Machinery and Intelligence." *Mind*, vol. 59, no. 236, pp. 433–60.
+
