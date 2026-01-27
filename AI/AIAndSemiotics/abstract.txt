@@ -1,0 +1,21 @@
+A Semiotic View of Artificial Intelligence: There's No Thirdness There
+
+Gene Callahan
+
+Abstract
+
+Various sceptical authors have addressed question of whether AI genuinely is thinking now,
+or will ever think. While I think that many of their arguments are perfectly sound,
+they involve first getting the reader to engage in some metaphysical thinking.
+
+But the discipline of semiotics provides a way to demonstrate that there is a fundamental
+gulf between the way a human interacts with the world and the way a machine does so.
+That is because humans do not interact with the world in strictly dyadic relationships:
+they exhibit Peirce's "thirdness," which, as he demonstrated, cannot be decomposed into simpler, dyadic relationships.
+
+But computers, even when executing programs that may be called "artificial intelligence,"
+exhibit only dyadic relationships: their output is literally meaningless
+until it enters into a relationship of thirdness with a human being. And since engaging
+in semiosis is at the core of intelligence, this demonstrates that there's no "there" there in AI.
+
+
