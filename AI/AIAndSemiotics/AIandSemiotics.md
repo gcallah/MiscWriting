@@ -12,12 +12,12 @@ metaphysical thinking.
 
 But the discipline of semiotics provides a way to demonstrate that there is a fundamental gulf between the way a human
 interacts with the world and the way a machine does so. That is because humans do not interact with the world in
-strictly dyadic relationships: they exhibit Peirce’s "thirdness," which, as he demonstrated, cannot be decomposed into
+strictly dyadic relationships: they exhibit Peirce's "thirdness," which, as he demonstrated, cannot be decomposed into
 simpler, dyadic relationships.
 
 But computers, even when executing programs that may be called "artificial intelligence," exhibit only dyadic
 relationships: their output is literally meaningless until it enters into a relationship of thirdness with a human
-being. And since engaging in semiosis is at the core of intelligence, this demonstrates that there’s no "there" there in AI.
+being. And since engaging in semiosis is at the core of intelligence, this demonstrates that there's no "there" there in AI.
 
 
 
@@ -274,9 +274,45 @@ Thirdness and AI
 Employing thirdness in this context, sheds light upon the controversy over John Searle's "Chinese Room" argument
 (Searle, 2009).
 
-Objection: The system "as a whole" understands Chinese.
+Many AI enthusiasts have tried to answer Searle's demonstration that simply mechanically producing the correct answers
+for some problem does not imply that any understanding exists in that situation with what has come to be called the
+"Systems Reply." As Ned Block describes it:
 
-Yes, it does: so long as the "whole" is big enough to include the humans who set up the room!
+"The positive component goes further, saying that the whole system-man + program + board + paper + input and output
+doors-does understand Chinese, even though the man who is acting as the CPU does not. If you open up your own computer,
+looking for the CPU, you will find that it is just one of the many chips and other components on the main circuit-board.
+The Systems Reply reminds us that the CPUs of the thinking computers we hope to have someday, will not themselves think
+-- rather, they, will be parts of thinking systems." (Block 2003, p. 72)
+
+A minor quibble here is that Block is a little confused about what he means by "CPU." He imagines us finding the CPU
+chip inside our computer, indicating that that's what he is talking about. But if that were true, the entire system
+could be incorporated on the CPU chip, much like Searle's maneuver internalizing the Chinese room, and so it would have
+to be the CPU that is thinking. But more charitably interpreting what he is saying, he is really thinking of the logical
+function of the CPU which is running a single instruction, and then reading the instruction that follows and executing
+it, ad infinitum. Then we see that his reference to the chip called the "CPU" is just a minor gaffe.
+
+Much more importantly, if we are to concede that the Chinese room "as a whole" understands Chinese, then let us consider
+a a simple animal trap that closes on any animal that enters it. Does the trap understand what animals are, and know how
+to trap them? After all, it *acts* just as if it understands and knows these things.
+
+Block and the other Systems Reply advocates are heading in the right direction with their response to Searle: they
+simply have not enlarged "the system" enough. The "animal trap system" is the trap, the human who devised it, and the
+hunter who is using it. And it is certainly true that this system as a whole understands what animals are and knows how
+to trap them.
+
+Similarly, the Systems Reply contingent is correct that the system as a whole understands Chinese in Searle's thought
+experiment. But the actual "system as a whole," is the designers of the system, the Chinese room itself, and the Chinese
+speakers who are "speaking" to the room and receiving the replies that emerge from it.
+
+What we were looking at are instances of extended cognition, where humans have projected their own thinking out into the
+material world, and made some part of the world behave in a way that conforms to their thinking. Let us return briefly
+to the animal trap: if it is used by a hunter to catch game, it "understands" what game is "knows" better how to catch
+it. But if an enthusiast of some form of lawn bowling takes the same trap and uses it as the target into which one must
+direct one's ball, then what was a trap is now a referee that decides when a point has been scored. It is the humans
+employing the physical device who are deciding what its operations mean. By itself, the trap doesn't mean anything at
+all.
+
+
 
 
 
@@ -379,8 +415,12 @@ computation, the physical computation itself has no inherent meaning.
 
 ## Bibliography
 
-- Bender, Emily M., and Alex Hanna (2025). *The AI Con: How to Fight Big Tech’s Hype and Create the Future We Want*. First edition.
-New York, NY: Harper, an imprint of HarperCollinsPublishers.
+
+- Bender, Emily M., and Alex Hanna (2025). *The AI Con: How to Fight Big Tech's Hype and Create the Future We Want*. First edition.
+New York, NY: Harper.
+
+- Block, Ned (2003). "Searle's Argument Against Cognitive Science,"
+in *Views into the Chinese Room: New Essays on Searle and Artificial Intelligence*, ed. Preston J. Bishop, 70–79. Oxford: Oxford University Press.
 
 - Chalmers, David J. (1995). "On Implementing a Computation." *Minds and Machines*, vol. 4, no. 4, 1994,
 pp. 391–402, https://doi.org/10.1007/BF00974166.
@@ -392,7 +432,7 @@ pp. 391–402, https://doi.org/10.1007/BF00974166.
 - Cormen, Thomas H., Charles Eric Leiserson, Ronald L. Rivest, and Clifford Stein (2009). *Introduction to Algorithms*.
 Third edition. Cambridge, Mass.: MIT Press.
 
-- Larson, Erik J. (2021). *The Myth of Artificial Intelligence: Why Computers Can’t Think the Way We Do*.
+- Larson, Erik J. (2021). *The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do*.
 Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
 
 - Searle, John (2009). "Chinese Room Argument." *Scholarpedia Journal*, vol. 4, no. 8, p. 3100, https://doi.org/10.4249/scholarpedia.3100.
