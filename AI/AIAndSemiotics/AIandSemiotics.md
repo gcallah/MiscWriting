@@ -309,8 +309,9 @@ material world, and made some part of the world behave in a way that conforms to
 to the animal trap: if it is used by a hunter to catch game, it "understands" what game is "knows" better how to catch
 it. But if an enthusiast of some form of lawn bowling takes the same trap and uses it as the target into which one must
 direct one's ball, then what was a trap is now a referee that decides when a point has been scored. It is the humans
-employing the physical device who are deciding what its operations mean. By itself, the trap doesn't mean anything at
-all.
+employing the physical device who are deciding what its operations mean. We could say, "That device there's a way of
+recording scores in a form of lawn bowling, but it accidentally caught an animal," only based upon what the person who
+devised and set it out meant for it to be. By itself, the trap doesn't *mean* anything at all.
 
 
 
