@@ -314,6 +314,20 @@ recording scores in a form of lawn bowling, but it accidentally caught an animal
 devised and set it out meant for it to be. By itself, the trap doesn't *mean* anything at all.
 
 
+Umberto Eco, at the begining of his work, *The Limits of Interpretation* (1990, p. 1), relates a story he encountered in a 1641 book
+by John Wilkins, about projecting human semiosis onto an inanimate artefact used in a semiotic episode. Wilkins is
+discussing the amazement that non-literary peoples often had on encountering people who could "converse with Books."
+In his story, a master sends his slave (brand new to the very idea of literacy) with a basket of figs,
+and a note saying something like "Please enjoy these fifty figs!" to an acquaintance. En route, the slave eats a good
+number of the figs. When he delivers them to the intended recipient, he is told that the note convicts him of having
+consumed many of the figs along his way, and he faces some punishment.
+
+Some days later, he is again given the same mission. Once again, he really wants to eat
+figs. But this time, wiser from his previous experience, he hides the note under a rock, and then sits down to eat his
+fill of the fruits. When he is once again called out, he comes to regard the paper as some sort of, well, "artificial
+intelligence," that can spy and report on him, even from under a rock.
+
+
 
 
 
@@ -362,6 +376,26 @@ implementation invokes any semantic considerations, such as the representational
 semantic considerations into the conditions for implementation, any role that computation can play in providing a
 foundation for AI and cognitive science will be endangered..." (1995, p. 399)
 
+* A footnote here about how Chalmers' view of physical states implementing cognition leads him towards panpsychism.
+
+*** Goes Somewhere ***
+
+Even if we accept Chalmers' view that any physical state that exhibits a certain structure is implementing an
+algorithm* with the same structure, which is equivalent to thinking that algorithm, we still have an embarrassment
+present for any attempt to reduce cognition to physical states: the master concept here is the *algorithm*, which is
+quite distinctly a non-physical "thingie," and the physical states have the distinctly secondary role of exhibiting the
+algorithm's structure. Without the *idea* of the algorithm in our minds, there would be nothing to suggest any
+significant relationship between our water computer performing addition, and an electronic computer performing addition,
+and a brain performing addition. 
+
+In this, I think, is what explains Chalmers interest in panpsychism: if he wants to consistently follow through on his principle
+ that any physical state that has the structure of an algorithm is in fact, running that algorithm, and
+also thinking it, then we should accept that thermostats really are thinking about the temperature of our house.
+[REF]
+
+* Footnote: Chalmers uses "state machine" but that is just a particular way of picturing an algorithm.
+
+
 As I hope I have shown in this paper, Chalmers is certainly correct that including semantic considerations will
 "endanger" using computation as a foundation for AI and cognitive science. In fact, Chalmers' fears were over
 optimistic: once we see the centrality of meaning for any semiotic process, it becomes clear that computation cannot be
@@ -374,9 +408,9 @@ by just teaching them the syntax of Hungarian, and then hoping that all the mean
 And he claims that "computer designers... are not concerned with the semantic content" (1995, 399) of their work, a claim
 that as a software designer I can confidently assert is not true.
 
-Why would someone as brilliant as Chalmers dismiss the importance of something so essential as meaning to what we do when we
+Why would anyone dismiss the importance of something so essential as meaning to what we do when we
 think? Although I do not wish to speculate about any particular individual, I suggest that in general, this is because
-AI enthusiasts have a prior commitment to a metaphysical of view, namely, some sort of mechanical reductionism. Speaking
+AI enthusiasts have a prior commitment to a metaphysical view, namely, some sort of "naturalistic" reductionism. Speaking
 of one of the pioneering proponents of such a view in mathematics, David Hilbert, Larson writes, "[Hilbert's] larger
 dream, thinly disguised, was really a worldview, a picture of the universe, as itself a mechanism. AI began taking shape
 as...  a philosophical position..." (2021, pp. 14-15).
@@ -426,12 +460,16 @@ in *Views into the Chinese Room: New Essays on Searle and Artificial Intelligenc
 - Chalmers, David J. (1995). "On Implementing a Computation." *Minds and Machines*, vol. 4, no. 4, 1994,
 pp. 391–402, https://doi.org/10.1007/BF00974166.
 
-- Church, A. (1936a). "A Note on the Entscheidungsproblem." *Journal of Symbolic Logic*, 1(1), 40–41, 101–102.
+- Chalmers, David J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. New York: Oxford University Press.
 
-- Church, A. (1936b). "An Unsolvable Problem in Elementary Number Theory." *American Journal of Mathematics*, 58, 345–363.
+- Church, Alonzo. (1936a). "A Note on the Entscheidungsproblem." *Journal of Symbolic Logic*, 1(1), 40–41, 101–102.
+
+- Church, Alonzo. (1936b). "An Unsolvable Problem in Elementary Number Theory." *American Journal of Mathematics*, 58, 345–363.
 
 - Cormen, Thomas H., Charles Eric Leiserson, Ronald L. Rivest, and Clifford Stein (2009). *Introduction to Algorithms*.
 Third edition. Cambridge, Mass.: MIT Press.
+
+- Eco, Umberto (1990). *The Limits of Interpretation*. Bloomington and Indianapolis, Indiana: Indiana University Press.
 
 - Larson, Erik J. (2021). *The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do*.
 Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
