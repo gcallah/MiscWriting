@@ -313,6 +313,18 @@ employing the physical device who are deciding what its operations mean. We coul
 recording scores in a form of lawn bowling, but it accidentally caught an animal," only based upon what the person who
 devised and set it out meant for it to be. By itself, the trap doesn't *mean* anything at all.
 
+In fact, we can use the notion of thirdness in another way to understand why the Systems Reply is misguided. Let's
+consider a room like Searle's, except that it is a Trinese room rather than a Chinese room. What is "Trinese," you ask?
+It is a system of arbitrary symbols with arbitrary, but regular, syntactic relations, that I just made up. Not one of
+the symbols refers to anything: none of them have any meanings. Now we can feed in syntactically correct strings of
+Trinese symbols into the Trinese room, and using the instructions provided in the room, the human inside outputs
+syntactically valid strings of Trinese symbols. Does this mean he understands Trinese? Certainly not, for these is
+nothing *to* understand! Nothing in the Trinese room setup exhibits thirdness: and it is exactly like Searle's room in
+that regard: thirdness only enters the picture because the people creating the Chinese room *did* understand Chinese, as
+did the people reading the output: they understand what the Chinese sentences involve *mean*.
+
+
+
 
 Umberto Eco, at the begining of his work, *The Limits of Interpretation* (1990, p. 1), relates a story he encountered in a 1641 book
 by John Wilkins, about projecting human semiosis onto an inanimate artefact used in a semiotic episode. Wilkins is
