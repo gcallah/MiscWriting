@@ -323,6 +323,14 @@ nothing *to* understand! Nothing in the Trinese room setup exhibits thirdness: a
 that regard: thirdness only enters the picture because the people creating the Chinese room *did* understand Chinese, as
 did the people reading the output: they understand what the Chinese sentences involve *mean*.
 
+Or let us consider an example of a sort algorithm. We input into a list of baseball players and how many home runs each
+one has hit, and indicate that the sort should take place on the second field. What we get out is a list of the greatest
+home run hitters, in descending order. But no such meaning can be found in the algorithm, which only operates on certain
+bit patterns, and knows nothing about hitters or home runs. The meaning we assigned to the sort is not there in the
+algorithm at all: it is only there when humans input the data to the sort, and when we interpret the output. If instead, we
+input to the algorithm the number of times a batter got out per plate appearance, we would get a list with the worst
+hitters at the top. And yet syntactically, the two runs of the algorithm are identical.
+
 
 
 
