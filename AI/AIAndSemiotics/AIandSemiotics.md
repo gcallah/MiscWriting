@@ -379,7 +379,6 @@ We don't know how humans do
 
 Nothing so far suggests more than secondness
 
-The head in C.S. Lewis: possessed by a demon!
 
 
 ## Intelligence without Semantics?
@@ -412,6 +411,10 @@ In this, I think, is what explains Chalmers interest in panpsychism: if he wants
  that any physical state that has the structure of an algorithm is in fact, running that algorithm, and
 also thinking it, then we should accept that thermostats really are thinking about the temperature of our house.
 [REF]
+
+A problem with Chalmer's panpsychism is, what if we took an ordinary thermostat, and simply rewired its outputs, so that
+when the thermostat "knew" that it was too cold, the result would be that the heat would go off, and when it "knew" that
+it was too hot, the heat would turn on.
 
 * Footnote: Chalmers uses "state machine" but that is just a particular way of picturing an algorithm.
 
