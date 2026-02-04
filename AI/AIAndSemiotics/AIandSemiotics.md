@@ -331,6 +331,47 @@ algorithm at all: it is only there when humans input the data to the sort, and w
 input to the algorithm the number of times a batter got out per plate appearance, we would get a list with the worst
 hitters at the top. And yet syntactically, the two runs of the algorithm are identical.
 
+Furthermore, we might note that there are many sort algorithms, each of which is quite computationally
+distinct. And yet we, meaning anyone who has studied computer science or programmed seriously, recognizes that each of
+these algorithms is in some sense doing the "same" thing: sorting.
+
+It might be proposed that we recognize them all as being sort algorithms through a meta-algorithm, one that perhaps
+feeds input into each potential sort algorithm and sees if the output is indeed sorted. But that is certainly not what a
+computer scientist devising a new sort algorithm does: they do not just randomly throw out algorithms and then test them
+to see if they sort their input. Furthermore, such a procedure could never tell us definitively that we have at hand a
+sort algorithm; it could only tell us that the algorithm has properly sorted all the input given to it *so far*. Since
+there is an infinity of possible things that might be sorted, we could never definitively say we were dealing with a
+sort algorithm.
+
+Alternatively, it could be suggested that instead of testing the potential algorithms by running them to see if they are
+sort algorithms, instead we run some sort of formal proof on them. But while this is something a computer scientist will
+do to *verify* a potential sort algorithm, once again it is nothing at all like what a computer scientist does in trying to
+*find* a new sort algorithm. No computer scientist would be so foolish as to simply devise random algorithms, and then
+try to mathematically prove whether they sort their data or not. No, the scientist abductively (Peirce) discovers an
+algorithm that *appears* to sort its data, after which they will try to mathematically prove that it does so. And no one
+has the least idea how one might code that abductive step. (Dreyfus)
+
+Furthermore, even if we assume, falsely, that computer scientists find sort algorithms by formally testing any old
+algorithm to see if sorts, how would they know that the mathematical formalism they are using is actually a proof
+of *sorting*, rather than a proof of the Pythagorean theorem, or of the Reimann conjecture, or of P=NP? If one
+insists that decision *also* must be performed algorithmically, then they are suggesting something that both Lewis
+Carroll (1895) and Ludwig Wittgenstein (1994: 86-107) have already shown us is impossible: If we only know how to follow
+rules by meta-rules, then we also need meta-meta-rules to know how to follow the meta-rules, and so on, yielding an
+infinite stack of algorithms that must be executed before we know what we're up to.
+
+And of course, all of the above considerations about algorithms are really just elaborations on something Hillary Putnam
+said decades ago: "different computational states one might be in while believing that the cat is on the mat need not
+have anything 'in common' that can be specified in computational terms" (Putnam, 1988, p. 74). Or, to put this in the
+context of this paper, No application of an algorithm to another algorithm can ever determine the meaning of what is
+going on, because all algorithms lack thirdness.
+
+
+
+
+Feuerbach
+
+
+
 
 
 
@@ -407,10 +448,10 @@ algorithm's structure. Without the *idea* of the algorithm in our minds, there w
 significant relationship between our water computer performing addition, and an electronic computer performing addition,
 and a brain performing addition. 
 
-In this, I think, is what explains Chalmers interest in panpsychism: if he wants to consistently follow through on his principle
+In this, I think, is what explains Chalmers' interest in panpsychism: if he wants to consistently follow through on his principle
  that any physical state that has the structure of an algorithm is in fact, running that algorithm, and
 also thinking it, then we should accept that thermostats really are thinking about the temperature of our house.
-[REF]
+(See Chalmers 1996, pp. 293-296.)
 
 A problem with Chalmer's panpsychism is, what if we took an ordinary thermostat, and simply rewired its outputs, so that
 when the thermostat "knew" that it was too cold, the result would be that the heat would go off, and when it "knew" that
@@ -478,7 +519,10 @@ computation, the physical computation itself has no inherent meaning.
 New York, NY: Harper.
 
 - Block, Ned (2003). "Searle's Argument Against Cognitive Science,"
-in *Views into the Chinese Room: New Essays on Searle and Artificial Intelligence*, ed. Preston J. Bishop, 70–79. Oxford: Oxford University Press.
+in *Views into the Chinese Room: New Essays on Searle and Artificial Intelligence*, ed. Preston J. Bishop, 70–79.
+Oxford: Oxford University Press.
+
+- Carroll, Lewis (1895). "What the Tortoise Said to Achilles." *Mind*, Vol. 4, No. 14: 278-280.
 
 - Chalmers, David J. (1995). "On Implementing a Computation." *Minds and Machines*, vol. 4, no. 4, 1994,
 pp. 391–402, https://doi.org/10.1007/BF00974166.
@@ -497,10 +541,15 @@ Third edition. Cambridge, Mass.: MIT Press.
 - Larson, Erik J. (2021). *The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do*.
 Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
 
+- Putnam, Hilary (1988). *Representation and Reality*. Cambridge, Massachusetts: The MIT Press.
+
 - Searle, John (2009). "Chinese Room Argument." *Scholarpedia Journal*, vol. 4, no. 8, p. 3100, https://doi.org/10.4249/scholarpedia.3100.
 
 - Turing, A. M. (1937). "On Computable Numbers, with an Application to the Entscheidungsproblem".
 *Proceedings of the London Mathematical Society*. Series 2, Volume 42, Issue 1, pp. 230–265. 
 
 - Turing, A. M. (1950). "Computing Machinery and Intelligence." *Mind*, vol. 59, no. 236, pp. 433–60.
+
+- Wittgenstein, Ludwig (1994). *The Wittgenstein Reader*, ed. Anthony Kenny. Oxford: Blackwell Publishers Inc.
+
 
