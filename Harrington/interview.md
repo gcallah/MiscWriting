@@ -1,38 +1,30 @@
 
-Gene Callahan: I've become convinced that there's a... it's a... to do it right, it's a process of translation. It's a lot
+Gene Callahan: I've become convinced that turning an oral interview into a text is a process of translation. It's a lot
 like taking a novel to film or something like that.
 
-And when I look at the transcript, what you've got is, you know, someone gets asked a question, they
-go, well, the thing is, I once... no, no, no, let's not go into that. It's, you know, maybe I should. And, you know, no
-one needs to be reading that stream of pauses and...WEBVTT
-
-Mary Harrington: I don't think... I don't think we've missed anything critical there, really, have we?
+When I look at the original transcript, what you've got is, someone gets asked a question, and they respond
+"Well, the thing is, I once... no, no, no, let's not go into that. It's, you know, maybe I should..."
+No one needs to be reading that stream of pauses and hemming and hawing.
 
 Gene Callahan: But, so, I've become convinced that... Sorry, go ahead.
 
-Mary Harrington: No, no, I was just calling the dog.
+Mary Harrington: No, I was just calling the dog.
 
-Gene Callahan: Oh, alright. Okay. I thought you wanted me to sit.
+Gene Callahan: Oh, alright. I thought you wanted *me* to heel.
 
 Mary Harrington: No, no,.
 
-Gene Callahan: So... but what I do is, I've given each person I've interviewed the transcript, the edited transcript, and I try to be very scrupulous
-
-And making sure I'm conveying what they were thinking.
+Gene Callahan: So what I do is, I've given each person I've interviewed the edited transcript, and I try to be very scrupulous
+and making sure I'm conveying what they were thinking, and they can tell me if I've misrepresented anything.
 
 Mary Harrington: Cool.
-
-Gene Callahan: Right, so... and so you'll get a transcript, and you'll get a chance
-say, no, you misinterpreted me here, that's not what I meant.
-
-Mary Harrington: I mean, yeah, yeah, that sounds absolutely fine, or...
 
 Gene Callahan: Let's start out on the topic of technology.
 And, how did print change human lives?
 
-Mary Harrington: I literally just finished writing a chapter about that today, at least I think I finished it. I hope I
-finished it. I probably never finished it. I mean, it's sort of difficult to start
-or say anything very comprehensive about this succinctly, because it changed everything. I mean, I've titled the chapter The Modernity Machine, because in my view, the printing press is... it's the foundational technology of modernity.
+Mary Harrington: I literally just finished writing a chapter about that today, at least I think I finished it. I *hope* I
+finished it. It's sort of difficult to start
+to say anything very comprehensive about this succinctly, because it changed everything. I mean, I've titled the chapter The Modernity Machine, because in my view, the printing press is... it's the foundational technology of modernity.
 You know, which is itself a vague term. I mean, your magazine is called Modern Age, but what precisely do you mean by modern? You know, you can go down a whole philosophical rabbit hole with that.
 
 Gene Callahan: Yeah, well, I didn't name it, so...
@@ -41,17 +33,17 @@ Mary Harrington: It's like, you know it when you see it, right? There's an indef
 sort of this-ness which comes into being, and people sort of wave their arms around and talk about the spirit of the
 age, or, you know, transformation of ideas and a genealogy of this or that.  And I find Elizabeth Eisenstein, who's an
 historian, persuasive in her argument that actually what almost all of these
-histories of ideas leave out, or relied, or simply take for granted is the material contribution of print to all of
+histories of ideas leave out or simply take for granted is the material contribution of print to all of
 these changes.
 
-I mean, I said... I sent the chapter to a friend earlier this evening, saying it was just an absolute headache to write.
+I sent the chapter to a friend earlier this evening, saying it was just an absolute headache to write.
 It was like trying to get an octopus into a fishnet stocking.
 
 There's probably still tentacles flopping around where there shouldn't be, just generally. It's a very unruly subject, because...
 
-Gene Callahan: Wait: You've tried to put an octopus in a fishnet sucking?
+Gene Callahan: Wait a second: You've tried to put an octopus in a fishnet stocking?
 
-Mary Harrington: It's not something I've ever actually tried, but it was... it has a... I wanted to convey the sense of
+Mary Harrington: No, it's not something I've ever actually tried, but I wanted to convey the sense of
 elusiveness and slipperiness and just general things... things thrashing around where... in ways I didn't want them to.
 And always... being... no, it's not something I've ever tried, but I hope it's... I hope it's sort of, evocative.
 
