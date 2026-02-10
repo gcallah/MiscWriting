@@ -43,16 +43,18 @@ There's probably still tentacles flopping around where there shouldn't be, just 
 
 Gene Callahan: Wait a second: You've tried to put an octopus in a fishnet stocking?
 
-Mary Harrington: No, it's not something I've ever actually tried, but I wanted to convey the sense of
+Mary Harrington: I wanted to convey the sense of
 elusiveness and slipperiness and just general things... things thrashing around where... in ways I didn't want them to.
-And always... being... no, it's not something I've ever tried, but I hope it's... I hope it's sort of, evocative.
+So no, it's not something I've ever tried, but I hope it's evocative.
 
-But the... I've sort of narrowed... I've tried to throw out... some... thematic.
-
-key points in... in this particular chapter. You see, I've already... I've already failed to do this succinctly, because this is just impossible to do succinctly. I think there are... I mean, what Eisenstein points to are two... two characteristics of print as a form.
-
-Which were transformative. So it wasn't just that... it wasn't just that the ideas, carried by print changed things, but
+I've tried to throw out some thematic key points in this particular chapter. You see, I've already... I've already
+failed to do this succinctly, because this is just impossible to do succinctly. What
+Eisenstein points to are two characteristics of print as a form which were transformative.
+So it wasn't just that the ideas carried by print changed things, but
 although they did, it was also two characteristics of print as a form.
+
+======================
+
 
 Mary Harrington: Distinct from handwriting, which was the prevalent information technology of the manuscript age.
 
