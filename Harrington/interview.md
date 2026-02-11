@@ -51,134 +51,129 @@ I've tried to throw out some thematic key points in this particular chapter. You
 failed to do this succinctly, because this is just impossible to do succinctly. What
 Eisenstein points to are two characteristics of print as a form which were transformative.
 So it wasn't just that the ideas carried by print changed things, but
-although they did, it was also two characteristics of print as a form.
-
-======================
-
-
-Mary Harrington: Distinct from handwriting, which was the prevalent information technology of the manuscript age.
-
-Which, which were world-transforming. One of them was scale. There was just a lot more reading material than previously, and that had all sorts of complex feedback loop effects.
-
+although they did, it was also two characteristics of print as a form, distinct from handwriting, which was the
+prevalent information technology of the manuscript age, which were world-transforming. One of them was scale. There was
+just a lot more reading material than previously, and that had all sorts of complex feedback loop effects.
 And the other effect was fixity.
+And between them, those two material attributes of print as a form, they invented progress. And the advancement of
+knowledge just wasn't a thing prior to the printing press.
 
-And between... between them, those two, those two, attributes, material attributes of print as a form, invented progress, effectively. And the advancement of knowledge just wasn't a thing.
+Because, you know, books would get eaten by insects, or muddled, garbled in translation. You couldn't copy diagrams. You
+know, it simply wasn't possible to do accurate science, because how many ignorant copyists do you think can reproduce an
+intricate diagram of an aorta before it's just unrecognizable?
 
-Prior to the printing press.
+It's not until you have woodcuts or engravings that any sort of accurate pictorial representations become possible. So
+there are entire vistas of human knowledge which can be sort of catalogued and developed and worked on in a sort of
+collaborative, distributive way. And that only becomes possible through print.
 
-Because, you know, books would get eaten by insects, or muddled, garbled in translation. You couldn't copy diagrams. You know, it simply wasn't possible to do accurate science, because
+I think it's my thesis, although I wasn't really in the weeds on this today, my working hypothesis is that
+there were a concurrent set of transformations in the prevailing culture, and really in the
+the mindset of individuals within that culture more plainly, it changed how people thought.
 
-After 3... you know, how many... how many ignorant copyists do you think can reproduce an intricate diagram of an aorta before it's just unrecognizable?
-
-You know, it's not until you have woodcuts or engravings that any sort of accurate pictorial representations become possible. So there are entire vistas of human knowledge which can be sort of catalogued and
-
-And developed and worked on in a sort of collaborative, distributive way.
-
-Through... and that only becomes possible through print.
-
-I think it's my... my thesis, although I wasn't really in the weeds of this today. My working hypothesis is that there was... there's a concurrent set of transformations in the prevailing culture, and really in the
-
-The mindset of individuals within that culture more plainly, it changed how people thought.
-
-I mean, literacy as such,
-
-there's pretty good evidence that it just changes people at a fundamental level, and sort of irreversibly as well. You know, the brain... the literate brain is different to the non-literate brain, you know, in a way which you sort of... once you've... once you've got that, you can't... once you've seen it, once you can pass the little symbols, you can't unread them again. You can't forget how to do that without some sort of significant brain damage.
-
-Right.
+Literacy as such, well, there's pretty good evidence that it just changes people at a fundamental level, and sort of
+irreversibly as well. The literate brain is different to the non-literate brain, in a
+way which, once you've seen it, once you can parse the
+little symbols, you can't unread them later. You can't forget how to do that without some sort of significant brain
+damage.
 
 And once you... and again, this theme of scale, once you scale that up to a very much larger proportion of the population, something fundamental changes about what that culture is like, and how that culture approaches reality, and all sorts of things, from sort of time and memory.
 
-And what constitutes knowledge, what constitutes reality, how you assume time, or history, or... Anything works.
+And what constitutes knowledge, what constitutes reality, how you conceive time, or history, and many other things,
+all changed, not overnight, but over a period of many years.
 
-programs.
+Part of my thesis is that the inflection point for a lot of these changes, and the three in particular that I wanted to look at,
+which are nation-state, democracy in the 17th century, at least in the English-speaking world, and
 
-All... all sort of changed, not overnight, over a period of... over a period of, you know, really some...
 
-time, but I... but I...
+==================
 
-my... my... again, my thesis is that the inflection point for a lot of these changes, the three in particular that I wanted to look at.
+GAP
 
-Which are nation-state, democracy in the 17th century, at least in the English-speaking world.
+==================
 
-And,
 
-Left us with a settlement, the broad outlines of which, you know, with some contestation we've had more or less ever since, until recently.
 
-And now, the digital revolution is merely undoing a lot of those changes.
+left us with a settlement, the broad outlines of which, albeit with some contestation, we've had more or less since... until recently.
+And now, the digital revolution is really undoing a lot of those changes.
+And I think we're now embarking on a very interesting period where we doing the 17th century again, but in reverse.
 
-And I think we're now embarking on a very interesting
 
-Period of doing the 17th century again, but in reverse.
+Gene Callahan: I had been reviewing your recent Substack posts, So these ideas were in my mind one day when I was
+watching American football with my son.
+There's this very elaborate little dance a receiver does catching a pass where they have to get both feet inbounds. 
+And I said to him, "Could you imagine our ancestors finding out that this would be a really highly paid skill, that you
+could catch a ball and then do this little intricate dance with your feet.
 
-Gene Callahan: Now, with,
+And he replied, "Well, we've always had sports."
 
-these ideas in mind, I... in prepping, I reread a bunch of your recent, Substack posts, and so this was in my head.
+And I said, "Yes, but, until recently, we never had sports with intricate rulebooks. A sport would be, for instance, you
+two people chuck this javelin, and whoever chucks it furthest wins."
 
-And my son and I were watching an American football game, and there's this very elaborate thing someone does catching a pass where they have to get both feet inbounds for it to be a catch. And I said, could you imagine our ancestors
+It's only with print that you can have sports with 200-page rulebooks that the referees are supposed to master, and the
+players and coaches as much as they can. So, even with something as mundane as how a sport is played, this
+transformation radically changed things.
 
-Finding out that this would be a really highly paid skill, that you could catch a ball and then do this little...
+Mary Harrington: Yes, absolutely. I mean, you can trace that genealogy, actually, back through English football.
+English football originated back in unknown, illiterate times. There's a game called Shrovetide football, with basically has no rules at all,
+apart from two goals, a mile or more apart, and a roundish object, and then the rest of it is basically just barely
+contained rioting, where two very sort of loosely demarcated sides sort of have a riot and try and get the ball to...
+the... to their preferred end. Everyone drinks a lot of beer, and it's basically a sort of minimally, minimally
+constrained, opportunity to just have a big, enjoyable, beery fight. It's still played once a year on Shrovete, in the
+north of England.
 
-Intricate dance with your feet.
+==================
 
-And he said, well, you know, we've always had sports. And I said, yeah, but, you know, we never had sports with intricate rulebooks. I mean, a sport would be like, you two people run as fast as you can, and whoever gets down there first wins.
+QUESTION: Wikipedia claims the game is played in Ashbourne. Is that right?
 
-It's only with print.
+==================
 
-That you can have sports with
 
-400-page rulebooks that people are supposed to... the referees are supposed to absorb, and the players and coaches as much as they can. So, even with something as mundane as how a sport is played.
+Gene Callahan: We actually, in my grammar school game much like that, and on an asphalt parking lot.
+But no beer: the nuns wouldn't allow it.
 
-I think that, this transformation, I think sports are fundamentally different because.
 
-Mary Harrington: Yeah, absolutely, absolutely. I mean, you can trace that genealogy, actually, back through English football. I mean, I don't know anything at all about the history of American football, so I'll spare you my speculations there. But English football originated back in unknown, illiterate times. There's a game called Shrovetide football.
+Mary Harrington: There are variants! Unsupervised little boys will reverse engineer a version of this,
+because that's sort of deep in their DNA.
 
-Which basically has no rules at all, apart from two goals about a mile apart and a roundish object, and then the rest of it is basically just barely contained rioting, where two very sort of loosely demarcated sides sort of have a riot and try and get the ball to...
 
-the... to their preferred end. Everyone drinks a lot of beer, and it's basically a sort of minimally, minimally constrained, opportunity to just have a big, enjoyable, beery fight. It's still played once a year on Shrovete, in the north of England.
+==================
 
-Gene Callahan: We actually, in my grammar school...
+GAP
 
-Mary Harrington: comfortable.
-
-Gene Callahan: a game much like that, without the beer. On an asphalt parking lot.
-
-All right, so, you're all...
-
-Mary Harrington: There are, there are variants.
-
-Mary Harrington: Yeah, I mean, kids...
-
-Gene Callahan: up a little bit sometimes, I think.
-
-Mary Harrington: reverse engineer, you know, unsupervised little boys will reverse engineer a version that's sort of deep in their DNA.
-
-Gene Callahan: Yep.
+==================
 
 Mary Harrington: Oh.
 
 Bob Bermuda Triangle, I forgot. I'm on a footpath which goes through a little Bermuda Triangle, for some reason. I don't know. Hopefully, hopefully I'll pick up again once I pass it. Tell me, can you hear me all right? Yeah, this is good.
 
-Gene Callahan: But what did radio and television do to the world created by print?
+Gene Callahan: So what did radio and television do to the world created by print?
 
-Mary Harrington: I mean, your man for this is not me, it's Marshall McLuhan, really. Right. I mean, I can... you know, the book that made him famous was the Gutenberg Galaxy, which was published back in the 1960s, where he basically made the case that the beginning of the electric age
+Mary Harrington: Your man for this is not me, it's Marshall McLuhan, really.
+The book that made him famous was the *Gutenberg Galaxy*, which was published back in the 1960s, where he basically made
+the case that the beginning of the electric age
+was the end of the print era. So it was really quite a long time ago. The advent of radio and TV brought the gradual return of
+orality, what Walter Ong calls a secondary orality, back into culture.
+McLuhan thought would come with a return of some of the consciousness attributes of an oral culture:
 
-was the end of the print era, so really quite a long time ago. And the, you know, the advent of radio and TV were the gradual return of
+- A more mythic approach to reality.
+- More heightened emotionality, more,
+- More tribalism.
 
-Of orality, sort of what Walter Omn calls a secondary orality, back into... back into culture.
+If you look at how the counterculture erupted, and the way our world has
+developed since the two world wars, you think, "Maybe he was onto something."
+But further, I believe that the revolution happened gradually, and then all at once with the internet.
+The Internet, in a sense, that crystallized something which had been latent
+in broadcast media, perhaps because broadcast media are broadcast. There's only so far the picture can fragment, as long
+there are still these structural forces: the gatekeepers, who has control of the microphone, which is basically more or less
+the situation you have with TV, even as channels proliferate.
 
-Which he thought would come with a return to some of the... some of the sort of consciousness attributes. This is McLuhan talking. I'm not, sort of, I'm not proposing my own precise series, but McLuhan thought that some of the attributes of a... of a non-literate consciousness would start to reemerge.
+========================
 
-A sort of mythic approach to reality.
 
-More... more heightened emotionality, more,
 
-more tribalism. I mean, you know, you look at... you look at how... how the counterculture erupted, and the way... the way our world has developed since the two world wars, and you think, I don't know, maybe he was onto something. But I sort of feel like the revolution happened gradually, and then all at once with the internet.
 
-And that, in a sense, that crystallized something which had been latent.
 
-in broadcast media, perhaps because broadcast media are broadcast. You know, there's only... there's only so far the picture can fragment, as long as there is... there are still these, structural
 
-sort of forces the gatekeep, who has the microphone, which is basically more or less the situation you have with TV, even, you know, even as channels proliferate.
 
 But then the internet comes along, and all of that is suddenly very much up for grabs.
 
