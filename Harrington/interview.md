@@ -6,7 +6,11 @@ When I look at the original transcript, what you've got is, someone gets asked a
 "Well, the thing is, I once... no, no, no, let's not go into that. It's, you know, maybe I should..."
 No one needs to be reading that stream of pauses and hemming and hawing.
 
-Gene Callahan: But, so, I've become convinced that... Sorry, go ahead.
+Gene Callahan: So, I've become convinced that...
+
+[Muffled sound from Mary's end.]
+
+Sorry, go ahead.
 
 Mary Harrington: No, I was just calling the dog.
 
@@ -19,13 +23,17 @@ and making sure I'm conveying what they were thinking, and they can tell me if I
 
 Mary Harrington: Cool.
 
-Gene Callahan: Let's start out on the topic of technology.
-And, how did print change human lives?
+Gene Callahan: In any case, that provides us with a nice segue into the first topic I want to discuss with you, which
+turns around the difference between a culture that is primarily oral and one that is highly literate.
 
-Mary Harrington: I literally just finished writing a chapter about that today, at least I think I finished it. I *hope* I
-finished it. It's sort of difficult to start
-to say anything very comprehensive about this succinctly, because it changed everything. I mean, I've titled the chapter The Modernity Machine, because in my view, the printing press is... it's the foundational technology of modernity.
-You know, which is itself a vague term. I mean, your magazine is called Modern Age, but what precisely do you mean by modern? You know, you can go down a whole philosophical rabbit hole with that.
+So, how did print change human lives?
+
+Mary Harrington: I literally just finished writing a chapter about that today, at least I think I finished it. I *hope*
+I finished it. It's sort of difficult to start to say anything very comprehensive about this succinctly, because it
+changed everything. I mean, I've titled the chapter The Modernity Machine, because in my view, the printing press is...
+it's the foundational technology of modernity.  You know, which is itself a vague term. I mean, your magazine is called
+*Modern Age*, but what precisely do you mean by modern? You know, you can go down a whole philosophical rabbit hole with
+that.
 
 Gene Callahan: Yeah, well, I didn't name it, so...
 
@@ -76,7 +84,9 @@ way which, once you've seen it, once you can parse the
 little symbols, you can't unread them later. You can't forget how to do that without some sort of significant brain
 damage.
 
-And once you... and again, this theme of scale, once you scale that up to a very much larger proportion of the population, something fundamental changes about what that culture is like, and how that culture approaches reality, and all sorts of things, from sort of time and memory.
+And once you... and again, this theme of scale, once you scale that up to a very much larger proportion of the
+population, something fundamental changes about what that culture is like, and how that culture approaches reality, and
+all sorts of things, from sort of time and memory.
 
 And what constitutes knowledge, what constitutes reality, how you conceive time, or history, and many other things,
 all changed, not overnight, but over a period of many years.
@@ -167,125 +177,92 @@ in broadcast media, perhaps because broadcast media are broadcast. There's only 
 there are still these structural forces: the gatekeepers, who has control of the microphone, which is basically more or less
 the situation you have with TV, even as channels proliferate.
 
-========================
-
-
-
-
-
-
-
 But then the internet comes along, and all of that is suddenly very much up for grabs.
+Everybody's curating their own personal feed of whatever it is that they want, and the race to the
+bottom feels as though it's been very, very sudden, and a lot of people are still reeling slightly with shock, thinking,
+"Well, what just happened?"
 
-Everybody's curating their own, sort of, personal feed of whatever it is that they want, and, you know, the race to the bottom feels as though it's been very, very sudden, and a lot of people are still reeling slightly with shock, thinking, well, what just happened?
+Gene Callahan: So, some people might push back on the idea that something novel is going on.
+They might say, "You know, the phone, the smartphone, it's just a new tool."
 
-And, I mean, I think it's still happening, and we've got some way, some considerable distance, some considerable amount.
+People like David Chalmers have put out the extended mind hypothesis, that our minds actually reside not just in our brains, but in our tools, in our books,
+and so on.  You know, a shovel is a part of our mind because it's shaped so that we can dig with it properly, and once you learn to use it.
+Michael Polanyi, talks about how the blind man's stick becomes an extension of the blind man's arm, and he actually feel
+the world with the tip of the stick.
 
--Oh.
+So someone might say, "Well, these phones, they're just another element of extended mind, and we've been doing this with technology since we began chipping rocks.
+Nothing to see here."
 
-Gene Callahan: Alright, I lost you there at the end of that.
+Mary Harrington: Well, I think that's true, it's not a rebuttal. In a sense, it doesn't really do anything except put
+forward the same thesis, but from a different angle, and say it's fine, actually. And let me be clear: I'm not saying
+that any of this is necessarily bad. I think it comes with some downsides that
+people who like the modern world have perhaps not appreciated.
+But it also comes with some significant upsides.
 
-Oh.
+The entry into modernity was not cost-free, right?
+The world is full of people shroud-waving about disenchantment and the like.
+Or moaning about the atomizing and ecocidal impact of industrial technologies, or what have you. You know, all of these
+not so desirable byproducts of modernity, which we tend to kind of look past because we quite like the washing machines.
+I mean, you'll prise my washing machine from my cold, dead hands, no matter how mournfully I wring my hands about.
+modernity, or water tables, or pollution, or whatever.
 
-Mary Harrington: Afternoon.
+So, there's a sort of double-think that I think even vociferous technology critics are actually sort of tacitly quite
+comfortable with.
 
-Gene Callahan: No, what you're saying there is not coming through at all.
+But, what I think we can still be attentive to... and again, here, I'm mostly just channeling
+Marshall McLuhan. I think you can... without saying that the effect of a particular extension
+is good or bad, we can explore what it does and how it extends our
+abilities, and whether there are other abilities that we might lose as a trade-off for extending those capacities.
 
-I just hear the fact that you're speaking.
+Just as creatures that live underground develop acutely sensitized
+hearing, for example, but aren't particularly good at seeing things, because they just don't need to.
+You hyper-attune the senses that you're focused into, and perhaps allow the other ones to
+atrophy somewhat. And just saying let's be attentive to what is atrophying, is not the same
+as saying, "Oh, this is bad and we must return to some past state,"
+because that's just not going to happen, right?
 
-Yeah, for about the last minute.
+I think it's perfectly legitimate to be curious, about what we run the risk of
+atrophying in the course of developing a new extension, and perhaps to suggest, politely, that it might be worth being
+a little bit intentional about how, or how quickly, or to what extent, we allow
+faculties to atrophy. Just to concretize this a little bit more, one of the books I've
+been really enjoying reading, lately, in the context of thinking about how consciousness shifted
+with the advent of the printing press, is Mary Carruthers. I don't know if she's still alive now, but she wrote a book
+in the late-20th century on the art of memory, which is to say, medieval nemotechnics.
+That is a whole series of practices for remembering stuff from an age when books were just incredibly rare, and you
+might, for instance, get one go at the codex, and then it goes back in the cupboard, and that's it, and then you have to go
+home and you never see it again.
 
-Awesome.
-
-Mary Harrington: myself that question fairly often as well.
-
-Gene Callahan: Okay, so Mary, for about the last minute.
-
-No words came through. I could hear that you were speaking, but there was no audible words. So, the connection is a little shaky.
-
-Mary Harrington: Can you hear me now?
-
-Gene Callahan: Yes, it's good now, this is clear.
-
-Mary Harrington: Thank you.
-
-I'm not sure what was going on before, my...
-
-Gene Callahan: Yeah.
-
-Mary Harrington: Sorry, there's always these, hiccups of one kind or another.
-
-Gene Callahan: Yeah, I do like... I mean, I get a transcript at the end of this, and that really makes life easier for me, so that's why I want to try...
-
-But, we are having a little bit of, transmission difficulty. So, let's,
-
-So, some people might push back On the idea that,
-
-that... well, it, you know, I don't know, I think it's kind of strange that they're pushing back, but they do, and
-
-They might say, well, you know, the phone, the smartphone, it's just a new tool,
-
-people like David Chalmers have put out the extended mind hypothesis, that our minds actually are, you know, reside in our brains, but in our tools, in our books, in our...
-
-You know, a shovel is a part of our mind because it's shaped so that we can dig with it properly, and once you learn to use it.
-
-part of you, Michael Polanyi, talks about how the blind man's stick becomes an extension of the blind man's arm, and they actually feel the world with the tip of the stick.
-
-So someone might say, well, these bones, they're just another element of extended mind, you know, this... we've been doing this with technology since we began chipping rocks, and...
-
-And...
-
-Mary Harrington: Well, I think... I think that's true, but it doesn't... it's not a... it's not a rebuttal. In a sense, it's, you know, it doesn't... it doesn't really do anything except...
-
-elaborate... explain the same thesis, but from a different angle, and say it's... it's fine, actually. And I'm... and to be... let me be clear. I'm not saying that any of this is necessarily bad. I think it comes with some... with some downsides that people haven't... that people who like the modern world have perhaps not appreciated.
-
-But it also comes with some significant upsides, because it's... the entry into modernity was not cost-free, right? You know, all this... the world is full of people shroud-waving about disenchantment and the like.
-
-Mary Harrington: Or, you know, moaning about... moaning about the atomizing and ecosidal impact of, industrial technologies, or what have you. You know, all of these... all of these are...
-
-not so desirable byproducts of modernity, you know, which we tend to kind of look past because we quite like the washing machines. I mean, you'll fryze my washing machine from my cold, dead hands, you know, no matter how mournfully I wring my hands about.
-
-Modernity, or water tables, or pollution, or whatever.
-
-So, yeah, I mean, that's a... that's a hypocrisy, or a sort of double... a double-think that I think even... even, vociferous technology critics are... are actually sort of tacitly quite comfortable with.
-
-But, what I think we can still be attentive to, is... and again, here, I'm really... I'm mostly just sort of channeling Marshall McLuhan. I think you can... without saying that the effect of a particular extension, which again is a McLuhan-ish term, and I forget who...
-
-the name of the guy that you cited. But without saying that an extension is good or bad, we can... we can explore what it does and how... how it extends our,
-
-How it extends our abilities, and what... what perhaps is... what... what... and whether there are other abilities, for example, that we might lose as a trade-off for extending those capacities.
-
-You know, in the same sense that, you know, creatures that live under the water, underground, develop acutely sensitized hearing, for example, that aren't particularly good at seeing things, because they just don't need to. You know, I think this is,
-
-you know, you hyper-attune the senses that you're... that you're focused into, and perhaps allow the other ones to atrophy somewhat. And, you know, just to say, you know, to be attentive to what is atrophying, I think, is not the same as saying, oh, this is bad and we must return, because that's just not going to happen, right?
-
-You know, but I think... I think it's perfectly legitimate to... to be curious, about what... what we run the risk of attributing in the course of developing a new extension, and perhaps to suggest, politely, that it might be worth being a little bit intentional about how, or how quickly, or to what extent, we allow
-
-faculties to atrophy. I mean, just to concretize this a little bit more, I mean, one of the... one of the books I've been really enjoying reading, lately, in the context of thinking about how consciousness shifted
-
-with the advent of the printing press, as Mary Carruthers. I don't know if she's still alive now, but she wrote a book in the late 20th century on the art of memory, which is to say, medieval nemotechnics.
-
-Which is a whole series of practices for remembering stuff from an age when books were just incredibly rare, and you might, like, get one go on the Codex, and then it goes back in the cupboard, and that's it, and then you have to go home, that's it, you never see it again.
-
-You can't take photocopies, there isn't spare paper to write stuff down, you just have to remember it. And people were amazingly good at this. And this is a set of techniques which, you know, apart from sort of card trick guys, and, you know, fairground entertainers, and just nerds who like to show off, and just eccentric people, it's almost completely neglected.
+You can't take photocopies, there isn't spare paper to write stuff down, you just have to remember it. And people were
+amazingly good at this. And this is a set of techniques which, you know, apart from sort of card trick guys, and, you
+know, fairground entertainers, and just nerds who like to show off, and just eccentric people, it's almost completely
+neglected.
 
 as a set of cognitive tools, but it's incredibly effective. And this was just completely standard practice for them for well-educated medievals.
 
-was to develop what they would... what they would have thought of as a designed memory. You would literally... you would construct your memory, and they... they had all these very vivid metaphors for what they were doing. They would describe it as a series of pigeonholes, or the cells in a honeycomb.
+was to develop what they would... what they would have thought of as a designed memory. You would literally... you would
+construct your memory, and they... they had all these very vivid metaphors for what they were doing. They would describe
+it as a series of pigeonholes, or the cells in a honeycomb.
 
 Or, you know, a series of... or a treasure box, or... and they're all... they're all these... these metaphors for containers, really, containers of precious things.
 
-Or living things, or... and very, very plainly, what they were doing was a very methodical kind of inward filing. And these are practices that we just don't have anymore, because we don't need them.
+Or living things, or... and very, very plainly, what they were doing was a very methodical kind of inward filing. And
+these are practices that we just don't have anymore, because we don't need them.
 
-And you can say... you... you can say, well, well, so what? You know, we... no, we just have Google, or whatever. But you can also... but you can also be attentive to... to what changes.
+And you can say... you... you can say, well, well, so what? You know, we... no, we just have Google, or whatever. But
+you can also... but you can also be attentive to... to what changes.
 
-When a set of techniques like that are lost, and with it, and with the atrophying of medieval nemotechnics. So I'm not even sure if that's exactly how you pronounce it. But with the atrophying of that as a set of necessary skills, which every educated person needed to learn. They also lost an entire method of
+When a set of techniques like that are lost, and with it, and with the atrophying of medieval nemotechnics. So I'm not
+even sure if that's exactly how you pronounce it. But with the atrophying of that as a set of necessary skills, which
+every educated person needed to learn. They also lost an entire method of
 
 composing... composing arguments. An entire... an entire vocab... visual vocabulary, for... for illustrating arguments.
 
-And a whole... a whole panoply of other, what had previously been elite, shared cultural reference points, all of which together makes up a huge portion of what... of the cultural color of medieval thought.
+And a whole... a whole panoply of other, what had previously been elite, shared cultural reference points, all of which
+together makes up a huge portion of what... of the cultural color of medieval thought.
 
-And it's... and the... the fact... the simple fact that we just don't learn that stuff anymore is... and I'm quoting C.S. Lewis here, it's one of the... it's one of the biggest barriers between them and us. It's what... it's what makes the medieval so completely opaque. I actually think it's a ma... it's a major contributor to why so...
+And it's... and the... the fact... the simple fact that we just don't learn that stuff anymore is... and I'm quoting
+C.S. Lewis here, it's one of the... it's one of the biggest barriers between them and us. It's what... it's what makes
+the medieval so completely opaque. I actually think it's a ma... it's a major contributor to why so...
 
 Gene Callahan: Why, you... major contributor to Y, and then you cut off.
 
