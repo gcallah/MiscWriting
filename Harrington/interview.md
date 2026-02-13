@@ -228,111 +228,90 @@ faculties to atrophy. Just to concretize this a little bit more, one of the book
 been really enjoying reading, lately, in the context of thinking about how consciousness shifted
 with the advent of the printing press, is Mary Carruthers. I don't know if she's still alive now, but she wrote a book
 in the late-20th century on the art of memory, which is to say, medieval nemotechnics.
+
 That is a whole series of practices for remembering stuff from an age when books were just incredibly rare, and you
 might, for instance, get one go at the codex, and then it goes back in the cupboard, and that's it, and then you have to go
 home and you never see it again.
-
 You can't take photocopies, there isn't spare paper to write stuff down, you just have to remember it. And people were
 amazingly good at this. And this is a set of techniques which, you know, apart from sort of card trick guys, and, you
 know, fairground entertainers, and just nerds who like to show off, and just eccentric people, it's almost completely
-neglected.
+neglected as a set of cognitive tools, but it's incredibly effective. And this was just completely standard practice for
+well-educated medievals.
 
-as a set of cognitive tools, but it's incredibly effective. And this was just completely standard practice for them for well-educated medievals.
-
-was to develop what they would... what they would have thought of as a designed memory. You would literally... you would
-construct your memory, and they... they had all these very vivid metaphors for what they were doing. They would describe
-it as a series of pigeonholes, or the cells in a honeycomb.
-
-Or, you know, a series of... or a treasure box, or... and they're all... they're all these... these metaphors for containers, really, containers of precious things.
-
-Or living things, or... and very, very plainly, what they were doing was a very methodical kind of inward filing. And
+They would literally construct their memory, and they had all these very vivid metaphors for what they were doing. They
+would describe it as a series of pigeonholes, or the cells in a honeycomb, or a treasure box. All these these metaphors
+for containers of precious things. What they were doing was a very methodical kind of inward filing. And
 these are practices that we just don't have anymore, because we don't need them.
 
-And you can say... you... you can say, well, well, so what? You know, we... no, we just have Google, or whatever. But
-you can also... but you can also be attentive to... to what changes.
+And you you can say, "Well, so what? Now we just have Google, or whatever." But
+you can also be attentive to what changes.
 
-When a set of techniques like that are lost, and with it, and with the atrophying of medieval nemotechnics. So I'm not
-even sure if that's exactly how you pronounce it. But with the atrophying of that as a set of necessary skills, which
-every educated person needed to learn. They also lost an entire method of
+When a set of techniques like that are lost, and with it came the atrophying of medieval mnemotechnics.
+But with the atrophying of that as a set of necessary skills, which
+every educated person needed to learn, they also lost an entire method of
+composing arguments and an entire visual vocabulary for illustrating arguments,
+and whole panoply of other shared cultural reference points, all of which
+together makes up a huge portion of the cultural color of medieval thought.
 
-composing... composing arguments. An entire... an entire vocab... visual vocabulary, for... for illustrating arguments.
+And the simple fact that we just don't learn that stuff anymore is -- and I'm quoting
+C.S. Lewis here -- it's one of the biggest barriers between them and us. It's what makes
+the medieval so completely opaque. I think it's a major contributor to why so many otherwise extremely literate thinkers
+seem to just go straight from, say, Plato to Descartes, and just skip the entire Middle Ages.
 
-And a whole... a whole panoply of other, what had previously been elite, shared cultural reference points, all of which
-together makes up a huge portion of what... of the cultural color of medieval thought.
+Gene Callahan: As if it just isn't there.
 
-And it's... and the... the fact... the simple fact that we just don't learn that stuff anymore is... and I'm quoting
-C.S. Lewis here, it's one of the... it's one of the biggest barriers between them and us. It's what... it's what makes
-the medieval so completely opaque. I actually think it's a ma... it's a major contributor to why so...
+Mary Harrington: There's a slightly more complex set of reasons for it as well, but I think a significant chunk
+of it is just down to the fact of not understanding how the medievals thought, because we don't understand how rhetoric
+and the art of memory works. This means that basically the subtleties of medieval thought are unintelligible to us,
+to a far more radical degree than people realize.
 
-Gene Callahan: Why, you... major contributor to Y, and then you cut off.
+So to bring this fairly extended analogy back to the question of phones and, "You know, isn't this just an extension of ourselves?"
+Absolutely, that's completely true. However, I bring up the medieval art of memory, as a quite precise analogy
+for the kind of thing we need to be attentive to when we think about how something like a smartphone, for
+example, or the use of ChatGPT changes our relationship to our ideas. And it changes how we retain ideas, and what ideas
+we retain, and how we structure our approach to thinking. I think if it's possible for the loss of something like the
+art of memory to create so fundamental a cultural gulf between different eras.
 
-I don't hear you at all now.
+Then it stands to reason that an equivalent shift in our relationship to our storage and retrieval of ideas could very well have
+an equivalently transformative effect, which could be good, or it could just sever the world that is from the world that
+will be. And I think it's worth being thoughtful about how we approach that.
+If that's a future that we want to walk into, I propose that we should do it with our eyes as open as
+possible, and not just as the kids say, YOLO it.
 
-I don't know if you're hearing me.
-
-Mary Harrington: so many other...
-
-reaction.
-
-To... oh no, did you... don't tell me that you had the... that you didn't record any of that.
-
-Gene Callahan: I lost you, it's a major contributor to...
-
-Mary Harrington: I think it's a major contributor to why, the... why so many otherwise extremely literate thinkers seem to just skip straight over, straight, straight from, say, Plato to Descartes, and just skip the entire Middle Ages.
-
-Gene Callahan: As if, as if it just isn't there.
-
-Mary Harrington: I mean, there's a slightly more complex set of reasons for it as well, but I think a significant chunk of it is just down to the fact that not understanding how the medieval thought, because we don't understand how rhetoric and the art of memory works, just means that basically the subtleties of medieval thought is unintelligible to us.
-
-To a far more radical degree than people realize.
-
-I mean, it's a fairly extended analogy, but just sort of bringing it back to the question of phones and, oh, you know, isn't this just an extension of ourselves? Sure, yes, absolutely, that's completely true. That's absolutely what it is. However, I think... I bring up the medieval art of memory, as a... I think it's quite a precise analogy.
-
-for the kind of thing we need to be attentive to when we think about how... how something like a smartphone, for example, or the use of ChatGPT changes our relationship to the ideas that we use to think with.
-
-And changes... changes how... how we retain, or what we retain, or how we structure our approach to thinking. I think if it's possible for the loss of something like the art of memory to... to... to create so fundamental a sort of a cultural gulf between then and now.
-
-Then it stands to reason that an equivalent shift in our relationship to our storage and retrieval of ideas could very well have been
-
-an equivalently transformative effect, which could be good, or it could just... it could just sever the... the world as it's coming from the world as it is now.
-
-And I think this... I think it's worth being thoughtful about how we approach that, and it's worth doing... it's... if that's something... if that's a future that we want to walk into, I propose that we should do it with our eyes as open as possible, and not just... not just as the kids say, YOLO it.
-
-Gene Callahan: Yeah. I teach software engineering, and
-
-One thing I've noticed is that when something goes wrong with the program, it's important to focus on the error message and contemplate it and think about what this could be. And it's extremely hard for me to get my students to simply leave one screen alone
-
+Gene Callahan: I teach software engineering, and
+one thing I've noticed is that when something goes wrong with the program one of my students is working on,
+it's important to focus on the error message and contemplate it and think about what this could be caused by.
+And it's extremely hard for me to get my students to simply leave one screen alone,
 static on the monitor. They want to continually swipe from screen to screen.
-
-Mary Harrington: Huh.
-
-Gene Callahan: Makes it impossible to even read the message that they're getting.
+This makes it impossible to even carefully read the error message that they're getting.
 
 So, there's a very mundane example, but it really is striking how
+little tolerance they have for having one still thing in front of them on the computer.
 
-A little tolerance they have for having one fixed thing in front of them on the computer.
+Mary Harrington: Yes, there were some figures that popped up recently in the press about something
+like 1 in 3 kids that start school in the United Kingdom simply doesn't know how to interact with a
+book. They try to zoom it or swipe it as though it's an iPad. Which, maybe your guy might say, "Well, so what?"
 
-Mary Harrington: Yeah, I mean, there are... there were some figures that popped up recently in the press about something like 1 in 3 kids that start school... start school in the United Kingdom simply doesn't know how to interact with a book, and they try and zoom it or swipe it as though it's an iPad. Which, I mean, I don't know, and again, maybe... maybe your guy might say, well, so what?
+Gene Callahan: Well, for one thing, they can't debug the programs if they're doing that swiping.
 
-No
+Mary Harrington: Yes. There's pretty persuasive evidence -- I think the citation for this would be Nicholas Carr, who
+wrote *The Shallows* back in the aughts -- 
+where he cites a whole panoply of evidence to the effect that reading on a printed page is different in kind
+from reading in that associative way that you do across multiple Web pages, both in terms of the kind of thinking
+that you do, and the amount which is retained.
+For example, in the course of reading a long-form argument in a printed book, thoughtfully over a period of time, you'll
+have a dialogue, and not just with the author, but also in your own mind, once you read
+competently enough to be able to read swiftly. You'll find yourself reading, I'm sure you have this experience all the
+time. You're not just reading, but in the back of your mind, you're cross-referencing, or you're arguing back,
+so you're dialoguing with the text, but in a sense, your stored memory, your own memory palace, because we all
+have one to an extent.
 
-Except... except that there are... there's also pretty persuasive evidence. I think your... your guy for this, the citation for this, would be Nicholas Carr, who wrote The Shallows back in the... in the aughts.
+And again, I'm not violently anti-tech. I mean, one of the... one of the more
+interesting practices that I've noticed emerges amongst people who like to read and who are also somewhat online, is
+I'll find myself... I'll find myself absorbed in a book.
+But I also have in my mind 4 or 5 interlocutors who are interested in similar subjects, and occasionally I'll come
+across a... think of somebody, and I'll photograph the page and text it to them.
 
-A prescient engagement with some of these information overload questions, where he cites a whole panoply of evidence to the effect that reading on a screen is different in kind.
-
-Reading, reading in that associative way that you do across multiple internet pages is different in kind, both in terms of the kind of thinking that you do, and the amount which is retained.
-
-to reading on a page, where, as it were, you have that fixed thing in front of you. Sometimes it's a long-form argument, and in the course of reading a long-form argument of that kind, thoughtfully over a period of time, you'll have a dialogue, not just with the author.
-
-In your own mind, once you're... once you're on reader level.
-
-is competent enough to be able to read swiftly. You'll find yourself reading, I'm sure you have this experience all the time. You're not just reading, but in the back of your mind, you're cross-referencing, or you're arguing back, or you're... so you're dialoguing with the text, but in a sense, your stored memory, your own memory palace, because we all have one to an extent.
-
-Is... is cross-referencing what's... what you're reading with other things that you've read.
-
-And again, you know, just to say, I'm not... I'm not violently anti-tech. I mean, one of the... one of the more interesting practices that I've noticed emerges amongst people who like to read and who are also somewhat online, is I'll find myself... I'll find myself absorbed in a book.
-
-But I also have in my mind 4 or 5 interlocutors who are interested in similar subjects, and occasionally I'll come across a... think of somebody, and I'll photograph the page and text it to them.
 
 And then there'll be a whole sort of secondary or tertiary dialogue, which really does feel like an extension of that expert reader dialogue, which people like Marianne Wolff and Nicholas Carr talk about. It feels like an externalization of that, which is mediated through the phone or the chat window.
 
