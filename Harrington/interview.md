@@ -306,70 +306,51 @@ time. You're not just reading, but in the back of your mind, you're cross-refere
 so you're dialoguing with the text, but in a sense, your stored memory, your own memory palace, because we all
 have one to an extent.
 
-And again, I'm not violently anti-tech. I mean, one of the... one of the more
-interesting practices that I've noticed emerges amongst people who like to read and who are also somewhat online, is
-I'll find myself... I'll find myself absorbed in a book.
-But I also have in my mind 4 or 5 interlocutors who are interested in similar subjects, and occasionally I'll come
-across a... think of somebody, and I'll photograph the page and text it to them.
+And again, I'm not violently anti-tech. For instance, one of the more interesting practices that I've noticed emerges
+amongst people who like to read and who are also somewhat online, is I'll find myself absorbed in a book.  But I also
+have in my mind 4 or 5 interlocutors who are interested in similar subjects, and occasionally I'll think of somebody,
+and I'll photograph the page and text it to them.
 
+And that creates a whole secondary or tertiary dialogue, which really does feel like an extension of that
+expert reader dialogue, which people like Marianne Wolff and Nicholas Carr talk about. It feels like an externalization
+of that, which is mediated through the phone or the chat window.
 
-And then there'll be a whole sort of secondary or tertiary dialogue, which really does feel like an extension of that expert reader dialogue, which people like Marianne Wolff and Nicholas Carr talk about. It feels like an externalization of that, which is mediated through the phone or the chat window.
+So it's not to say that these things are mutually exclusive, it's absolutely not. It's more about... it's more a
+question of intentionality and not confusing one thing for the other.
 
-So it's not to say that these things are mutually exclusive, it's absolutely not. It's more about... it's more a question of intentionality and not confusing one thing for the other.
+Returning to our theme of translating ideas between media, *The Lord of the Rings* is a great series of movies. It's also a
+fantastic set of books. It's the same story, by and large, but nobody would go through it
+in both forms and say there's no difference between them, right?
 
-I mean, you know, the Lord of the Rings makes... is a great series of movies. It's also a fantastic set of books. It's the same story, by and large, but, you know, nobody... nobody would... would sit through it in both forms and say there are no difference... there's no difference between them, right?
+And I think that's very much the subject that we're talking about here, a translation between between information
+technologies. It seems logical to me that we should be able to apply the same level of critical reflection to what's
+happening in that sense, and in this field, and not make it either into some sort of dumb culture war thing, or a sort
+of tech doomerism, or indeed a sort of rushing into the future without any care or attentiveness to the treasures that
+we already have.
 
-Yeah, and if we're able to accept that in principle for a... you know, we started this conversation talking about translation between media, and I think... I think that's very much the subject that we're talking about here, if we're talking about
+Gene Callahan: To your point, I find, in my writing and editing, I always finish on paper.
+My last couple of edits, at some point, I have to get off the screen to really read the piece.
 
-A translation between
+Mary Harrington: Yes, I don't do that for short pieces anymore. But I think that's more a function of time than anything
+else, but the last few times I've written anything long form, absolutely. And certainly, when it comes down to proofing
+a book, there's no other way around it. You sit down with a red pen and a ruler, there's no other way.
 
-between information technologies. It seems... it seems logical to me that we should be able to apply the same level of critical reflection to what's happening in that sense, and in this field, and not make it either into some sort of dumb culture war thing, or a sort of tech doomerism, or...
+Gene Callahan: Man, I've been missing the ruler! No wonder...
 
-I... well, or indeed a sort of reckless running in... rushing into the future without... without any care or attentiveness to the treasures that we already have.
+In any case, if liberal democracy was the political form appropriate to the age of print.
+what political form is going to be appropriate for our post-literary age?
 
-Gene Callahan: Yeah, I find, in my writing and editing, I always finish on paper.
+Mary Harrington: I don't know, and I'm hesitant to... to be too concrete, because I think this is the sort of thing
+which can... which can land quite differently according to local cultural conditions, but it seems plausible to me that
+a genuinely post-liberal politics will be more autocratic in some form, or other.
 
-My last couple of edits, you know, at some point, I have to get off the screen to really read the piece.
-
-Mary Harrington: Yeah, I don't... I don't do that... I don't do that for short pieces anymore. But I think that's... that's more a function of time.
-
-Than anything else, but... but any time... the last few times I've written anything long form, yeah, absolutely. And certainly, when it comes down to proofing a book, there's no other way around it. Yeah, you go down a red pen and a ruler, there's no other way.
-
-Gene Callahan: Yeah, right, so... What political form, and, you know, here we're getting very speculative, so if,
-
-Liberal democracy was the political form appropriate to the age of print.
-
-You have any speculation as to what
-
-Form is going to be appropriate for our post-literary age?
-
-Mary Harrington: I don't know, and I'm hesitant to... to be too concrete, because I think this is the sort of thing which can... which can land quite differently according to local cultural conditions, but it seems plausible to me that a genuinely post-liberal politics will be more autocratic in some
-
-Form, or other.
-
-And I think you could... you can probably make the case. I mean, you know, several foreign policy publications have recently, in fact, made the case that that's actually already happening. You know, it doesn't take me over here, kind of, being a prophet of doom to note that the world seems recently to have been carved up between three
-
-Three very post-liberal-seeming, sphere of inference guys.
-
-Yep.
-
-None of which is based... not one of which is based in the United Kingdom. But, you know, this is... this is the considered and not particularly delighted view of
-
-serious people in the foreign policy world, that this is... that... that sort of eruption of something... something that... something very much more imperious and imperial is already upon us.
-
-Gene Callahan: That's when my number...
-
-Mary Harrington: Bye.
-
-Gene Callahan: In my notes.
-
-Mary Harrington: I mean, what... go on.
-
-Gene Callahan: when I, I said imperial form, so.
-
-Mary Harrington: Yeah, I mean, I think... I think... I think the nation-state has had it, but I think we... but I also think we already knew that.
-
-I mean, the... the...
+And I think you could... you can probably make the case. Several foreign policy publications have
+recently, in fact, made the case that that's actually already happening. It doesn't take me being a
+a prophet of doom to note that the world seems recently to have been carved up between three
+three very post-liberal-seeming, sphere of influence guys.
+Not one of which is based in the United Kingdom. But, this is the considered and not particularly delighted view of
+serious people in the foreign policy world, that something very much more imperious and imperial is already upon us.
+I think the nation-state has had it, but I also think we already knew that.
 
 It's only normal voters who still think we have nation-states, or have been acting as if we still have
 nation-states since the Second World War. The guys who are in a position to actually decide anything have been
@@ -392,55 +373,40 @@ that it shouldn't be, so nobody can really get anything done.
 But I think, sometimes when I'm in my grumpier moods, "Well, you know, maybe the post-nationals are sort of directionally right."
 
 And here I come back again to my rather sort of Marshall McLuhan-ish speculations about the end of the print era:
-the printing press and the nation-state are coextensive in terms of their emergence. Look, I did a
+the printing press and the nation-state are coextensive in terms of their emergence. did a
 hopeless job of summarizing all of the ways in which print changed the world, but one of the ways print changed the
 world was helping to create the nation-state as a political form.
 
-In the sense that, you know, it helped to kill off Latin as a lingua franca.
+For one thing, it helped to kill off Latin as a lingua franca.
+It consolidates these , which hadn't really existed before, based on people's reading in a vernacular.
+And it's only once you have that, that larger reading public, that you can begin to create what Benedict Anderson calls
+the imagined community, which is an enabling condition for the nation-state as a political form.
 
-and to consolidate these.
+When you run that scenario in reverse... well, I don't really like any of the outcomes of that.
+What does it look like if the nation-state comes apart into its national components. And here I mean "nations"
+in the Old Testament sense.
 
-These polities, which hadn't really existed before, of reading... of people's reading in... in a vernacular.
+It's obviously historically the case that nation and state haven't always coincided. In fact,
+there's something peculiarly modern about that. Do we get something like the Habsburg Empire,
+a state comprising multiple nations?
 
-And it's only once you have that, that larger reading public, speaking of vernaculum, that you can begin to create the, you know, what Benedict Anderson calls the imagined community, which is the, the sort of the political enabling condition for the nation-state as a political form.
+I don't really want to think about it in very much detail, because there's no plausible scenario which isn't quite ugly,
+at least, until everything settles down again.
 
-and...
+I forget who, but it was "someone on the Internet," that pointed out, I think, persuasively, that once you have constant
+transnational connectivity that the idea of migrants integrating is fundamentally a non-starter. 
 
-when you... when you run that scenario in reverse, I mean, I don't really like any of the outcomes that you could potentially come... end up with at the end of that. But, I mean, you know, sort of possible... possible ways that that could shake down might be, you know, you say, well, what does it look like if the nation-state comes apart into its nation?
+Whereas, for example, when people left to go and settle in Australia, and moved halfway around the world 100 or 200 years ago, they basically said goodbye to their family, and they might never see them again. So they have to fit in wherever it is that they find themselves.
+But when you can just be constantly messaging to whoever it is that you're still friends with back home, you just don't really need to be where you are at all.
+Except maybe in a sort of very thin economic sense.
+Or perhaps a, perhaps a sort of equally thinly sort of administrative one.
+But in terms of the kind of presence which is denoted by actual integration, you sort of don't really need to. You you might want to, but you don't have to.
 
-component. I mean, by nation, I mean in the Old Testament sense.
 
-And states.
 
-Because it's, you know, it's historic... it's obviously historically the case that nation and state didn't... haven't always coincided. In fact.
 
-there's something peculiarly modern about that. So what does it look like if those... if those components come apart? I don't know, I think it probably does look like some... some form of, you know... I mean, that's what the Habsburg Empire was, right? That was a... it was a state... a state comprised... comprising multiple nations.
+*****************************************
 
-Gene Callahan: Yep.
-
-Mary Harrington: You know, what... what does that...
-
-What does that look like within...
-
-polities, you know, how does that shake down within policies that are currently assembled as nation-states? I don't know. I don't really... I don't really want to think about it in very much detail, because it's...
-
-there's sort of no scenario there, which isn't just kind of... which isn't quite ugly, at least, until everything settles down again. You know, I don't like any of those possibilities, but then I also... this isn't... this isn't a point I made, this is...
-
-I forget who, but it was probably sort of someone on the internet, pointed out again, I think, persuasively, that once you have, constant
-
-transnational connectivity.
-
-that, for example, the idea of people, integrating, migrants integrating, is basically... is fundamentally a non-starter, because whereas... whereas, for example, when... when people left to go and settle in Australia.
-
-moved halfway around the world 100 years ago, you basically said goodbye to your family, and you might never see them again. So you sort of have to fit in wherever it is that you find yourself. But when you can just be constantly Bluetooth to whoever it is that you're still friends with back home, I mean, in theory, you just don't really need to be where you are at all.
-
-Except maybe in a sort of very thinly, kind of, economic sense.
-
-Or perhaps a, perhaps a sort of equally, equally thinly sort of administrative one.
-
-But in terms of the kind of presence which is denoted by actual integration, you sort of don't really need to. You know, you might want to, but you don't have to.
-
-So, yeah.
 
 Gene Callahan: Neil Stevenson, and I
 
