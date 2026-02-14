@@ -371,35 +371,30 @@ Mary Harrington: Yeah, I mean, I think... I think... I think the nation-state ha
 
 I mean, the... the...
 
-It's only... it's only normal voters who still think we have nation-states, or have been acting as if we still have nation-states since the Second World War. You know, the guys who are in a position to actually decide anything have been acting as if that needs to be bypassed.
+It's only normal voters who still think we have nation-states, or have been acting as if we still have
+nation-states since the Second World War. The guys who are in a position to actually decide anything have been
+acting, for a very long time, as if that needs to be bypassed. And I think that all happened with the best of
+intentions: this isn't some sort of sinister plot, lest you be tempted to depict me as a tinfoil hatter, I'm not.
 
-As much as possible for a very long time. And I think, you know, that all happened with... with the best of intentions, and, you know, this isn't some sort of sinister plot, lest you be tempted to depict me as a tinfoil hatter, I'm not.
+This is, with the best will in the world, there are a lot of people who have been very worried that if
+we ended up with nation-states again, then they'd end up with national wars again, and then millions
+more would have to die like they did in the First and Second World Wars.
 
-You know, this is... you know, with the best will in the world, there are a lot of people who are very worried that if we ended up with nation-states again, then they'd end up with national wars again, and then everybody else... millions more would have to die like they did in the First and Second World Wars.
+Yeah, nobody, nobody wants that. So, you know, let's have... let's have something transnational and post-national
+instead, and we'll have international, universal systems of governance, and it'll all be much more cooperative and
+collaborative and sensible and rational, and we won't
+do any more fighting. That was the hope.
 
-Yeah, nobody, nobody wants that. So, you know, let's have... let's have something transnational and post-national instead, and we'll have international, universal
+So we've got this sort of strange kind of pantomime, a strange sort of chimeric, political order, where
+about half of the people in charge want it to be transnational or postnational, and the other half are determined
+that it shouldn't be, so nobody can really get anything done.
 
-systems of governance, and it'll all be much more cooperative and collaborative and sensible and rational, and we won't do any more fighting. I don't know. I'm not sure that that's really worked out, but that was... that was the... the sort of... that was the hope.
+But I think, sometimes when I'm in my grumpier moods, "Well, you know, maybe the post-nationals are sort of directionally right."
 
-So we've got this sort of... we've got this sort of strange kind of pantomime... we've got pantomime horse, so you don't have pantomime horses in America, do you? That's a... that's a... that's not a helpful metaphor.
-
-Gene Callahan: I've only... I've been to a painting.
-
-Mary Harrington: Okay, oh yeah, that's right, that's right, you have RF relatives. These strange sort of chimeric, political order, where half of, you know, about half of the people in charge want it to be transnational or postnational, and the other half are determined that it shouldn't be, so nobody can really get anything done.
-
-And...
-
-But I think, I mean, sometimes when I... when I'm in my grumpier moods, I think, well, you know, maybe the post-nationals are sort of directionally right in some sense.
-
-In... and... and I mean, here... here I come back again to my Vegas, to my rather sort of Marshall McLuhan-ish,
-
-Speculations about the end of the print era.
-
-I mean, McLuhan's not the only one. The number of people, I think, persuasion.
-
-Make the case, but...
-
-the printing press and the nation-state are... are coexpensive in terms of their emergence. Yeah, I mean, I did a hopeless job of summarizing all of the ways in which print changed the world, but one of the ways print changed the world was helping to create the nation-state as a political form.
+And here I come back again to my rather sort of Marshall McLuhan-ish speculations about the end of the print era:
+the printing press and the nation-state are coextensive in terms of their emergence. Look, I did a
+hopeless job of summarizing all of the ways in which print changed the world, but one of the ways print changed the
+world was helping to create the nation-state as a political form.
 
 In the sense that, you know, it helped to kill off Latin as a lingua franca.
 
