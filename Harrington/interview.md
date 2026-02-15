@@ -403,140 +403,93 @@ Or perhaps a, perhaps a sort of equally thinly sort of administrative one.
 But in terms of the kind of presence which is denoted by actual integration, you sort of don't really need to. You you might want to, but you don't have to.
 
 
+Gene Callahan: Neil Stephenson, in *The Diamond Age*, depicts what he calls phyles, or geographically dispersed polities
+scattered across a globe from which nation-states have disappeared. Your phyle is similar to a guild you belong to, and
+they'll step in and defend you against aggression by people from other phyles.
+It's an interesting speculation on what might be coming.
 
+Mary Harrington: It's an interesting speculation, although, I'd probably want to set that against the IR maxim that geography is destiny.
+This is an idea that's been kicked around more recently in the tech communities, hasn't it, in the form of network
+states? And the question which I have yet to see answered, at least openly, I'm sure they talk about it privately
+amongst themselves, is what hard power looks like in a network state.
+Who manufactures the weapons? Who defends the supply lines? Who's making the food?
+And if you're just gonna wave your arms and say, "Oh, it's all robots," my response is "Okay, who's guarding the power stations? And with what?"
 
-*****************************************
-
-
-Gene Callahan: Neil Stevenson, and I
-
-don't remember if this was more in Snow Crash or Diamond Age, but one of his novels
-
-He depicts what are, non-geographic polities interacting all over the world, where,
-
-Your polity is like a guild you belong to, and they'll step in and defend you against...
-
-you know, aggression from other polities. It's kind of a...
-
-Interesting speculation on what might be coming.
-
-Mary Harrington: It's an interesting speculation, although, I mean, I'd probably... I'd probably want to set that against the IR maxim that geography is destiny. There's a... there's a sense in which, you know, you can be... you... you can be a... I mean, this is... that idea is sort of...
-
-been... it's kicked around more recently in the tech communities, hasn't it, in the form of network states? And the question which I have yet to see answered, at least openly, I'm sure they talk about it privately amongst themselves, is what hard power looks like in a network state.
-
-You know, who manufactures the weapons? Who defends the supply lines? Who's making the food?
-
-And if you just... if you're just gonna wave your arms and say, oh, it's all robots, I'm like, okay, well, who's guarding the power stations? And with what?
-
-You know, because the question, you and... you and whose army is bound to... is bound to emerge sooner or later? I mean, at least... at least if you... if you have a fairly tragic, view of human nature, you're expecting it to emerge sooner or later, right?
+Because the question, you and whose army is bound to emerge sooner or later. At least if you have a fairly tragic view
+of human nature, you're expecting it to emerge sooner or later, right?
 
 Gene Callahan: That's right.
 
-I've gone.
 
-Mary Harrington: But just to... just to complete that thought about, dispersed communities interacting all the way around the world.
+Mary Harrington: To complete that thought about dispersed communities interacting all the way around the world.
+When we think about nations and states coming apart, I think the most depressing version of that scenario is ethnic
+balkanization within what were previously more homogenous nation-states. There's some sort of thin, supranational
+governance, and then splits along very much more tribalized line below that.
 
-When we think about nations and states coming apart, I think the most depressing version of that scenario is just ethnic fragmenta... ethnic balkanization within what were previously homogenous nation-states.
+There are doomsayers who warn that that's already happening in some European countries. For example, people talk about
+no-go zones in some Swedish cities.
+Now, we have to take such reports with a pinch of salt, because whoever it is who produces a report like that has always
+got an axe to grind. Nevertheless, there does seem to be a sort of re-tribalization occurring.
+And this is happening even within polities that had explicitly embraced a version of modernity, which disavowed
+tribalism as being a thing of the past. I don't think it's a thing of the past, or at least if it *was* a thing of the past,
+I have a horrible feeling it will be a thing of the future as well. I don't love that outcome. I don't love that story,
+but I think that's part of what nation-states coming apart looks like.
 
-governed by some sort of thinner, thinner kind of supranational, approach to management. I don't really know what. And then balkanizing along very much more tribalized lines. I mean, this is...
+So, you can paint a gloomy picture about the end of liberal democracy, but I think, the more alarming side of that story
+is retribalization.
 
-You know, there are... there are doomsayers who sort of warn that that's already happening in some European countries. You know, for example, people talk about no-go zones in some Swedish cities. I don't... you know, and it's very hard to tell, isn't it, when you, you look at reports like that, because whoever it is who produces a report like that has always got an axe to grind.
+Gene Callahan: OK, can you give us a sneak preview of your new book?
 
-And you sort of... you feel like you just want... you need to take everything with a bit of a pinch of salt. But there does seem... there does seem to be...
+Mary Harrington: Well, this is what we've been talking about: it's the whole thing. The title is *The King and
+the Swan*, and the one-liner is *Politics After the Singularity*, my thesis being that the singularity already
+happened, and in fact, it was just the point where the smartphone became pervasive.
 
-A certain sort of geographic... an effect of geographic clustering.
+But this isn't the *first* singularity. We merged with our information technologies before: the printing press.
+And even that wasn't the first singularity, because before that, we merged with our information technologies when we
+invented the Greek alphabet.
 
-along, a long trib... a sort of re-tribalization occurring, I think, if you like.
+And so I'm tracing the development, particularly of European/Western
+cultures, from the inception of the alphabet through these two earlier singularities of the invention of literacy, and
+then the invention of the printing press, and then setting some of the developments of the digital age in the context of
+those developments to tease out some of the pros and cons.
 
-You know, within even polities that had explicitly embraced a version of modernity, which disavowed tribalism as such as being a thing of the past. I don't think it's a thing of the past, or at least it was a thing of the past, I have a horrible feeling it will be a thing of the future again.
+Gene Callahan: Is there a reason you're focusing on the Greek alphabet? After all, 
+the Phoenicians had an alphabet, and the Hebrews adopted that, prior to the Greek alphabet.
 
-As well. I don't love that outcome. I don't love that story, but I think that's... I think that's part of what nation-states coming apart looks like.
+Mary Harrington: The Phoenician one was the one that turned into the Greek alphabet. The significance of the Greek
+alphabet was that that was the point where all the sounds had their own symbols.
+Yes, the Jewish people had had a script for considerably longer than that.
+The Jewish history of scriptural study and deep literacy is thousands of years old. I'm certainly not ignoring that.
+But the significance of the Greek alphabet is that it represents all of the sounds, whereas earlier scripts only had the
+consonants.
 
-So, you know, you can make... you can paint a gloomy picture about the end of liberal democracy, but I think, the more... the more alarming
+Gene Callahan: Okay, that's what I was curious about.
 
-Side of that story is retribualization.
+You have made a point about the European states
+attempting to show that they are ready to stand up to Trump over Greenland and stand up to Russia.
 
-Gene Callahan: I'm actually meant to start, introduce this at the beginning, but before we run out of time,
+And, you posted a picture of the be-cardiganed NATO guy talking tough like this.
+I looked at the picture, and I thought, "Well, if I wanted to say what threat this guy would represent, I'd say he's
+perhaps a threat to maybe steal your organic bran muffins, and not much worse. And certainly not to fight Russia.
 
-Can you tell us, give us a sneak preview of your new book?
+So, I think your view that the states in Western Europe are American protectorates is accurate. It's
+perhaps what the Trump administration is trying to, to break that dependency.
 
-Mary Harrington: I mean, this is kind of what we've been talking about, it's the whole thing. The title is The King and the Swan, and the one-liner is Politics After the Singularity, and my thesis being that the singularity already happened, and in fact, it was just the point where we... where the smartphone went... became pervasive.
+Mary Harrington: I think anyone from another planet who counted the number of American military bases in Europe
+would conclude that Europe is American occupied territory.
 
-But also, also, this isn't the first singularity. You know, we merged with our information technologies once before, with a printing press.
+Gene Callahan: No doubt.
 
-And then the pro... and then... and that... but even that wasn't the first singularity, because before that, we merged with our information technologies when we invented the Greek alphabet.
+Mary Harrington: Of course, the relationship is far more complex than that.
 
-And so it's... I'm tracing the... the development, particularly of European Western
+You know, some of my best friends are American, etc., etc.
 
-cultures from the inception of the alphabet through these two earlier singularities of the invention of literacy, and then the invention of the printing press, and then setting some of the developments of the digital age in the context of those developments to tease out some of the pros and cons.
+Gene Callahan: Hey, some of the Greeks' best friends were Romans, even when Greece was a part of the Roman Empire!
 
-Gene Callahan: Is there a reason you're focusing on the Greek alphabet? Is there something...
 
-So the Phoenicians had an alphabet, and the Hebrews adopted that, and.
+*******************************
 
-Mary Harrington: I mean, the...
 
-The Phoenician one was the one that turned into the Greek alphabet. I mean, the significance of the Greek alphabet was that that was the point where all the sounds, pretty much, were... had their own symbols.
-
-Right, okay. Yes, yes, I mean, the Jewish people had an alphabet for consider... had a script for considerably longer than that.
-
-Which is, I mean, you know, the Jewish history of scriptural study and deep literacy is thousands of years old. So, you know, I'm not... I'm certainly not... certainly not kind of ignoring that. You know, it's not as though there aren't other scripts, but they're...
-
-But the...
-
-the significance of the Greek alphabet is that it's... it symbolizes... it represents all of the symbols, whereas I think... I think you need the little dots, don't you, in the Semitic script?
-
-Gene Callahan: Yes.
-
-And some... and some of the older... some of the older texts don't have the little dots, and you just have to know, and if you know, you know, and if not, then good luck.
-
-Gene Callahan: Yes, good. Okay, that's what I was curious about. So,
-
-I'm looking over my list now. You... you made a point about the, European states
-
-attempting to, show that they were ready to stand up to Trump over Greenland and stand up to Russia.
-
-And, you had a picture of the big heart attack.
-
-Mary Harrington: I'm not...
-
-Gene Callahan: NATO guy.
-
-Mary Harrington: So, sorry, what are you referencing here? I'm just trying to... just trying to...
-
-Gene Callahan: Yeah, well, you know, I didn't know which, which...
-
-Mary Harrington: essay it was, but you were talking about.
-
-Gene Callahan: There was a B-Cardigan NATO guy.
-
-Mary Harrington: Oh, yes.
-
-Gene Callahan: who was saying, we're gonna stand up to Trump over Greenland, and we'll take on Russia, and you know, I looked at the picture, and I said, well, you know, if I wanted to say what threat this guy would represent, I'd say, well, he's probably a threat to maybe steal your organic bran muffins.
-
-But... but not really to fight Russia.
-
-And, So...
-
-I had a quote from Machiavelli, there can be... there cannot be good laws where there are not good arms, and where there are good arms, there must be good laws.
-
-So, what do you see,
-
-I mean, I think your view that the states in Western Europe are American protectorates is accurate. It's,
-
-And, you know, the Trump administration may be trying to, break that relationship.
-
-Mary Harrington: outer space who counted the number of American bases in... come on, Sophie. I think anyone from another planet who counted the number of American military bases in Europe,
-
-Would... would draw the conclusion that this was an occupation.
-
-Gene Callahan: Yes.
-
-Mary Harrington: You know, which... You know, there's obviously... the relationship has more to it than that.
-
-The relationship is far more complex than that.
-
-You know, some of my best friends are American, etc, and so on. Yeah, I... I spend a lot of time in the United States.
 
 The relationship is complicated, but it's... I think it's... I think it's basically accurate that the European states are American protectors, and... and there's a... there's a great deal of ambivalence about that. I... it's... it's not really clear to me.
 
