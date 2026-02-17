@@ -486,162 +486,92 @@ You know, some of my best friends are American, etc., etc.
 
 Gene Callahan: Hey, some of the Greeks' best friends were Romans, even when Greece was a part of the Roman Empire!
 
+Mary Harrington: The relationship is complicated, think it's basically accurate that the European states are American protectorates...
+and there's a great deal of ambivalence about that.
 
-*******************************
+It's not really clear to me how all of that is going to shake down. A lot of it depends on who comes after Trump, doesn't it?
 
+Of course, you've got three more years of him, and, based on how it's gone so far, pretty much anything could happen over that time.
 
-
-The relationship is complicated, but it's... I think it's... I think it's basically accurate that the European states are American protectors, and... and there's a... there's a great deal of ambivalence about that. I... it's... it's not really clear to me.
-
-how all of that is going to shake down. How... I mean, a lot of it... a lot of it depends on who comes after Trump, doesn't it?
-
-Because, I mean, you've got 3 more years of him, and, I mean, based... based on how it's gone so far, pretty much anything could happen over that time.
-
-Gene Callahan: Yeah.
+Gene Callahan: Certainly.
 
 Mary Harrington: But nobody really knows who or what comes next.
 
-Gene Callahan: But being inside an empire is a mixed bag.
-
-But, if you look at the Roman Empire, the invading Germans were not invading for the most part because they wanted to defeat the empire, they were invading because they wanted to live inside it.
+Gene Callahan: Now, an interesting point on this topic is that being inside an empire is a mixed bag.
+If you look at the Roman Empire, the invading Germans were not invading for the most part because they wanted to
+defeat the empire, they were invading because they wanted to live inside it.
 
 Mary Harrington: That's right.
 
-That's right. I mean, this is... this is a... this is a well-known... a well-known pathway for MPARTS, if I'm... if I... if I...
+Gene Callahan: You wrote about Helen Andrews' essay on the feminization of work.
+And you feel she missed some points there. Could you describe what her essay overlooks?
 
-Remember rightly.
+Mary Harrington: Well, when I wrote *Feminism Against Progress*, it was about the emergence of the women's movement, and
+it touched on some of the same themes that Helen hits in that essay,
+particularly, a very strong female representation in certain kinds of knowledge work.
+This has happened especially in the kinds of moral, disciplinary, educational, and moral conditioning-type work that
+used to be done by church ladies in the nineteenth century.
 
-Gene Callahan: Yep.
+And now in the 20th and 21st centuries, it's done by HR ladies, who are functionally the same, and they're the same class and type of person as the church
+ladies. Just they now do that job for money now instead of for free.
 
-Mary Harrington: And some things... many such cases.
+I think it's just a mistake to attribute the "great feminization" entirely to women, because I think some of it is
+a product of our environment. And I don't just mean this in a sense of 
+Helen's argument, where all we have to do in terms of the environment is take our thumb off the scales and civilization will correct itself.
+Which may be, but I just think it's a mistake to attribute feminization, as she characterizes it, purely to women.
+Which sounds like a crazy argument to make!
 
-Gene Callahan: Yes. Okay, so,
+But let me give you an example: one of the most commonly cited sexed differences, on average, is between male and female
+typical styles of conflict.
+Men are more physically violent than women. Men tend to form in-groups and compete with other in-groups.
+in social forms which have a clear hierarchy.
 
-We'll try to... I've got a bunch of more notes, we'll try to,
+Women tend to have more flat, diffuse social structures, and to conduct
+their interpersonal conflicts indirectly through social means, such as ostracism, or dogpiling, or what have you.
 
-wrap things up soon. I don't like to go over an hour, just because I feel, you know, it becomes...
+But if you've ever watched a group of young, predominantly, or perhaps exclusively male, right-winger norms,
+having an argument on the Internet, you'll see that the "feminine-style" is the mode of conflict there.
 
-tiring. So you wrote about, Helen Andrews.
+If you think about what the Internet does as a form, what it does is it incentivizes
+endless talking, ostracism, backbiting, dogpiling, and so on, and it forecloses actual physical violence.
+So, as a form, it forces everybody into a social performance which is indistinguishable from
+what Joyce Bennison characterizes as feminization.
 
-Wrote an essay on the feminization of work.
+So, the Internet is actually feminizing everybody. Social media is an incredibly feminizing technology.
+Of course, the Internet is a long way from being the only phenomenon which contributes to this kind of subtle,
+pervasive social shift. Just think about the transition of work away from arduous manual labor of the kind
+that privileges men towards the more flat-structured, socially-based skills, promoting, managerial-type work, which very
+much more advantages women.
 
-And you feel she missed some points there. Can you, describe what her essay misses.
+So is it all down to some malign attribute of women that people are tending more to exhibit feminine styles of behaviour?
+I'm not convinced. Certainly, you can cite statistics until you're blue in the face about the
+about the increased presence of women in the workforce, but most of the trends which
+are decried under the heading of feminization and blamed on women started long before the women were in the workforce in
+any numbers at all.
 
-Mary Harrington: Oh, this is... I mean, my... when I wrote Feminism Against Progress, it was about the emergence of the women's movement, and it touched on some of the same themes that Helen hits in that essay.
+So I think there's a really important factor that needs to be taken into account,
+which is the overall sociocultural effects of our prevailing material environment, and the social forms that it
+produces, which Helen's essay leaves out.
 
-To do with the emergence, particularly, of a very... a very strong female representation in certain kinds of knowledge... knowledge work.
+And if you ignore that, you get a large-scale hand-waving, all of which just cashes out as we need to kick women out of the workforce.
+But to me, that just seems stupid, and fundamentally mistaken. I guess I would say that, wouldn't I?
 
-Particularly across, you know, bureaucratic, the kinds of moral, disciplinary, educational, and moral conditioning-type work that used to be done by church ladies in the 90s.
-
-Gene Callahan: You cut out again, At church ladies who cut out So, Mary?
-
-Mary?
-
-Mary.
-
-Mary.
-
-Mary?
-
-Mary Harrington: century for... for free. Nugget.
-
-Gene Callahan: Okay, you're cutting it and out.
-
-Mary Harrington: Oh, you couldn't hear me now.
-
-Gene Callahan: Yes, that's good.
-
-Mary Harrington: Oh.
-
-Gene Callahan: So, you cut out, you said, about church ladies. So, church ladies.
-
-Mary Harrington: Just the...
-
-Mary Harrington: Yeah, church ladies used to do this work in the 19th century, and now in the 20th century, it's done... 20th and 21st, it's done by HR ladies, who are functionally the same... they're the same class and type of person as... as the church...
-
-Money now instead of for free.
-
-Gene Callahan: But I mean, Helen's...
-
-I'm sorry, you cut out again.
-
-Mary Harrington: something, something Joyce Benson, is a civilizational catastrophe, and therefore, what... all we really need to do is take the thumb off the scales, and hopefully things will go back to normal. Which, maybe.
-
-But I'm... I don't... I'm not... I'm not completely convinced by that argument, because I think what it misses out is the, is, again, the effects of technology as a form.
-
-The effects of our...
-
-the formal effects of our overall civilization environment. And I think it's... I think it's just a mistake to attribute, quote-unquote, the great feminization entirely to women, because I think some of it is...
-
-It's a byproduct of our environment. And I don't just mean this in a sense.
-
-Gene Callahan: Hmm.
-
-Okay.
-
-Mary Harrington: of, you know, chemicals in the water, doing things to the amphibious life, as Alex Jones notoriously...
-
-Gene Callahan: Okay. Well, I want to take this... you're... you've begun cutting out...
-
-Mary Harrington: I mean, in the sense that she characterizes as being feminine ones.
-
-Can you hear me?
-
-To give you an example, well, I mean, if you, if you take one of the, one of the most frequently cited, sexed differences,
-
-you know, Helen's... Helen's argument is that what we need to do is take our thumb off the scales and civilization will correct itself, which may be, but I feel like what that misses out is the... I just think it's a mistake to attribute feminization, as she characterizes it, purely to women, which... it sounds like a crazy argument to make.
-
-But let me give you an example. I mean, one of the most commonly cited sexed differences, normatively, on average, is between male and female typical styles of conflict.
-
-Men, reportedly.
-
-I mean, men are more physically violent than women. Men tend to form in-groups and compete with other in-groups.
-
-In social forms which have a clear hierarchy, women tend to have more flat, diffuse social structures, and to conduct their interpersonal conflicts indirectly through social means, such as ostracism, or dogpiling, or what have you.
-
-So I don't know if you've ever watched a group of young, predominantly, or perhaps exclusively male, right-winger noms, having an argument on the internet.
-
-I mean, if you think about... if you think about what the internet does as a form, what it does is it incentivizes endless talking, ostracism, backbiting, dogpiling, and so on, and it forecloses actual physical violence.
-
-So, as a form, it forces everybody into... into a social... into a social performance which is indistinguishable from what... what a social... what Joyce Bennison characterizes as feminization.
-
-You know, the internet is actually feminizing everybody. Social media is an incredibly feminizing technology. I mean, this is a million... this is a long way from being the only phenomenon which... which contributes to this kind of subtle pervasive social shift. I mean, if you think about the transition of work away from arduous manual labor of the kind that privileges men towards the more flat-structured, socially-based.
-
-skills, promoting, managerial-type work, which very much more advantages women.
-
-And you think, well, is it all... is it all down to some malign attribute of women that, people are attending more to exhibit, feminine styles of behaviour?
-
-I'm... I'm not convinced. I mean, sure, you know.
-
-You know, you can... you can cite... you can cite statistics, and you're blue in the face about the...
-
-about the increased presence of women in the workforce, but most of the trends which... most of the social patterns which come under the... which are... which are decried under the heading of feminization and blamed on women started long before the women were in the workforce in any numbers at all.
-
-So I think there's just a really important counterfactual that needs to be made from the overall sociocultural effects of our prevailing material environment, and the social forms that it produces, that really just needs to be offset quite carefully.
-
-Against, sort of, large, sort of, large-scale hand-waving, all of which just cashes out as we need to kick women out of the workforce.
-
-Because to me, that just seems... that just seems stupid.
-
-And fundamentally mistaken. I mean, I guess I would say that, wouldn't I?
-
-But even so, I think I've... I can... I can make the case for it much... I can make the case for why that would be... that it's the wrong... it's the wrong solution, you know what I mean, you... I don't... I don't particularly love cancel culture, right? But I... but I don't think... I don't think it would go away if you remove women from the workforce, I really don't.
-
+Look, I don't particularly love cancel culture, right?
+But I don't think it would go away if you remove women from the workforce, I really don't.
 Not unless you also changed, fundamentally, a number of other salient features of the prevailing culture.
 
-Gene Callahan: All right, let's end up on... we'll end up on a very gloomy note.
+Gene Callahan: OK, let's end off on a gloomy note.
 
-Mary Harrington: Huh. Do we have to? Yes.
+Mary Harrington: Huh. Do we have to? Yes, I guess we do.
 
-Gene Callahan: So, Feminism Against Progress, it's been a few years since I've read it, but as I recall, one of the main things is that
+Gene Callahan: In *Feminism Against Progress*, as I recall, one of the major themes is that
+market dominance of the economy works towards making people interchangeable.
+"The market" wants to flatten any differences between men and women, because it wants them as cogs in the machine of
+production.
 
-Progress towards market dominance of the economy has been to make people interchangeable.
-
-Right?
-
-You want to, you want to flatten any differences between men and women, because you want them as cogs in the machine of production. And I was just, reading a paper on Hannah Arendt, where she says that,
-
-One of the characteristics of totalitarianism is that it wants to flatten all differences and make people as interchangeable as possible.
+And I was just reading a paper on Hannah Arendt, quoting her saying that
+one of the characteristics of totalitarianism is that it wants to flatten all differences and make people as
+interchangeable as possible.
 
 And this raises the, you know, what for my libertarian friends would be impossible, the specter of totalitarian capitalism.
 
@@ -683,16 +613,8 @@ And it will therefore, you know, eventually, over several generations, it will s
 
 And something... something will come out which won't be either, sort of, either version of the dystopia which I just painted. And I think it'll probably be a bumpy ride getting there, but I think we will get there, and we'll remain human, whether we want to or not.
 
-Gene Callahan: Yes, well, very good. It's been very interesting. I don't want to take up any more of your time. And what we'll do is, parts that cut out, I'll... I'll send to you, you know, where it stopped and where it began again, and you can, from memory... from your memory palace, fill in what you can.
+Gene Callahan: It's been very interesting, but I don't want to take up any more of your time, for which I thank you.
 
-Mary Harrington: Heh, I'll do my best.
-
-Gene Callahan: Alright, thanks so much for your time.
-
-Mary Harrington: It's been... No, it's great to speak to you, Eugene. Sorry about the sketchy network.
-
-Gene Callahan: Yeah, no worries. Alright, take care.
-
-Mary Harrington: Speak later.
+Mary Harrington: No, it's great to speak to you, Eugene.
 
 
