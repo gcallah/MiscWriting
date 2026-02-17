@@ -573,47 +573,58 @@ And I was just reading a paper on Hannah Arendt, quoting her saying that
 one of the characteristics of totalitarianism is that it wants to flatten all differences and make people as
 interchangeable as possible.
 
-And this raises the, you know, what for my libertarian friends would be impossible, the specter of totalitarian capitalism.
+And this raises the specter, a specter of what, for my libertarian friends, would be impossible, that of totalitarian capitalism.
 
-Where, you know, everyone has just been, reduced to a cog in a great machine of production, except for the, you know, the few people on top running it.
+One where everyone has been reduced to a cog in a great machine of production, except for the the few people on top, running it.
 
-So, this, I don't know, this picture came to me as I was reading this paper and prepping for this interview.
+Do you see that as a possible outcome of what is occurring around us now?
 
-anything... Strike you, you know, looking at things, looking at that idea?
+Mary Harrington: I don't know, I mean, I think the most likely countervailing force against an outcome like that is
+probably one which would be, in effect, just as depressing, which is to say the oncoming tidal wave of demographic and
+cognitive collapse.
 
-Mary Harrington: I don't know, I mean, I think the most likely countervailing force against an outcome like that is probably one which would be, in effect, just as depressing, which is to say the oncoming tidal wave of demographic and cognitive collapse.
+I'm not sure which version of catastrophe we're going to get first... maybe we'll get both at once?
+On the one hand, we seem to on a trajectory towards what you characterize as totalitarian
+capitalism, but then, also, populations are imploding to as-yet-unknown effect.
 
-I'm not sure... I'm not sure which version of catastrophe we're going to get first, maybe we'll get both at once. You know, on the one, we seem... we seem to be sort of on a... on a trajectory towards what you characterize as totalitarian capitalism, but then we also... I mean, populations are imploding to as-yet-unknown effect.
+Furthermore, the cognitive transformations affected by post-literacy are also driving a rapid decline in people's
+ability to think rationally. Which, if you think about it for even a moment, you'll agree it's just visible
+everywhere. And this is driving a competence crisis across all of the technical and engineering skills that we
+need to just keep everything that we already have functioning, let alone, I don't know, to make it into space or whatever.
 
-And also, the cognitive transformations affected by post-literacy are also driving so rapid a decline in people's ability to think rationally. Which, I mean, if you think about it for even a moment, you'll agree it's just visible everywhere.
+With potholes appearing in the roads, and and electricity substations spontaneously catching fire,
+and windows falling out of airplanes, and air traffic control systems going kaput every 5 or 10 minutes,
+I'm not sure how long that's compatible with the sort of
+dark, dystopian, or hyper-efficient image of totalitarian capitalism.
 
-You know, it's driving... it's driving a competence crisis across all of the technical and engineering skills that we need to just keep everything that we already have functioning, let alone, I don't know, make it into space or whatever.
+Gene Callahan: Maybe more like in the movie *Brazil*?
 
-You know, with potholes appearing in the roads, and, you know, and electricity substations spontaneously catching fire, and planes and windows falling out of airplanes, and air traffic control systems going kaput every 5 or 10 minutes.
+Mary Harrington: Yes, a nightmare future where you somehow get both of those feels like, it
+might be sustainable for a bit, but eventually, eventually the sheer force of numptiness is gonna sink your
+Gattaca dystopia, right? Just because people can't keep the lights on.
 
-You think... I mean, does... is that... is... I'm not sure... I'm not sure how long that's compatible with the sort of dark, dystopian, or hyper-efficient image of totalitarian capitalism.
+So, it's not a particularly cheery argument, my stance of
+skepticism towards totalitarian capitalism. But I just think people are too human
+to allow that to happen. It won't happen, because people will just be like, "Oh, I can't be
+bothered," or they'll forget to turn the gas off, or something like that.
+It's never going to get that efficient. I just don't buy it.
 
-Gene Callahan: Brilla?
+Gene Callahan: Well, I think, what we have to do is, when this is published, is to send all the readers a bottle of
+antidepressants to take while they read this.
 
-Mary Harrington: I mean, you know, a nightmare future where you somehow get both of those feels like, you know, it might be... it might be sustainable for a bit, but eventually, eventually the sheer force of numptiness is gonna... is gonna sink your Gattaca dystopia, right? Just because people can't keep the lights on.
+Mary Harrington: Just to put slightly more positive gloss.
+on what I just said. Well, actually, now that I think about it, I realize it *isn't* a more positive gloss.
+So, just to wrap things up on an even more miserable note, there are times when I
+look at the fertility crisis, and I think, "That's nature taking its course."
+That's nature self-correcting. This is a culture which is obviously so comprehensively,
+organismically intolerable, that people have just stopped having kids in it.
+And it will therefore, eventually, over several generations, it will self-correct.
 
-Yeah. So, I mean, you know, it's not a particularly cheery, it's not a particularly cheery argument, but stance of skepticism towards totalitarian capitalism. But I'm... I don't know, I just think... I just think people are too... people are too human.
+And something will come out which won't be either version of the dystopia which I just
+painted. And I think it'll probably be a bumpy ride getting there, but I think we will get there, and we'll remain
+human, whether we want to or not.
 
-to... to allow that to happen. People will just... it won't happen, because people will just be like, oh, I can't be bothered, or they'll... they'll forget to take the... they'll forget to turn the gas off, or... Yeah, people are... people are kind of... people are too human. It's never going to get that efficient. I just don't buy it.
-
-Gene Callahan: Well, I think, what we can do is, when this is, published, we can send all the readers a bottle of antidepressants to go along with,
-
-Mary Harrington: I mean, just to put a slightly... a slightly more positive gloss.
-
-on what I just said. Well, actually, now I've done... now that I say it, I realize it isn't a more positive gloss. But there are... I mean, you know, just to finish on an even more miserable note, there are times when I... when I look at the... I look at the fertility crisis, and I think, no, that's actually just nature. That's nature taking its course. That's nature self-correcting. This is a... this is a culture which is obviously so... so comprehensively, organismically intolerable.
-
-That people have just stopped having kids in it.
-
-And it will therefore, you know, eventually, over several generations, it will self-correct.
-
-And something... something will come out which won't be either, sort of, either version of the dystopia which I just painted. And I think it'll probably be a bumpy ride getting there, but I think we will get there, and we'll remain human, whether we want to or not.
-
-Gene Callahan: It's been very interesting, but I don't want to take up any more of your time, for which I thank you.
+Gene Callahan: OK, this has been very interesting, but I don't want to take up any more of your time, for which I thank you.
 
 Mary Harrington: No, it's great to speak to you, Eugene.
 
