@@ -278,15 +278,10 @@ will be. And I think it's worth being thoughtful about how we approach that.
 If that's a future that we want to walk into, I propose that we should do it with our eyes as open as
 possible, and not just as the kids say, YOLO it.
 
-Gene Callahan: I teach software engineering, and
-one thing I've noticed is that when something goes wrong with the program one of my students is working on,
-it's important to focus on the error message and contemplate it and think about what this could be caused by.
-And it's extremely hard for me to get my students to simply leave one screen alone,
-static on the monitor. They want to continually swipe from screen to screen.
-This makes it impossible to even carefully read the error message that they're getting.
-
-So, there's a very mundane example, but it really is striking how
-little tolerance they have for having one still thing in front of them on the computer.
+Gene Callahan: To return to a comparison you made earlier, between the book version of *The Lord of the Rings*, in the
+film version: In the books, once the fellowship is split up, token has no problem following one set of characters for a
+couple of hundred pages, and then switching and following another set for a similar length of time. But the movie has to
+cut back-and-forth every few minutes, or I think Jackson knew his audience would forget who Sam and Frodo were.
 
 Mary Harrington: Yes, there were some figures that popped up recently in the press about something
 like 1 in 3 kids that start school in the United Kingdom simply doesn't know how to interact with a
