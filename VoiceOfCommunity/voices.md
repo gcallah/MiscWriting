@@ -41,29 +41,38 @@ completely transform society. Famous figures following in the footsteps of the F
 Georges Sorel and Frantz Fanon. It shares much in common with the military community, such as a strict command structure
 and a focus on violence.
 
-Nisbet marks the beginning of what he calls the "ecological community" in western thought with Saint Benedict. The novel
-characteristics of this type were present in the original Benedictine rule: respect for the "web of life," cooperation,
+The "ecological community" begins in the west with Saint Benedict. The distinctive
+characteristics of this type were all there in the original Benedictine rule: respect for the "web of life," cooperation,
 uncoerced social relations, and simplicity. This form is alive today, not only in monasteries, but in communes
 attempting to get "back to nature" and other intentional communities.
 
 In response to the attempts of various bases for community to become the dominant or even exclusive basis, there has
-arisen what Nisbet calls the "plural community," which attempts to give each basis its proper place in social life.
-Nisbet finds the beginnings of pluralist thinking in Aristotle's reponse to Plato's single-minded focus on
+arisen what Nisbet calls the "plural community," which attempts to give each type of community its proper role in social life.
+Nisbet identifies the beginnings of pluralist thinking in Aristotle's reponse to Plato's single-minded focus on
 the political community. He sees that tradition continuing in Burke, Tocqueville, Durkheim, and Weber, amongst others.
 
 
 *******************
 
+While one senses that Nisbet himself is "rooting for" the plural community, his book is chiefly descriptive rather than
+advocatory. It also does not go into any depth as to how, exactly, the various forms of community relate to one another
+in a pluralistic society.
 
-In one of Michael Oakeshott's more famous essays, "The voice of poetry in the conversation of mankind," he examines what
-the relationship between what he calls different "modes" of human utterance might be. In doing so, he is continuing,
-several decades later, a inquiry he had begun in his first book, Experience and Its Modes. There, he had posited that we
+To flesh out Nisbet's concept, I think it will be salutary to turn to the someone whose work Nisbet, as far as I can
+determine, does not discuss, and who, in his turn, does not seem aware of Nisbet: Michael Oakeshott.
+
+In one of Oakeshott's more famous essays, "The voice of poetry in the conversation of mankind," he examines
+the relationship between what he calls different "modes" of human utterance. In doing so, he is continuing,
+several decades later, an inquiry he had begun in his first book, **Experience and Its Modes**. There, he had posited that we
 humans can experience the world through different lenses, or as he calls them, modes. There is, for instance, the lens
-of practical experience, the lens of science, and the lens of history. In this new approach to the topic, he has decided
-to add poetry, by which he means art in general, as another distinct mode.
+of practical experience, the lens of science, and the lens of history. In this new approach to the topic, he corrects
+what he has realized was an oversight in the earlier work, by acknowledging poetry (by which he means art in general)
+is another distinct mode.
 
-And after several decades of reflection, he decides that the best image for understanding the relationship of these
-modes is that of a conversation. And about that conversation, he writes:
+Furthermore, where he had initially described the several modes as so distinct that it appeared they might as well just
+ignore each other, 
+after several decades of reflection, he has decided that the best image for understanding the relationship of these
+modes is that of a conversation. And what is this conversation like?
 
 "In a conversation the participants are not engaged in an inquiry or a debate; there is no 'truth' to be discovered, no
 proposition to be proved, no conclusion sought. They are not concerned to inform, to persuade, or to refute one another,
@@ -118,10 +127,17 @@ this bringing it into the conversation as a welcome member, so long as it behave
 speak for them: "This rejection violence as a means, and perhaps the only means, of revolutionary change serves to
 defend the current order against those who feel it ill serves them."
 
-In normal times, when the social order is functioning reasonably well, the pluralist will tell them:
+In normal times, when the social order is functioning reasonably well, the pluralist will tell the revolutionairies:
+
+"We appreciate your keen interest in making our society better, and find it probable that some of the things that upset
+you really should be addressed. But we also know that, this side of heaven, perfection is not obtainable, so we will never
+see a perfectly just earthly kingdom. Your revolution will not, therefore, possibly be able to set right every wrong and
+cure every ill. So while you have valid complaints, you have not convinced us that violently overturning the current
+order, however flawed it may be, is worth the loss of life and destruction entailed by revolution, only to find that,
+quite probably, we are saddled with a regime *worse* than the one we overthrew.
 
 
-Despite anyone's best efforts, societies wander into trouble, sometimes so dire that a revolution may be necessary. It
+On the other hand, despite anyone's best efforts, societies wander into trouble, sometimes so dire that a revolution may be necessary. It
 is useful to note here that the totalitarian regimes behind the iron curtain fell largely without violence. Still, I
 cannot deny that there will be times when the state governing some society become so horrific that violent revolution is
 called for. And in those cases, it will be useful to have a revolutionary cadre ready to be called into action. And how
@@ -131,8 +147,7 @@ when the other communal voices in that society stopped urging them to restrain t
 
 
 In the conversation of these communities, the importance of the voices will ebb and flow. For example, in times of war,
-the military community will become more important. There may arise mass religious movements, which will raise the voice
-of the religious community.
+the military community will become more important.
 
 
 
@@ -140,8 +155,45 @@ And all of these communities must respect and recognize that they are founded up
 do away with kinship communities for humans is akin to attempting to do away with hives for bees.
 
 
-And of course none of this is a panacea. Even widespread adoption of this image of the relationship of our communities
+And of course none of this is a panacea. Even widespread recognition in the conversational relationship of our communities
 would not bring human conflict to a halt.
+The times when all of these voices have been able to contribute to a composition with relative balance and harmony have
+been rare achievements.
+Nevertheless, that does not negate the value of keeping this ideal type
+in mind as we navigate the sea of our current political circumstances.
+
+
+
+*********************
+
+## Other start!
+
+The judging the appropriate prominence of a voice, and recognizing at which times it ought to take the lead in the
+conversation, are pragmatic judgments heavily dependent upon the actual
+circumstances of the society about which the question is being asked. There is no formula to be had that will eliminate
+the need for practical wisdom in deciding such matters.
+
+
+When a people are groaning under an especially oppressive government, it may be that the voice of the revolutionary
+community needs to lead the conversation. On the other hand, when society has been fractured by violent conflict among
+its members, the voice of the political community might need to become dominant, as it did with Hobbes and his
+successors. Or when society has become widely corrupt and decadent, as happened under a Roman emperor like Nero, it may be the
+religious community, such as the early Christians, that needs to take the lead in resisting such immorality. And always,
+the ecological community strives to be in the world but not of it, so that it points towards a transcendent city that
+any real, human city can only approach from a distance.
+
+
+Rod Dreher's book **The Benedict Option** is a recent voice reminding us of the value of the ecological community:
+there are circumstances in which is appropriate for a "remnant" to withdraw from the society around them as
+much as possible, and by their example, show the possibility of a different way of life.
+
+
+The right course for a place like Vermont might be to become an anarchist enclave within the American empire. It could
+work at that level, so long as the enclave accepts the foreign policy of the empire sheltering it.
+
+
+Monks in relation to our spiritual life are analogous to top golf course lawns to the front lawn most of us actually have.
+
 
 
 
