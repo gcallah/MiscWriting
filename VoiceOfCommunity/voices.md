@@ -1,17 +1,13 @@
 # The Voice of Communities in the Conversation of Mankind
 
+Gene Callahan
 
+Robert Nisbet was an American sociologist who lived from 1913 to 1996. In 1973 he published *The Social
+Philosophers*, which was recently brought back into print through the work of editor Luke Sheahan.
 
-Robert Nisbet was an American sociologist who lived from 1913 to 1996. The book under review here, *The Social
-Philosophers*, was published in 1973. But the book went out of print, due to various factors, including the collapse of
-its initial publisher. Editor Luke Sheahan and The American Philosophical Society Press have rectified that ommission by
-bringing out a new addition this year.
-
-Nisbet's story begins with the earliest human communities, based upon kinship and ruled by the tradition, as interpreted
-by the elders. Nisbet keeps this community in mind throughout the book, but does not devote a chapter to it. That is
-because this form of community, which was the sole form of human society for the first many tens of thousands of years
-of our existence, did not produce social philosophers. It did not need to, for the same reason that no one needs to
-offer an explanation of why they are breathing, but only of why they are not breathing: kinship communities are as
+Nisbet describes how the earliest human communities were based upon kinship and ruled by the tradition, as interpreted
+by the elders. This form of community was the sole form of human society for the first many tens of thousands of years
+of our existence, but it did not produce social philosophers. It did not need to, because kinship communities are as
 natural to humans as hive communities are to bees.
 
 However, after many millennia there arose a rival to the kinship community: the military community, organized around the
@@ -24,18 +20,10 @@ As the kinship based societies fell, one after another, to societies organized u
 a way to tame this military form of organization and turn the new unity that it created towards higher goals than mere
 killing and conquest.
 
-The result of that quest was the political community.  As Nisbet demonstrates, the political community is a development
-of the military one:
-
-"There is no known historical instance of a political state not founded in circumstances of war, not rooted in the
-distinctive discipline of war. The state is indeed hardly more than the institutionalization of the war-making
-apparatus..." (83).
-
 In the golden age of Athens, the conflict between kinship based community and military based community became acute. The
 tragic playwrights dealt with this theme repeatedly.  But, as Nisbet demonstrates, the greatest of the thinkers dealing
 with this conflict was Plato. As he puts it, "Such was the power of his portrait of the political community that it has
-remained for some twenty-five hundred years the major inspiration of all other portraits of this form of community"
-(105).
+remained for some twenty-five hundred years the major inspiration of all other portraits of this form of community".
 
 The other great figures of this tradition include the body of elite Roman lawyers who bequeathed us Roman law,
 Machiavelli, Bodin, Hobbes, and Rousseau.
@@ -43,11 +31,9 @@ Machiavelli, Bodin, Hobbes, and Rousseau.
 As the Roman Empire declined, a new form of community arose in its wake, specifically oriented around religious
 practice: the religious community. After highlighting the importance of early Christianity in the Roman Empire, Nisbet
 continues to discuss Augustine, medieval Christendom, the effects of Luther, Calvin, and the French philosophes on that
-social order, and revival of thinking about religious community in the 19th century.
-
-Interestingly, it was largely the secular sociologists of the 19th and early 20th century, such as Comte, Durkheim, and
-Weber, who revived recognition of the importance of the religious community. As Nisbet writes, "In every relevant
-aspect, the rise of sociology is a part of the nineteenth-century rediscovery of the religious community."
+social order, 
+He notes that in the revival of thinking about religious community in the 19th century,
+secular sociologists, such as Comte, Durkheim, and Weber, played an important role.
 
 The next form Nisbet takes up is the revolutionary community.  He argues that this form of community is born with the
 French Revolution, which, as opposed to earlier slave and peasant revolts, was not a mere rebellion, but an attempt to
@@ -61,14 +47,15 @@ uncoerced social relations, and simplicity. This form is alive today, not only i
 attempting to get "back to nature" and other intentional communities.
 
 In response to the attempts of various bases for community to become the dominant or even exclusive basis, there has
-arisen what Nisbet calls the "plural community," which attempts to give each basis its proper place in a conversation of
-communities. Nisbet finds the beginnings of pluralist thinking in Aristotle's reponse to Plato's single-minded focus on
+arisen what Nisbet calls the "plural community," which attempts to give each basis its proper place in social life.
+Nisbet finds the beginnings of pluralist thinking in Aristotle's reponse to Plato's single-minded focus on
 the political community. He sees that tradition continuing in Burke, Tocqueville, Durkheim, and Weber, amongst others.
-In this pluralist view, when any of these forms of community becomes too dominant, the effect is a one-sided caricature
-of what human society ought to look like.
 
 
-In one of Michael Oakeshott's more famous essays, "the voice of poetry in the conversation of mankind," he examines what
+*******************
+
+
+In one of Michael Oakeshott's more famous essays, "The voice of poetry in the conversation of mankind," he examines what
 the relationship between what he calls different "modes" of human utterance might be. In doing so, he is continuing,
 several decades later, a inquiry he had begun in his first book, Experience and Its Modes. There, he had posited that we
 humans can experience the world through different lenses, or as he calls them, modes. There is, for instance, the lens
