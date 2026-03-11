@@ -2,10 +2,10 @@
 
 Gene Callahan
 
-Robert Nisbet was an American sociologist who lived from 1913 to 1996. In 1973 he published *The Social
-Philosophers*, which was recently brought back into print through the work of editor Luke Sheahan.
+Robert Nisbet published *The Social Philosophers* in 1973. OUt of print for years, it was recently re-published
+through the work of editor Luke Sheahan.
 
-Nisbet describes how the earliest human communities were based upon kinship and ruled by the tradition, as interpreted
+In the book, Nisbet describes how the earliest human communities were based upon kinship and ruled by the tradition, as interpreted
 by the elders. This form of community was the sole form of human society for the first many tens of thousands of years
 of our existence, but it did not produce social philosophers. It did not need to, because kinship communities are as
 natural to humans as hive communities are to bees.
@@ -16,23 +16,16 @@ any kinship community that it confronted. As Nisbet puts it:
 
 "The kinship community is invariably defeated by the military community when the two come in confrontation" (22).
 
-As the kinship based societies fell, one after another, to societies organized upon military lines, the quest began for
-a way to tame this military form of organization and turn the new unity that it created towards higher goals than mere
-killing and conquest.
-
 In the golden age of Athens, the conflict between kinship based community and military based community became acute. The
-tragic playwrights dealt with this theme repeatedly.  But, as Nisbet demonstrates, the greatest of the thinkers dealing
+tragic playwrights dealt with this theme repeatedly.  But the greatest of the thinkers dealing
 with this conflict was Plato. As he puts it, "Such was the power of his portrait of the political community that it has
 remained for some twenty-five hundred years the major inspiration of all other portraits of this form of community".
-
-The other great figures of this tradition include the body of elite Roman lawyers who bequeathed us Roman law,
-Machiavelli, Bodin, Hobbes, and Rousseau.
+The other major portrayers of this form included Machiavelli, Bodin, Hobbes, and Rousseau.
 
 As the Roman Empire declined, a new form of community arose in its wake, specifically oriented around religious
 practice: the religious community. After highlighting the importance of early Christianity in the Roman Empire, Nisbet
 continues to discuss Augustine, medieval Christendom, the effects of Luther, Calvin, and the French philosophes on that
-social order, 
-He notes that in the revival of thinking about religious community in the 19th century,
+social order. He notes that in the revival of thinking about religious community in the 19th century,
 secular sociologists, such as Comte, Durkheim, and Weber, played an important role.
 
 The next form Nisbet takes up is the revolutionary community.  He argues that this form of community is born with the
@@ -63,7 +56,7 @@ determine, does not discuss, and who, in his turn, does not seem aware of Nisbet
 
 In one of Oakeshott's more famous essays, "The voice of poetry in the conversation of mankind," he examines
 the relationship between what he calls different "modes" of human utterance. In doing so, he is continuing,
-several decades later, an inquiry he had begun in his first book, **Experience and Its Modes**. There, he had posited that we
+several decades later, an inquiry he had begun in his first book, *Experience and Its Modes*. There, he had posited that we
 humans can experience the world through different lenses, or as he calls them, modes. There is, for instance, the lens
 of practical experience, the lens of science, and the lens of history. In this new approach to the topic, he corrects
 what he has realized was an oversight in the earlier work, by acknowledging poetry (by which he means art in general)
@@ -80,15 +73,33 @@ and therefore the cogency of their utterances does not depend upon their all spe
 without disagreeing."
 
 In this conversation, the voices of the different modes "take wing and play round one another, responding to each
-other's movements and provoking one another to fresh exertions." I'd rather than being like a contest in which one mode
+other's movements and provoking one another to fresh exertions." Rather than being like a contest in which one mode
 must ultimately be selected the winner, or a voyage which must reach a predetermined destination or be declared a
 failure, the conversation is instead "an unrehearsed intellectual adventure."
 
+What might be gained by viewing these different forms of community as being in a conversation, rather than in a
+competition? For one thing, the importance of each communal voice changes as the circumstances of the society
+encompassing all of them changes.
 
-No society without a military community can survive entering into conflict with a society with one. So even pacifist
+The judging the appropriate prominence of a voice, and recognizing at which times it ought to take the lead in the
+conversation, are pragmatic judgments heavily dependent upon the actual
+circumstances of the society about which the question is being asked. There is no formula to be had that will eliminate
+the need for practical wisdom in deciding such matters.
+
+For instance, no society without a military community can survive entering into conflict with a society with one. So even pacifist
 ecological communities should recognizing that, without some form of military community sheltering them, their survival
 is precarious indeed.
 
+Or when society has been fractured by violent conflict among
+its members, the voice of the political community might need to become dominant, as it did with Hobbes and his
+successors. Or when society has become widely corrupt and decadent, as happened under a Roman emperor like Nero, it may be the
+religious community, such as the early Christians, that needs to take the lead in resisting such immorality. And always,
+the ecological community strives to be in the world but not of it, so that it points towards a transcendent city that
+any real, human city can only approach from a distance.
+
+Rod Dreher's book **The Benedict Option** is a recent reminder of the value of the ecological community:
+there are circumstances in which is appropriate for a "remnant" to withdraw from the society around them as
+much as possible, and by their example, show the possibility of a different way of life.
 
 States are often suspicious of ecological communities, since the state wants everyone within its borders to participate
 in political life (even if only as the victim of a totalitarian regime). But in most cases, this suspicion is unfounded.
@@ -124,10 +135,10 @@ in its proceedings,
 
 Of course, Karl Marx, no less than Frantz Fanon, would completely reject this taming of the revolutionary community,
 this bringing it into the conversation as a welcome member, so long as it behaves itself. they would tell us, if I may
-speak for them: "This rejection violence as a means, and perhaps the only means, of revolutionary change serves to
+speak for them: "This rejection of violence as a means, and perhaps the only means, of revolutionary change serves to
 defend the current order against those who feel it ill serves them."
 
-In normal times, when the social order is functioning reasonably well, the pluralist will tell the revolutionairies:
+But in normal times, when the social order is functioning reasonably well, the pluralist will tell the revolutionairies:
 
 "We appreciate your keen interest in making our society better, and find it probable that some of the things that upset
 you really should be addressed. But we also know that, this side of heaven, perfection is not obtainable, so we will never
@@ -167,29 +178,6 @@ in mind as we navigate the sea of our current political circumstances.
 *********************
 
 ## Other start!
-
-The judging the appropriate prominence of a voice, and recognizing at which times it ought to take the lead in the
-conversation, are pragmatic judgments heavily dependent upon the actual
-circumstances of the society about which the question is being asked. There is no formula to be had that will eliminate
-the need for practical wisdom in deciding such matters.
-
-
-When a people are groaning under an especially oppressive government, it may be that the voice of the revolutionary
-community needs to lead the conversation. On the other hand, when society has been fractured by violent conflict among
-its members, the voice of the political community might need to become dominant, as it did with Hobbes and his
-successors. Or when society has become widely corrupt and decadent, as happened under a Roman emperor like Nero, it may be the
-religious community, such as the early Christians, that needs to take the lead in resisting such immorality. And always,
-the ecological community strives to be in the world but not of it, so that it points towards a transcendent city that
-any real, human city can only approach from a distance.
-
-
-Rod Dreher's book **The Benedict Option** is a recent voice reminding us of the value of the ecological community:
-there are circumstances in which is appropriate for a "remnant" to withdraw from the society around them as
-much as possible, and by their example, show the possibility of a different way of life.
-
-
-The right course for a place like Vermont might be to become an anarchist enclave within the American empire. It could
-work at that level, so long as the enclave accepts the foreign policy of the empire sheltering it.
 
 
 Monks in relation to our spiritual life are analogous to top golf course lawns to the front lawn most of us actually have.
