@@ -2,13 +2,13 @@
 
 Gene Callahan
 
-Robert Nisbet published *The Social Philosophers* in 1973. OUt of print for years, it was recently re-published
+Robert Nisbet published *The Social Philosophers* in 1973. Out of print for years, it was recently re-published
 through the work of editor Luke Sheahan.
 
-In the book, Nisbet describes how the earliest human communities were based upon kinship and ruled by the tradition, as interpreted
-by the elders. This form of community was the sole form of human society for the first many tens of thousands of years
-of our existence, but it did not produce social philosophers. It did not need to, because kinship communities are as
-natural to humans as hive communities are to bees.
+In the book, Nisbet describes how the earliest human communities were based upon kinship and ruled by tradition, as
+interpreted by the elders. This type of community was the sole form of human society for the first many tens of
+thousands of years of our existence, but it did not produce social philosophers. It did not need to, because kinship
+communities are as natural to humans as hive communities are to bees.
 
 However, after many millennia there arose a rival to the kinship community: the military community, organized around the
 command of a single leader, rather than a network of familial ties. And the existence of such community was deadly for
@@ -17,22 +17,22 @@ any kinship community that it confronted. As Nisbet puts it:
 "The kinship community is invariably defeated by the military community when the two come in confrontation" (22).
 
 In the golden age of Athens, the conflict between kinship based community and military based community became acute. The
-tragic playwrights dealt with this theme repeatedly.  But the greatest of the thinkers dealing
-with this conflict was Plato. As he puts it, "Such was the power of his portrait of the political community that it has
+tragic playwrights grappled with this theme repeatedly.  But the greatest of the thinkers dealing
+with this conflict was Plato. As Nisbet puts it, "Such was the power of his portrait of the political community that it has
 remained for some twenty-five hundred years the major inspiration of all other portraits of this form of community".
 The other major portrayers of this form included Machiavelli, Bodin, Hobbes, and Rousseau.
 
-As the Roman Empire declined, a new form of community arose in its wake, specifically oriented around religious
-practice: the religious community. After highlighting the importance of early Christianity in the Roman Empire, Nisbet
-continues to discuss Augustine, medieval Christendom, the effects of Luther, Calvin, and the French philosophes on that
+As the Roman Empire declined, a new form of community arose in its wake, specifically oriented around the spiritual
+life: the religious community. After highlighting the importance of early Christianity in the Roman Empire, Nisbet
+continues to discuss Augustine, medieval Christendom, the effects of the Protestant Reformation on dissolving that
 social order. He notes that in the revival of thinking about religious community in the 19th century,
 secular sociologists, such as Comte, Durkheim, and Weber, played an important role.
 
 The next form Nisbet takes up is the revolutionary community.  He argues that this form of community is born with the
-French Revolution, which, as opposed to earlier slave and peasant revolts, was not a mere rebellion, but an attempt to
-completely transform society. Famous figures following in the footsteps of the French Revolution include Marx, Lenin,
-Georges Sorel and Frantz Fanon. It shares much in common with the military community, such as a strict command structure
-and a focus on violence.
+French Revolution, which, as opposed to earlier slave and peasant revolts or palace coups,
+was not a mere rebellion, but an attempt to completely transform society. Famous figures following in the footsteps of
+the French Revolution include Marx, Lenin, Georges Sorel and Frantz Fanon. The revolutionary community shares much in
+common with the military community, such as a strict command structure and a focus on violence.
 
 The "ecological community" begins in the west with Saint Benedict. The distinctive
 characteristics of this type were all there in the original Benedictine rule: respect for the "web of life," cooperation,
@@ -48,18 +48,18 @@ the political community. He sees that tradition continuing in Burke, Tocqueville
 *******************
 
 While one senses that Nisbet himself is "rooting for" the plural community, his book is chiefly descriptive rather than
-advocatory. It also does not go into any depth as to how, exactly, the various forms of community relate to one another
+advocatory. It also does not go into any depth as to how, exactly, the various forms of community should relate to one another
 in a pluralistic society.
 
-To flesh out Nisbet's concept, I think it will be salutary to turn to the someone whose work Nisbet, as far as I can
+To flesh out Nisbet's concept, I think it will be beneficial to turn to the someone whose work Nisbet, as far as I can
 determine, does not discuss, and who, in his turn, does not seem aware of Nisbet: Michael Oakeshott.
 
 In one of Oakeshott's more famous essays, "The voice of poetry in the conversation of mankind," he examines
 the relationship between what he calls different "modes" of human utterance. In doing so, he is continuing,
 several decades later, an inquiry he had begun in his first book, *Experience and Its Modes*. There, he had posited that we
 humans can experience the world through different lenses, or as he calls them, modes. There is, for instance, the lens
-of practical experience, the lens of science, and the lens of history. In this new approach to the topic, he corrects
-what he has realized was an oversight in the earlier work, by acknowledging poetry (by which he means art in general)
+of practical experience, the lens of science, and the lens of history. In this revisitation of the topic, he corrects
+an oversight in the earlier work, by acknowledging that poetry (by which he means art in general)
 is another distinct mode.
 
 Furthermore, where he had initially described the several modes as so distinct that it appeared they might as well just
@@ -67,7 +67,7 @@ ignore each other,
 after several decades of reflection, he has decided that the best image for understanding the relationship of these
 modes is that of a conversation. And what is this conversation like?
 
-"In a conversation the participants are not engaged in an inquiry or a debate; there is no 'truth' to be discovered, no
+"the participants are not engaged in an inquiry or a debate; there is no 'truth' to be discovered, no
 proposition to be proved, no conclusion sought. They are not concerned to inform, to persuade, or to refute one another,
 and therefore the cogency of their utterances does not depend upon their all speaking in the same idiom; they may differ
 without disagreeing."
@@ -81,9 +81,9 @@ What might be gained by viewing these different forms of community as being in a
 competition? For one thing, the importance of each communal voice changes as the circumstances of the society
 encompassing all of them changes.
 
-The judging the appropriate prominence of a voice, and recognizing at which times it ought to take the lead in the
-conversation, are pragmatic judgments heavily dependent upon the actual
-circumstances of the society about which the question is being asked. There is no formula to be had that will eliminate
+Finding the appropriate level for a voice, and recognizing at which times it ought to take the lead in the
+conversation, are pragmatic judgments relying upon intimate knowledge of the actual
+circumstances of the time and the place about which the question is being asked. There is no formula to be had that will eliminate
 the need for practical wisdom in deciding such matters.
 
 For instance, no society without a military community can survive entering into conflict with a society with one. So even pacifist
