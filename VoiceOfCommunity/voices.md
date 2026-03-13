@@ -86,9 +86,10 @@ conversation, are pragmatic judgments relying upon intimate knowledge of the act
 circumstances of the time and the place about which the question is being asked. There is no formula to be had that will eliminate
 the need for practical wisdom in deciding such matters.
 
-For instance, no society without a military community can survive entering into conflict with a society with one. So even pacifist
-ecological communities should recognizing that, without some form of military community sheltering them, their survival
-is precarious indeed.
+And what is the value of allowing these different voices into the conversation? For one, there is mere practical
+utility: For instance, no society without a military community can survive entering into conflict with a society with
+one. So even pacifist ecological communities should recognizing that, without some form of military community sheltering
+them, their survival is precarious indeed.
 
 Or when society has been fractured by violent conflict among
 its members, the voice of the political community might need to become dominant, as it did with Hobbes and his
@@ -97,15 +98,18 @@ religious community, such as the early Christians, that needs to take the lead i
 the ecological community strives to be in the world but not of it, so that it points towards a transcendent city that
 any real, human city can only approach from a distance.
 
-Rod Dreher's book **The Benedict Option** is a recent reminder of the value of the ecological community:
+Rod Dreher's book *The Benedict Option* is a recent reminder of the value of the ecological community:
 there are circumstances in which is appropriate for a "remnant" to withdraw from the society around them as
 much as possible, and by their example, show the possibility of a different way of life.
 
-States are often suspicious of ecological communities, since the state wants everyone within its borders to participate
+The State is often suspicious of ecological communities, since the State wants everyone within its borders to participate
 in political life (even if only as the victim of a totalitarian regime). But in most cases, this suspicion is unfounded.
 The existence of such communities can expand the boundaries of what forms of life the people in a society conceive as
 possible. They're like scouts, sent out to report back on how hospitable far off life forms may prove to be.
 
+The danger of *not* allowing these voices to fully participate in the conversation, or even excluding them entirely, is
+that it produces a one-sided social life, deformed like a weight lifter who only strengthens his biceps and neglects his
+other muscles.
 
 As brilliant a thinker as Giovanni Gentile can fall into grave error when he fails to realize that to be fully human
 requires the recognition that all of these types of community are, in fact, human. While he correctly sees that the
@@ -116,9 +120,9 @@ State."
 
 https://www.worldfuturefund.org/wffmaster/Reading/Germany/mussolini.htm
 
-The many valuable qualities that Gentile attributes to fascism are disfigured by the introduction of this totalitarian
-element, much like several beautiful voices in a piece of music can be ruined by the introduction of a single brash and
-dominating instrument.
+The many valuable qualities that Gentile sees in fascism are disfigured by the introduction of this totalitarian
+element, much as the harmony of several beautiful voices in a piece of music can be ruined by the introduction of a
+single brash and dominating instrument.
 
 Clearly, the most difficult community to bring into conversation with the other communities is the revolutionary one.
 But I suggest this is not impossible. If, as thinkers like Bosanquet and Gentile realized in regard to the state, we
