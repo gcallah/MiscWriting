@@ -124,12 +124,13 @@ The many valuable qualities that Gentile sees in fascism are disfigured by the i
 element, much as the harmony of several beautiful voices in a piece of music can be ruined by the introduction of a
 single brash and dominating instrument.
 
-Clearly, the most difficult community to bring into conversation with the other communities is the revolutionary one.
+Clearly, the most difficult community to bring into conversation with the others is the revolutionary one.
 But I suggest this is not impossible. If, as thinkers like Bosanquet and Gentile realized in regard to the state, we
 understand that each of these types of communities not only has an external form, but also an internal representation in
 our own consciousness, then it is clear that the revolutionary community exists in all of us. After all, which of us has
-not had days when it seemed better to overthrow all established order, than to endure some present injustice?
+not had days when it seemed better to overthrow everything, rather than to continue enduring some present injustice?
 
+******************
 
 A grave misstep occurred when the sensible notion that the state should be neutral about the conversation between its
 various religious communities, to mean that the state ought to completely ignore the voices of the religious communities
@@ -149,26 +150,18 @@ you really should be addressed. But we also know that, this side of heaven, perf
 see a perfectly just earthly kingdom. Your revolution will not, therefore, possibly be able to set right every wrong and
 cure every ill. So while you have valid complaints, you have not convinced us that violently overturning the current
 order, however flawed it may be, is worth the loss of life and destruction entailed by revolution, only to find that,
-quite probably, we are saddled with a regime *worse* than the one we overthrew.
+quite probably, we are saddled with a regime *worse* than the one we overthrew."
 
 
-On the other hand, despite anyone's best efforts, societies wander into trouble, sometimes so dire that a revolution may be necessary. It
-is useful to note here that the totalitarian regimes behind the iron curtain fell largely without violence. Still, I
-cannot deny that there will be times when the state governing some society become so horrific that violent revolution is
-called for. And in those cases, it will be useful to have a revolutionary cadre ready to be called into action. And how
-could such a community know when it was appropriate to change tactics from protesting to taking up arms? It would be
-when the other communal voices in that society stopped urging them to restrain themselves.
-
-
-
-In the conversation of these communities, the importance of the voices will ebb and flow. For example, in times of war,
-the military community will become more important.
-
-
+On the other hand, despite anyone's best efforts, societies wander into trouble, sometimes so dire that a revolution may
+be necessary. It is useful to note here that the totalitarian regimes behind the iron curtain fell largely without
+violence. Still, I cannot deny that there will be times when the state governing some society become so horrific that
+violent revolution is called for. And in those cases, it will be useful to have a revolutionary cadre ready to be called
+into action. And how could such a community know when it is appropriate to change tactics from protesting to taking up
+arms? It is when the other communal voices in that society stopped urging them to restrain themselves.
 
 And all of these communities must respect and recognize that they are founded upon the kinship community. Attempting to
 do away with kinship communities for humans is akin to attempting to do away with hives for bees.
-
 
 And of course none of this is a panacea. Even widespread recognition in the conversational relationship of our communities
 would not bring human conflict to a halt.
@@ -176,16 +169,4 @@ The times when all of these voices have been able to contribute to a composition
 been rare achievements.
 Nevertheless, that does not negate the value of keeping this ideal type
 in mind as we navigate the sea of our current political circumstances.
-
-
-
-*********************
-
-## Other start!
-
-
-Monks in relation to our spiritual life are analogous to top golf course lawns to the front lawn most of us actually have.
-
-
-
 
