@@ -2,10 +2,10 @@
 
 Gene Callahan
 
-I recently reviewed Robert Nisbet's *The Social Philosophers*, an important book that was published in 1973, but that
-was unfortunately out of print for many years until the efforts of editor Luke Sheahan saw a new edition come out this
-year. Here I would like to expand upon the insights I gained from Nisbet's book by bringing it into a conversation with
-another, related conception. I will begin by summarizing Nisbet's contribution.
+I recently reviewed Robert Nisbet's *The Social Philosophers*. This is an important book, first published in 1973.
+But unfortunately it was out of print for many years, until the efforts of editor Luke Sheahan saw a new edition come out this
+year. Here I would like to expand upon the insights I gained from Nisbet's book by bringing it into dialogue with
+another a second image. I will begin by summarizing Nisbet's contribution.
 
 The backdrop of Nisbet's contemplation of the social philosphers is the kinship community.
 All of the earliest human communities were based upon kin relations and ruled by tradition, as
@@ -20,10 +20,10 @@ any kinship community that it confronted. As Nisbet puts it:
 
 In the golden age of Athens, the conflict between kinship based community and military based community became acute. The
 tragic playwrights grappled with this theme repeatedly.  But the greatest of the thinkers dealing
-with this conflict was Plato, and his attempt to resolve the conflict was his depiction of the *political* community,
-most memorably depicted in *The Republic*. As Nisbet tells us, "Such was the power of [Plato's] portrait of the political
+with this conflict was Plato, and he attempted to resolve that conflict by depicitng the perfect *political* community
+in *The Republic*. As Nisbet tells us, "Such was the power of [Plato's] portrait of the political
 community that it has remained for some twenty-five hundred years the major inspiration of all other portraits of this
-form of community".  The other major portrayers of this form included Machiavelli, Bodin, Hobbes, and Rousseau.
+form of community." The other major portrayers of this form included Machiavelli, Bodin, Hobbes, and Rousseau.
 
 As the Roman Empire declined, a new form of community arose in its wake, specifically oriented around the spiritual
 life: the religious community. After highlighting the importance of early Christianity in the Roman Empire, Nisbet
@@ -31,7 +31,7 @@ continues to discuss Augustine, medieval Christendom, and the effects of the Pro
 social order. He notes that in the revival of thinking about religious community in the 19th century,
 secular sociologists, such as Comte, Durkheim, and Weber, played an important role.
 
-The next form Nisbet takes up is the revolutionary community.  He argues that this form of community is born with the
+The next form Nisbet takes up is the revolutionary community.  He argues that this form of community was born with the
 French Revolution, which, as opposed to earlier slave and peasant revolts or palace coups,
 was not a mere rebellion, but an attempt to completely transform society. Famous figures following in the footsteps of
 the French Revolution include Marx, Lenin, Georges Sorel and Frantz Fanon. The revolutionary community shares much in
@@ -45,11 +45,11 @@ attempting to get "back to nature" and other intentional communities.
 In response to the attempts of various bases for community to become the dominant or even exclusive basis, there has
 arisen what Nisbet calls the "plural community," which attempts to give each type of community its proper role in social life.
 Nisbet identifies the beginnings of pluralist thinking in Aristotle's reponse to Plato's single-minded focus on
-the political community, and that tradition continues in the works of Burke, Tocqueville, Durkheim, and Weber, amongst others.
+the political community, and argues that tradition continued in the works of Burke, Tocqueville, Durkheim, and Weber, amongst others.
 
-While one senses that Nisbet himself is "rooting for" the plural community, his book is chiefly descriptive rather than
-advocatory. It also does not go into any depth as to how, exactly, the various forms of community should relate to one another
-in a pluralistic society. And here, I suggest, it is valuable to bring Nisbet's work into conversation with an essay of
+While one senses that Nisbet himself was "rooting for" the plural community, his book is chiefly descriptive rather than
+advocatory. It also does not go into any depth as to how the various forms of community should relate to one another
+in a pluralistic society. And here, I suggest, it is valuable to bring Nisbet's work into dialogue with an essay of
 Michael Oakeshott's: "The voice of poetry in the conversation of mankind." There he examines
 the relationship between what he calls different "modes" of human utterance. In doing so, he is continuing,
 after several decades, an inquiry he had begun in his first book, *Experience and Its Modes*. There, he had posited that we
@@ -58,7 +58,12 @@ of practical activity, the lens of science, and the lens of history. In this rev
 an oversight in the earlier work, by acknowledging that poetry (by which he means art in general)
 is another distinct mode.
 
-Furthermore, where he had initially described the several modes as so isolated that it appeared they might as well just
+As an example of how the different modes converse, he offers the comments of a practical man viewing Owens Falls as
+a tremndous source of power for practical ends, as opposed to a poet who offers us an image of the "moving waters"
+sheerly for the delight the image offers. And of course, a scientific engagement with the falls will search for laws of
+turbulence, regardless of whether we can practically use them or if we find them delightful.
+
+Furthermore, where he had initially described the several modes as so isolated that it appeared that they might as well just
 ignore each other, after several decades of reflection, he has decided that the best image for understanding the
 relationship of the modes is that of a conversation. And what is this conversation like?
 
@@ -72,24 +77,26 @@ other's movements and provoking one another to fresh exertions." Rather than bei
 must ultimately be selected the winner, or a voyage which must reach a predetermined destination or be declared a
 failure, the conversation is instead "an unrehearsed intellectual adventure."
 
-I suggest that Oakeshott's image of the various modes as being in conversation can be applied as well to Nisbet's
-different forms of community. And what might be gained by viewing these different forms of community as being in a
+I suggest that Oakeshott's image of the various modes as being in conversation can be extended to
+better comprehend how the various communities in Nisbet's
+pluralistic form should relate to each other.
+
+What might be gained by viewing these different forms of community as being in a
 conversation, rather than in a competition? For one thing, the importance of each communal voice changes as the
 circumstances of the society encompassing all of them changes.
-
-And what is the value of allowing these different voices into the conversation? For one, there is mere practical
-utility: For instance, no society without a military community can survive entering into conflict with a society with
+For instance, no society without a military community can survive entering into conflict with a society that has
 one. So even pacifist ecological communities should recognizing that, without some form of military community sheltering
 them, their survival is precarious indeed.
 
 On the other hand,  when society has been fractured by violent conflict among its members, the voice of the political
 community might need to become dominant, as it did with Hobbes, writing in the wake of a destructive civil war.
 
-Or when society has become widely corrupt and decadent, as happened under a Roman emperor like Nero, it may be the
+Or when society has become widely corrupt and decadent, as happened in the Roman Empire, it may be the
 religious community, such as the early Christians, that needs to take the lead in resisting such immorality.
-And a grave misstep occurred when the sensible notion that the state should be neutral about the conversation between its
-various religious communities, was expanded to imply that the state ought to completely ignore the voices of the
-religious communities in its proceedings, thus shutting them out of the conversation.
+
+Here we should note that a grave misstep occurred when the sensible notion that the state should be neutral about the
+conversation between its various religious communities, was expanded to imply that the state ought to completely ignore
+the voices of the religious communities in its proceedings, thus shutting them out of the conversation.
 
 The ecological community strives to be in the world but not of it, so that it points towards a transcendent city that
 any real, human city can only approach from a distance.
@@ -113,42 +120,44 @@ this bringing it into the conversation as a welcome member, so long as it behave
 speak for them: "This rejection of violence as a means, and perhaps the only means, of revolutionary change serves to
 defend the current order against those who feel it ill serves them."
 
-But in normal times, when the social order is functioning reasonably well, the pluralist will tell the revolutionairies:
+But in normal times, when the social order is functioning moderately well, the pluralist will tell the revolutionairies:
 
 "We appreciate your keen interest in making our society better, and find it probable that some of the things that upset
 you really should be addressed. But we also know that, this side of heaven, perfection is not obtainable, so we will never
-see a perfectly just earthly kingdom. Your revolution will not, therefore, possibly be able to set right every wrong and
+see a perfectly just earthly kingdom. Your revolution will not, therefore, set right every wrong and
 cure every ill. So while you have valid complaints, you have not convinced us that violently overturning the current
 order, however flawed it may be, is worth the loss of life and destruction entailed by revolution, only to find that,
-quite probably, we are saddled with a regime *worse* than the one we overthrew."
+quite probably, we are saddled with a regime *even worse* than the one we overthrew."
 
 On the other hand, despite anyone's best efforts, societies wander into trouble, sometimes so dire that a revolution may
 be necessary. It is useful to note here that the totalitarian regimes behind the iron curtain fell largely without
 violence. Still, I cannot deny that there will be times when the state governing some society become so horrific that
 violent revolution is called for. And in those cases, it will be useful to have a revolutionary cadre ready to be called
-into action. And how could such a community know when it is appropriate to change tactics from protesting to taking up
-arms? It is when the other communal voices in that society stopped urging them to restrain themselves.
+into action. And how could such a cadre know when it is appropriate to change tactics from protesting to taking up
+arms? It is when the other communal voices in that society stop urging it to restrain itself.
 
 The danger of *not* allowing these voices to fully participate in the conversation, or even excluding them entirely, is
 that it produces a one-sided social life, deformed like the body of a weight lifter who only strengthens his biceps and
-neglects his other muscles.
+neglects his other muscles. As Oakeshott writes, "But for a conversation to be appropriated by one or two voices is an
+insidious vice because in the passage of time it takes on the appearance of a virtue."
 
 As brilliant a thinker as Giovanni Gentile can fall into serious error when he fails to realize that to be fully human
-requires the recognition that all of these types of community are, in fact, human. While he correctly sees that the
-state is, in fact, a part of every human's consciousness, by raising it to be the ultimate part, he arives at the
-conclusion:
+requires the recognition that all of these types of community are, in fact, part of ourselves.
+While he is correct that the state is a part of every person's consciousness, by raising it to be the
+ultimate part, he arives at the conclusion:
 
 "No individuals or groups (political parties, cultural associations, economic unions, social classes) outside the
 State."
-
-https://www.worldfuturefund.org/wffmaster/Reading/Germany/mussolini.htm
+(https://www.worldfuturefund.org/wffmaster/Reading/Germany/mussolini.htm)
 
 The many valuable qualities that Gentile sees in fascism are disfigured by the introduction of this totalitarian
 element, much as the harmony of several beautiful voices in a piece of music can be ruined by the introduction of a
 single brash and dominating instrument.
 
-And all of these communities must respect and recognize that they are founded upon the kinship community. Attempting to
-do away with kinship communities for humans is akin to attempting to do away with hives for bees.
+Finally, all of these communities must respect and recognize that they are founded upon the kinship community.
+Attempting to do away with kinship communities for humans is akin to attempting to do away with hives for bees. The
+great prophets of the Axial Age discovered that beyond the family and kin group, there are greater realities that we
+must respect, but it is still the family from which that higher orientation grows.
 
 And of course none of this is a panacea. Even widespread recognition in the conversational relationship of our communities
 would not bring human conflict to a halt.
@@ -158,7 +167,6 @@ circumstances of the time and the place about which the question is being asked.
 the need for practical wisdom in deciding such matters.
 
 The times when all of these voices have been able to contribute to a composition with relative balance and harmony have
-been rare achievements.
-Nevertheless, that does not negate the value of keeping this ideal type
+been rare achievements. Nevertheless, that does not negate the value of keeping this ideal
 in mind as we navigate the sea of our current political circumstances.
 
