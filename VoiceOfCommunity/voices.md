@@ -3,7 +3,7 @@
 Gene Callahan
 
 I recently reviewed Robert Nisbet's *The Social Philosophers*. This is an important book, first published in 1973.
-But unfortunately it was out of print for many years, until the efforts of editor Luke Sheahan saw a new edition come out this
+But unfortunately it was out of print for decades, until the efforts of editor Luke Sheahan saw a new edition come out this
 year. Here I would like to expand upon the insights I gained from Nisbet's book by bringing it into dialogue with
 another a second image. I will begin by summarizing Nisbet's contribution.
 
@@ -18,21 +18,23 @@ any kinship community that it confronted. As Nisbet puts it:
 
 "The kinship community is invariably defeated by the military community when the two come in confrontation."
 
-In the golden age of Athens, the conflict between kinship based community and military based community became acute. The
-tragic playwrights grappled with this theme repeatedly.  But the greatest of the thinkers dealing
-with this conflict was Plato, and he attempted to resolve that conflict by depicitng the perfect *political* community
+In the golden age of Athens, the conflict between the values of the kinship community and those of the
+military community became acute in that polis itself. The
+tragic playwrights grappled with this theme repeatedly, Antigone being a famous example.
+But the greatest thinker dealing with this conflict was Plato.
+He attempted to resolve that conflict by depicitng the perfect *political* community
 in *The Republic*. As Nisbet tells us, "Such was the power of [Plato's] portrait of the political
 community that it has remained for some twenty-five hundred years the major inspiration of all other portraits of this
-form of community." The other major portrayers of this form included Machiavelli, Bodin, Hobbes, and Rousseau.
+form of community," the most prominent subsequent portrayers being Machiavelli, Bodin, Hobbes, Rousseau and Hegel.
 
 As the Roman Empire declined, a new form of community arose in its wake, specifically oriented around the spiritual
 life: the religious community. After highlighting the importance of early Christianity in the Roman Empire, Nisbet
-continues to discuss Augustine, medieval Christendom, and the effects of the Protestant Reformation on dissolving that
-social order. He notes that in the revival of thinking about religious community in the 19th century,
+proceeds to look at Augustine, medieval Christendom, and the effects of the Protestant Reformation on dissolving that
+medieval social order. He notes that in the revival of thinking about religious community in the 19th century,
 secular sociologists, such as Comte, Durkheim, and Weber, played an important role.
 
-The next form Nisbet takes up is the revolutionary community.  He argues that this form of community was born with the
-French Revolution, which, as opposed to earlier slave and peasant revolts or palace coups,
+The next form Nisbet examines is the revolutionary community. He argues that this form of community was born with the
+French Revolution, which, as opposed to earlier slave and peasant revolts and palace coups,
 was not a mere rebellion, but an attempt to completely transform society. Famous figures following in the footsteps of
 the French Revolution include Marx, Lenin, Georges Sorel and Frantz Fanon. The revolutionary community shares much in
 common with the military community, such as a strict command structure and a focus on violence.
@@ -94,12 +96,14 @@ community might need to become dominant, as it did with Hobbes, writing in the w
 Or when society has become widely corrupt and decadent, as happened in the Roman Empire, it may be the
 religious community, such as the early Christians, that needs to take the lead in resisting such immorality.
 
-Here we should note that a grave misstep occurred when the sensible notion that the state should be neutral about the
-conversation between its various religious communities, was expanded to imply that the state ought to completely ignore
-the voices of the religious communities in its proceedings, thus shutting them out of the conversation.
+The U.S. Constitution contains the sensible notion that a State governing a society containing a diversity of religious
+voices should be neutral between them: the State shall not establish a religion. 
+But a grave misstep occurred when the understanding of what this meant was distorted to erect "a wall of separation
+between church and state." This idea was used to justify ignoring religious voices as being illegitimate participants in
+the conversation of communities.
 
 The ecological community strives to be in the world but not of it, so that it points towards a transcendent city that
-any real, human city can only approach from a distance.
+any real, human city can approach but never reach.
 Rod Dreher's book *The Benedict Option* is a recent reminder of the value of such communities:
 there are circumstances in which is appropriate for a "remnant" to withdraw from the society around them as
 much as possible.
