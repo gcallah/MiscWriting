@@ -4,11 +4,9 @@ Gene Callahan
 
 I recently reviewed Robert Nisbet's *The Social Philosophers*. In it, Nisbet traces the history of social philosophy
 through what he regards as its six major forms: military, political, religious, revolutionary, ecological, and
-pluralistic.
-The book was first published in 1973,
-but unfortunately it was out of print for decades, until the efforts of editor Luke Sheahan saw a new edition come out this
-year. Here I would like to join the insights I gained from Nisbet's book with a second, contrapuntal theme.
-I will begin by summarizing Nisbet's contribution.
+pluralistic.  The book was first published in 1973, but unfortunately it was out of print for decades, until the efforts
+of editor Luke Sheahan saw a new edition come out this year. Here I would like to join the insights I gained from
+Nisbet's book with a second, contrapuntal theme.  I will begin by summarizing Nisbet's contribution.
 
 The backdrop of Nisbet's contemplation of the social philosphers is the kinship community.
 All of the earliest human communities were based upon kin relations and ruled by tradition, as
@@ -38,8 +36,7 @@ secular sociologists, such as Comte, Durkheim, and Weber, played an important ro
 
 The next form Nisbet examines is the revolutionary community. He argues that this form of community was born with the
 French Revolution, which, as opposed to earlier slave and peasant revolts and palace coups,
-was not a mere rebellion, but an attempt to completely transform society. Famous figures following in the footsteps of
-the French Revolution include Marx, Lenin, Georges Sorel and Frantz Fanon. The revolutionary community shares much in
+was not a mere rebellion, but an attempt to completely transform society. The revolutionary community shares much in
 common with the military community, such as a strict command structure and a focus on violence.
 
 The "ecological community" begins in the west with Saint Benedict. The distinctive
@@ -68,8 +65,7 @@ a tremndous source of power for practical ends, as opposed to a poet who creates
 sheerly for the delight the image offers. And of course, a scientific engagement with the falls will search for,
 e.g., laws of turbulence, regardless of whether we can practically use them or if we find them delightful.
 
-Furthermore, where Oakeshott had initially described the several modes as so isolated that it appeared that they might
-as well just ignore each other, after several decades of reflection, he has decided that the best image for
+Furthermore, Oakeshott, after several decades of reflection, has decided that the best image for
 understanding the relationship of the modes is that of a conversation. And what is this conversation like?
 
 "the participants are not engaged in an inquiry or a debate; there is no 'truth' to be discovered, no
@@ -97,8 +93,8 @@ community might need to become dominant, as it did with Hobbes, writing in the w
 Or when society has become widely corrupt and decadent, as happened in the Roman Empire, it may be the
 religious community, such as the early Christians, that needs to take the lead in resisting such immorality.
 
-The U.S. Constitution contains the sensible notion that a State governing a society containing a diversity of religious
-voices should be neutral between them: the State shall not establish a religion. 
+The U.S. Constitution contains the sensible notion that a the government of a society containing a diversity of religious
+voices should be neutral between them: the government shall not establish a religion. 
 But a grave misstep occurred when the understanding of what this meant was distorted to erect "a wall of separation
 between church and state." This idea was used to justify shutting religious voices out of the conversation altogether.
 
@@ -108,10 +104,11 @@ Rod Dreher's book *The Benedict Option* is a recent reminder of the value of suc
 there are circumstances in which is appropriate for a "remnant" to withdraw from the society around them as
 much as possible.
 
-The State is often suspicious of ecological communities, since the State wants everyone within its borders to participate
-in political life (even if only as the victim of a totalitarian regime). But in most cases, this suspicion is unfounded.
-The existence of such communities can expand the boundaries of what forms of life the people in a society conceive as
-possible. They're like scouts, sent out to report back on how hospitable far-off life forms may prove to be.
+The political community is often suspicious of ecological communities, since the political community wants everyone
+within its borders to participate in political life (even if only as the victim of a totalitarian regime). But in most
+cases, this suspicion is unfounded.  The existence of such communities can expand the boundaries of what forms of life
+the people in a society conceive as possible. They're like scouts, sent out to report back on how hospitable far-off
+life forms may prove to be.
 
 Clearly, the most difficult community to bring into conversation with the others is the revolutionary one.
 But I suggest this is not impossible. If, as thinkers like Bosanquet and Gentile realized in regard to the state, we
@@ -121,7 +118,7 @@ not had days when it seemed better to overthrow everything, rather than to conti
 But to be a participant in a conversation, this voice will have to become conversational, and in normal circumstances,
 abjure violence.
 
-Of course, Karl Marx, no less than Frantz Fanon, would completely reject this taming of the revolutionary community,
+Of course, Karl Marx or Frantz Fanon would completely reject this taming of the revolutionary community,
 this bringing it into the conversation as a welcome member, so long as it behaves itself. they would tell us, if I may
 speak for them: "This rejection of violence as a means, and perhaps the only means, of revolutionary change serves to
 defend the current order against those who feel it ill serves them."
@@ -136,31 +133,16 @@ cure every ill. So while you have valid complaints, you have not convinced us th
 order, however flawed it may be, is worth the loss of life and destruction entailed by revolution, only to find that,
 quite probably, we are saddled with a regime *even worse* than the one we overthrew."
 
-On the other hand, despite anyone's best efforts, societies wander into trouble, sometimes so dire that a revolution may
-be necessary. It is useful to note here that the totalitarian regimes behind the iron curtain fell largely without
-violence. Still, I cannot deny that there will be times when the state governing some society become so horrific that
-violent revolution is called for. And in those cases, it will be useful to have a revolutionary cadre ready to be called
+On the other hand, despite anyone's best efforts, societies wander into trouble, sometimes so dire that a violent
+revolution may be necessary. And in those cases, it will be useful to have a revolutionary cadre ready to be called
 into action. And how could such a cadre know when it is appropriate to change tactics from protesting to taking up
 arms? It is when the other communal voices in that society stop urging it to restrain itself.
 
 Besides the utility of including all of these voices in the conversation, there is also
-the danger, if some voices are not allowed full participation in the conversation,
+the danger, if some voices are not allowed free participation,
 of producing a one-sided social life, deformed like the body of a weight lifter who only strengthens his biceps and
 neglects his other muscles. As Oakeshott notes, "But for a conversation to be appropriated by one or two voices is an
 insidious vice because in the passage of time it takes on the appearance of a virtue."
-
-As brilliant a thinker as Giovanni Gentile can fall into serious error when he fails to realize that to be fully human
-requires the recognition that all of these types of community are, in fact, part of ourselves.
-While he is correct that the state is a part of every person's consciousness, by raising it to be the
-ultimate part, he arives at the conclusion:
-
-"No individuals or groups (political parties, cultural associations, economic unions, social classes) outside the
-State."
-(https://www.worldfuturefund.org/wffmaster/Reading/Germany/mussolini.htm)
-
-The many valuable qualities that Gentile sees in fascism are disfigured by the introduction of this totalitarian
-element, much as the harmony of several beautiful voices in a piece of music can be ruined by the introduction of a
-single brash and dominating instrument.
 
 Finally, all of these communities must respect and recognize that they are founded upon the kinship community.
 Attempting to do away with kinship communities for humans is akin to attempting to do away with hives for bees. The
