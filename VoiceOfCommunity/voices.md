@@ -6,7 +6,7 @@ I recently reviewed Robert Nisbet's *The Social Philosophers*. In it, Nisbet tra
 through what he regards as its six major forms: military, political, religious, revolutionary, ecological, and
 pluralistic.  The book was first published in 1973, but unfortunately it was out of print for decades, until the efforts
 of editor Luke Sheahan saw a new edition come out this year. Here I would like to join the insights I gained from
-Nisbet's book with a second, contrapuntal theme.  I will begin by summarizing Nisbet's contribution.
+Nisbet's book with a second, contrapuntal theme. I will begin by summarizing Nisbet's contribution.
 
 The backdrop of Nisbet's contemplation of the social philosphers is the kinship community.
 All of the earliest human communities were based upon kin relations and ruled by tradition, as
@@ -26,13 +26,10 @@ But the greatest thinker dealing with this conflict was Plato.
 He attempted to resolve that conflict by depicitng the perfect *political* community
 in *The Republic*. As Nisbet tells us, "Such was the power of [Plato's] portrait of the political
 community that it has remained for some twenty-five hundred years the major inspiration of all other portraits of this
-form of community," the most prominent subsequent portrayers being Machiavelli, Bodin, Hobbes, Rousseau and Hegel.
+form of community."
 
-As the Roman Empire declined, a new form of community arose in its wake, specifically oriented around the spiritual
-life: the religious community. After highlighting the importance of early Christianity in the Roman Empire, Nisbet
-proceeds to look at Augustine, medieval Christendom, and the effects of the Protestant Reformation on dissolving that
-medieval social order. He notes that in the revival of thinking about religious community in the 19th century,
-secular sociologists, such as Comte, Durkheim, and Weber, played an important role.
+As the Roman Empire declined, a new form of Western community arose in its wake, specifically oriented around the spiritual
+life: the religious community, represented first by the Christian enclaves within pagan society.
 
 The next form Nisbet examines is the revolutionary community. He argues that this form of community was born with the
 French Revolution, which, as opposed to earlier slave and peasant revolts and palace coups,
@@ -77,6 +74,12 @@ In this conversation, the voices of the different modes "take wing and play roun
 other's movements and provoking one another to fresh exertions." Rather than being like a contest in which one mode
 must ultimately be selected the winner, or a voyage which must reach a predetermined destination or be declared a
 failure, the conversation is instead "an unrehearsed intellectual adventure."
+
+And it is worth noting that nothing in Oakeshott's picture implies some egalitarian nonsense like, "Everyone's voice is
+equally important." No, some voices entered the conversation ignorant of the context, and so should be educated, 
+some tried to dominate it, and so should be restrained, and some try to manipulate the conversation for their own
+self-interest, and thus should be exposed.
+
 
 What might be gained by viewing Nisbet's different forms of community as being in a
 conversation, rather than in a competition? For one thing, the importance of each communal voice changes as the
@@ -149,14 +152,14 @@ Attempting to do away with kinship communities for humans is akin to attempting 
 great prophets of the Axial Age discovered that beyond the family and kin group, there are greater realities that we
 must respect, but it is still the family from which that higher orientation grows.
 
-And of course none of this is a panacea. Even widespread endorsement of the conversational relationship of our communities
+And of course none of this is a panacea: widespread endorsement of this conversational relationship of communities
 would not bring human conflict to a halt.
 Finding the appropriate level for a voice, and recognizing at which times it ought to take the lead in the
 conversation, are pragmatic judgments relying upon intimate knowledge of the actual
-circumstances of the time and the place about which the question is being asked. There is no formula to be had that will eliminate
-the need for practical wisdom in deciding such matters, and we will often get those judgments wrong.
+circumstances of time and place. There is no formula to be had that will eliminate
+the need for practical wisdom in deciding such matters, and thus we will often get those judgments wrong.
 
 The times when all of these voices have been able to contribute to a composition with relative balance and harmony have
-been rare achievements. Nevertheless, that does not negate the value of keeping this ideal
+been rare achievements. Nevertheless, that does not negate the value of keeping this image
 in mind as we navigate the sea of our current political circumstances.
 
