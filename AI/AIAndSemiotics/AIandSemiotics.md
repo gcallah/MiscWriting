@@ -242,9 +242,10 @@ electrical switching circuits."
 Peirce developed the concept of secondness.
 
 When a rock tumbling down a hill meets another falling rock and deflects its
-course, we have a purely dyadic relationship: neither rock means anything
-further when hitting its companion.
-
+course, we have a purely dyadic relationship. 
+Of course, we can always pick out *pairs* of dyadic relationships and thus
+designate a triadic configuration. Peirce called this a "degenerate
+relationship," one of mere colocation (1991, p. 182).
 
 
 
@@ -255,9 +256,6 @@ If I shout to you "A mind-reductionist is creeping up behind you!" I am not
 merely sending some sound waves to your eardrums: I am also referring to a
 third thing: the reductionist.  Sign "Dog" Object Interpretant
 
-
-
-Thirdness
 
 
 
@@ -626,6 +624,10 @@ thought, computation, the physical computation itself has no inherent meaning.
 - Larson, Erik J. (2021). *The Myth of Artificial Intelligence: Why Computers
   Can't Think the Way We Do*.  Cambridge, Massachusetts: The Belknap Press of
   Harvard University Press.
+
+- Peirce, Charles Sanders (1991). *Peirce on Signs: Writings on Semiotic by Charles
+  Sanders Peirce*. Chapel Hill and London: The University of North Carolina
+  Press.
 
 - Putnam, Hilary (1988). *Representation and Reality*. Cambridge,
   Massachusetts: The MIT Press.
