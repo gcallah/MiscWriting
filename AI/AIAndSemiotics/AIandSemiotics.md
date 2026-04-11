@@ -17,7 +17,13 @@ simpler, dyadic relationships.
 
 But computers, even when executing programs that may be called "artificial intelligence," exhibit only dyadic
 relationships: their output is literally meaningless until it enters into a relationship of thirdness with a human
-being. And since engaging in semiosis is at the core of intelligence, this demonstrates that there's no "there" there in AI.
+being.
+
+
+this means that this formulation blocks in advance metaphysical skeptics like the Churchlands, who hold that things like
+"belief" do not exist. REF While these objections are barely plausible... Do not the Churchlands believe their own
+papers? it is about as straightforward an instance of a performative contradiction as possible to deny that semiosis
+exists by emitting a stream of signs, whether orally or on paper.
 
 
 
@@ -229,21 +235,19 @@ Bertrand Russell: "certainly the greatest American thinker ever."
 
 Peirce developed the concept of secondness.
 
-When a rock tumbling down a hill meets another falling rock and deflects its course, we have a purely dyadic relationship: neither rock means anything further when hitting its companion.
-
-
-
-Secondness
-
+When a rock tumbling down a hill meets another falling rock and deflects its course, we have a purely dyadic
+relationship: neither rock means anything further when hitting its companion.
 
 
 
 
 
 
-Peirce pointed out that human language, on the other hand, is intrinsically a triadic relationship.
+Peirce pointed out that semiosis, on the other hand, is intrinsically a triadic relationship.
 
-If I shout to you "A mind-reductionist is creeping up behind you!" I am not merely sending some sound waves to your eardrums: I am also referring to a third thing: the reductionist.
+If I shout to you "A mind-reductionist is creeping up behind you!" I am not merely sending some sound waves to your
+eardrums: I am also referring to a third thing: the reductionist.
+
 Sign
 "Dog"
 Object
@@ -251,15 +255,25 @@ Interpretant
 
 
 
-Thirdness
+"A sign is an object which stands for another to some mind... 
+If it is not a sign to any mind it is not a sign at all" (Peirce 1991: 141-142).
 
 
 
 
 
-Think about our water computer: the water flowing down the hill, means nothing by itself. It is only a shared meaning between the inputters at the top of the hill and the readers at the bottom of the hill that gives the program being run what meaning it possesses.
+Think about our water computer: the water flowing down the hill, means nothing by itself. It is only a shared meaning
+between the inputters at the top of the hill and the readers at the bottom of the hill that gives the program being run
+what meaning it possesses.
 
-The bits that represent your department's accounts for the year could just as well be bits that represent a musical composition or an image to display: inside the computer they only exhibit secondness: e.g., high and low voltages hitting a gate making it emit a low volatage.
+The people at the top are inputting signs: there is something (hot water) that stands for something else (true) to some
+mind: the minds of the people designing the input. (They may be the people pouring the water in themselves, or those
+people might be directed by some manager.)
+
+
+The bits that represent your department's accounts for the year could just as well be bits that represent a musical
+composition or an image to display: inside the computer they only exhibit secondness: e.g., high and low voltages
+hitting a gate making it emit a low volatage.
 
 
 
@@ -540,6 +554,9 @@ Third edition. Cambridge, Mass.: MIT Press.
 
 - Larson, Erik J. (2021). *The Myth of Artificial Intelligence: Why Computers Can't Think the Way We Do*.
 Cambridge, Massachusetts: The Belknap Press of Harvard University Press.
+
+- Peirce, Charles Sanders (1991). *Peirce on Signs: Writings on Semiotic by Charles Sanders Peirce*. Chapel Hill and
+    London: The University of North Carolina Press.
 
 - Putnam, Hilary (1988). *Representation and Reality*. Cambridge, Massachusetts: The MIT Press.
 
