@@ -246,16 +246,12 @@ electrical switching circuits."
 
 Peirce developed the concept of secondness.
 
-<<<<<<< HEAD
+
 When a rock tumbling down a hill meets another falling rock and deflects its course, we have a purely dyadic
 relationship: neither rock means anything further when hitting its companion.
-=======
-When a rock tumbling down a hill meets another falling rock and deflects its
-course, we have a purely dyadic relationship. 
 Of course, we can always pick out *pairs* of dyadic relationships and thus
 designate a triadic configuration. Peirce called this a "degenerate
 relationship," one of mere colocation (1991, p. 182).
->>>>>>> 53f847842314d6f57cbe390a6bf672159ea06d62
 
 
 
@@ -264,7 +260,10 @@ triadic relationship.
 
 If I shout to you "A mind-reductionist is creeping up behind you!" I am not
 merely sending some sound waves to your eardrums: I am also referring to a
-third thing: the reductionist.  Sign "Dog" Object Interpretant
+third thing: the reductionist.
+
+
+IMAGE: Sign "Dog" Object Interpretant
 
 
 Peirce pointed out that semiosis, on the other hand, is intrinsically a triadic relationship.
@@ -272,26 +271,9 @@ Peirce pointed out that semiosis, on the other hand, is intrinsically a triadic 
 If I shout to you "A mind-reductionist is creeping up behind you!" I am not merely sending some sound waves to your
 eardrums: I am also referring to a third thing: the reductionist.
 
-<<<<<<< HEAD
-Sign
-"Dog"
-Object
-Interpretant
-=======
-
->>>>>>> 53f847842314d6f57cbe390a6bf672159ea06d62
-
-Think about our water computer: the water flowing down the hill, means nothing
-by itself. It is only a shared meaning between the inputters at the top of the
-hill and the readers at the bottom of the hill that gives the program being run
-what meaning it possesses.
-
-<<<<<<< HEAD
 
 "A sign is an object which stands for another to some mind... 
 If it is not a sign to any mind it is not a sign at all" (Peirce 1991: 141-142).
-
-
 
 
 
@@ -304,19 +286,42 @@ mind: the minds of the people designing the input. (They may be the people pouri
 people might be directed by some manager.)
 
 
-The bits that represent your department's accounts for the year could just as well be bits that represent a musical
-composition or an image to display: inside the computer they only exhibit secondness: e.g., high and low voltages
-=======
 The bits that represent your department's accounts for the year could just as
 well be bits that represent a musical composition or an image to display:
 inside the computer they only exhibit secondness: e.g., high and low voltages
->>>>>>> 53f847842314d6f57cbe390a6bf672159ea06d62
 hitting a gate making it emit a low volatage.
 
 
+Our computers run algorithms on a construct of high and low voltages. It is only us humans who judge this output of high
+and low voltages to mean something about the world outside the computer.
+
+When you type an A, and there's turned into its ASCII character, how is the computer supposed to know about the meaning
+you gave to the number 65 it received? The only thing it ever saw was a number, not a letter in an alphabet.
+
+All that a UTM can ever process is ones and zeroes, or highs and lows, or hot and cold. That is built into their very
+definition. There is no way to get anything else "inside" a UTM besides a series of ons and offs.
 
 
-Thirdness and AI
+Someone replied that that is all that human brains do. Totally improving, but if true, we have paradoxical results. If,
+for instance, all my consciousness "really is" is my brain processing a series of electrical variations, then why do I
+see those things I actually do see, and hear those things I actually do hear, and smell those things I actually do
+smell? What, in this potentially immensely complex system of high and low states, creates me having the direct
+experience of seeing a television set, a rug, and a wall?
+
+
+This argument actually implies that human beings have no actual idea what the real world is like, not that computers do have one.
+
+
+
+### Peirce on Logical Machines
+
+
+We don't care if it's thinking or not: we care if it is doing the logical operation that we mean it to do.
+
+
+
+
+### Thirdness and AI
 
 
 
@@ -460,10 +465,10 @@ of what is going on, because all algorithms lack thirdness.
 
 
 
+### Alienation
+
+
 Feuerbach
-
-
-
 
 
 
@@ -488,10 +493,23 @@ under a rock.
 
 
 
+IMAGE: Say "I am alive."
+
+
+We forget that these are machines that we built. And what did we build them to do? We built them to give fairly
+plausible answers to natural language questions.
+
+And then, when we ask some questions, we are mesmerized by the fact that they give us fairly plausible answers in
+return.
+
+Now our amazement is not entirely misplaced, as it is incredible what we have been able to program once we latched onto
+the idea of a Turing machine.
 
 
 
-Philosophical Reinforcement
+
+
+### Philosophical Reinforcement
 
 
 Hilary Putnam showed essentially the complementary result: multiple physical
@@ -506,12 +524,6 @@ Thus, "meaning" cannot be reduced to a physical state.
 
 
 Multiple Realizability
-
-
-Types of Signs
-
-
-Computer programs are legisigns.
 
 
 
@@ -597,7 +609,7 @@ Of course, this definition renders the entire universe a giant computational
 device -- see Wolfram.
 
 
-## Could AIs Become Conscious?
+## Could AIs Be or Become Conscious?
 
 This portion of this paper is purely speculative, but I think it is worth
 sending out my thoughts here. In particular, I am not denying the possibility
@@ -611,6 +623,22 @@ floating around with our biological bodies, it would be very foolish to claim
 that AI consciousness is impossible. But if it ever happens, it will not be
 because someone wrote an even more clever program to run on an even larger data
 center full of computers.
+
+
+### Emergentism
+
+The problem with an emergentist view here is that where does one draw the line? It seems fairly arbitrary, and too
+highly dependent upon whatever software capabilities have come to seem commonplace.
+
+
+Hofstader attempts this with recursion... but recursion can be unrolled into a loop.
+
+
+
+### Panpsychism
+
+
+
 
 Furthermore, if an AI becomes intelligent, it will no longer be artificial —
 and no longer just a machine.
