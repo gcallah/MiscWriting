@@ -78,6 +78,11 @@ Lambda calculus
 No hardware upgrade expands what can be computed. Only how fast.
 
 
+And a note: While the Church-Turing thesis itself is not controversial,
+there are people who argue that there are possible  computing machines that can exceed the capabilities of a Universal Turing
+Machine. To embark upon an analysis of their case would be too much of a detour for this paper. So I will simply say that
+this paper addresses UTMs, and not other possible supra-UTM computer computers.
+
 
 
 
