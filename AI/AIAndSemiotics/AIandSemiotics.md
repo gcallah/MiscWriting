@@ -700,19 +700,18 @@ thought, computation, the physical computation itself has no inherent meaning.
   Can't Think the Way We Do*.  Cambridge, Massachusetts: The Belknap Press of
   Harvard University Press.
 
+- Lerchner, Alexander (2026). "The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness." Google
+- Deepmind.  https://deepmind.google/research/publications/231971/.
+
 - Peirce, Charles Sanders (1991). *Peirce on Signs: Writings on Semiotic by Charles
   Sanders Peirce*. Chapel Hill and London: The University of North Carolina
   Press.
 
-<<<<<<< HEAD
 - Peirce, Charles Sanders (1991). *Peirce on Signs: Writings on Semiotic by Charles Sanders Peirce*. Chapel Hill and
     London: The University of North Carolina Press.
 
-- Putnam, Hilary (1988). *Representation and Reality*. Cambridge, Massachusetts: The MIT Press.
-=======
 - Putnam, Hilary (1988). *Representation and Reality*. Cambridge,
   Massachusetts: The MIT Press.
->>>>>>> 53f847842314d6f57cbe390a6bf672159ea06d62
 
 - Searle, John (2009). "Chinese Room Argument." *Scholarpedia Journal*, vol. 4,
   no. 8, p. 3100, https://doi.org/10.4249/scholarpedia.3100.
@@ -726,5 +725,4 @@ thought, computation, the physical computation itself has no inherent meaning.
 
 - Wittgenstein, Ludwig (1994). *The Wittgenstein Reader*, ed. Anthony Kenny.
   Oxford: Blackwell Publishers Inc.
-
 
