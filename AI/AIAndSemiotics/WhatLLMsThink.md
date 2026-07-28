@@ -150,20 +150,30 @@ Bertrand Russell: "certainly the greatest American thinker ever."
 
 "As early as 1886, he saw that logical operations could be carried out by electrical switching circuits."
 
+### Secondness
 
 Peirce developed the concept of secondness.
 
 When a rock tumbling down a hill meets another falling rock and deflects its course, we have a purely dyadic relationship: neither rock means anything further when hitting its companion.
-Secondness
+
+### Thirdness
 
 Peirce pointed out that human language, on the other hand, is intrinsically a triadic relationship.
 
-If I shout to you "A mind-reductionist is creeping up behind you!" I am not merely sending some sound waves to your eardrums: I am also referring to a third thing: the reductionist.
+If I shout to you "A mind-reductionist is creeping up behind you!" I am not
+merely sending some sound waves to your eardrums: I am also referring to a third
+thing: the reductionist.
+
+Triangle of Thirdness
+
 Sign
 "Dog"
 Object
 Interpretant
-Thirdness
+
+## A Common Sensory World
+
+Embodied cognition is one explanation for why humans can know the world.
 
 Sullivan spelled on Kellers's hand to transmit a word.
 Can't we do the equivalent with our computer?
@@ -171,9 +181,13 @@ But Sullivan also ran water over Keller's hand.
 They shared a common sensory world.
 Helen Keller and Anne Sullivan
 
+## A Simpler Hypothesis
+
 Vastly simpler hypothesis: it is thinking the Lambda Calculus!
 We know that accounts for everything happening in an LLM. (By the Church-Turing Thesis!)
-So What Is an LLM Thinking?
+
+My claim is not that LLMs *are* doing so, but that it is a simple hypothesis
+that accounts for everything we know about them.
 
 Don't multiply entities!
 QED
