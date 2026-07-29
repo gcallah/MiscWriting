@@ -1,3 +1,5 @@
-.acorn
-.jpeg
-.pptx
+*.docx
+*.doc
+*.acorn
+*.jpeg
+*.pptx

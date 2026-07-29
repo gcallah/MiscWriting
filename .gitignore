@@ -1,6 +1,8 @@
 *~
-
+*.acorn
+*.jpeg
 *.docx
+*.doc
 *.swp
 *.pptx
 *.png
