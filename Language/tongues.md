@@ -3,15 +3,17 @@
 I wish to put forward the thesis that speaking a dialect of your own language,
 which is not native to you should not really be regardless any different than
 speaking a language, other than your first one. This issue called for my
-attention after I heard some unfounded criticism of Congresswoman Jasmine
+attention after I heard some misguided criticism of Congresswoman Jasmine
 Crockett, who represents the 30th district of Texas.
 
-Crockett has at times been criticized for "code switching" into AAVE
+Crockett has at times been criticized for "code switching" into
+"black English," or, as it is formally known, African-American Vernacular
+English (henceforth AAVE)
 when she is addressing an audience of AAVE speakers,
 despite the fact that she was educated at elite schools. (See, for instance:
 https://www.dailywire.com/news/her-code-switch-is-broken-jasmine-crockett-mocked-over-dramatic-change-in-speech.)
-While I am not particularly familiar with her policy stances, and have no idea
-if I would like them if I were, I do think these criticisms of her are entirely
+While I am not familiar with her policy stances, and have no idea
+if I would like them if I were, these criticisms of her are, as mentioned,
 unfounded. And discussing why that is so will, I think, lead us into an
 interesting exploration of the relationship between "dialects" and "standard"
 forms of a language. 
@@ -57,38 +59,45 @@ allows for effective communication, in a very limited context, to be established
 very quickly.) In general, what is going on when someone claims that a person
 speaking their native dialect is speaking a language “ungrammatically" is that
 through schooling and/or prejudice, they believe that only their own way of
-speaking a language is “grammatical.” 
+speaking that language is “grammatical.” 
 
-(John McWhorter)
+(John McWhorter???)
 
 If a speaker of AAVE says, for instance, "He nuts!"
+many people will say, "That is ungrammatical! They left out the verb 'is' in
+that sentence!”
 
-“But they left out the verb 'is' in that sentence!”
-
-But, for instance, in Hungarian it is to skip the copula in sentences, and only
+But, in Hungarian it is common to skip the copula  (a form of the verb 'to be')
+in sentences, and only
 include the subject and object. Are all Hungarian speakers speaking Hungarian
 ungrammatically? If they are not, then why are speakers of AAVE being
 ungrammatical when they do the same thing? Yes, speakers of "Ivy League English"
-do not do that, but speakers of many other European languages other than
-Hungarian do not regularly leave the cupula out of their sentences. Different
+do not do that, but so speakers of many European languages other than
+Hungarian do not regularly leave the copula out of their sentences. Different
 languages have different rules, but so do different dialects of one language. If
 we do not criticize Hungarian as being "wrong" because its grammar is different
 than that of Spanish, why do we find the need to criticize AAVE? Because its
 grammar is different from that of Ivy League English?
 
-For AAVE is a perfectly grammatical language, no less than Ivy League English.
+And when a speaker of AAVE says, "He be fool," many people will say, "That is
+also ungrammatical! They used the wrong form of the verb 'to be' in that
+sentence!" But, in fact, "He be fool" is a perfectly grammatical sentence in
+AAVE, and it means something different than "He is a fool." The former means
+that he is a fool in general, while the latter means that he is a fool at this
+particular moment.
+
+AAVE is as grammatical a language as "Ivy League English."
 Anyone moderately familiar with AAVE will know that "he be fool” is a
 grammatically correct sentence in that dialect, while "he are fool" and “he am
-fool" are grammatically incorrect. They will also know that "he fool" means
-something different than "he be fool": the latter is a case of the "invariant
-be"; see:
+fool" are grammatically incorrect. 
+"He be fool" is a case of the "invariant be"; see:
 
 https://ygdp.yale.edu/phenomena/invariant-be
 
 None of this means that "standard" English should not be taught in schools, any
 more than the fact that Sicilian, Calabrese and Piedmontese are perfectly
 grammatical ways of speaking means that standard Italian should not be taught
-throughout that country. It is useful for the people in any polity to have a
+throughout that country. It is useful for the people in any nation to have a
 common tongue in which matters of common importance can be discussed. But there
 is no need to denigrate other ways of speaking present in that country in order
 to appreciate the importance of a national standard.
