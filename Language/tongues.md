@@ -46,12 +46,15 @@ speaking English, but using only Spanish loanwords.) And yet I don't see there
 is anything wrong at all with Bush speaking Spanish when he did.
 
 
+Someone may try to differentiate these cases by claiming that while
+Spanish is a real language and is grammatical, AAVE is neither: it is just an
+ungrammatical way of speaking standard English. But there is simply no
+justification in linguistic science for such a claim.
 
-The dialects are ungrammatical
 
 
 There are no native dialects that do not have their own grammatical rules as
-sophisticated and useful as those of any standard language. (Pidgin languages,
+regular as those of any standard language. (Pidgin languages,
 which are highly simplified grammatically and limited in vocabulary, typically
 arise as a way of facilitating trade between two groups who speak very different
 languages. A pidgin is neither group's native tongue, and the simplification
