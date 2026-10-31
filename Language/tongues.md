@@ -35,23 +35,21 @@ actually told me I was the first tourist he had ever met who had spoken to him
 in Hungarian.)
 
 So if my rudimentary attempts at speaking these languages were acceptable
-behavior, why would it be the case that if I speak African American vernacular
-English (henceforth, AAVE) during a conversation, a dialect which I know much
-better than any of the above languages, I would be guilty of some sort of
-ideological faux pas? 
+behavior, why would it be the case that if Crockett speaks AAVE
+during a conversation, a dialect which she knows much
+better than I know any of the above languages, she would be guilty of some sort
+of ideological faux pas? 
 
 Crockett speaks AAVE more naturally than George Bush speaks Spanish. (Bush got
 all the text right whenever I have heard him, but he always sounded like he was
 speaking English, but using only Spanish loanwords.) And yet I don't see there
 is anything wrong at all with Bush speaking Spanish when he did.
 
-
 Someone may try to differentiate these cases by claiming that while
 Spanish is a real language and is grammatical, AAVE is neither: it is just an
 ungrammatical way of speaking standard English. But there is simply no
 justification in linguistic science for such a claim.
 (See, for instance: https://www.blpress.org/books/talking-back-talking-black/)
-
 
 There are no native dialects that do not have their own grammatical rules as
 regular as those of any standard language. (Pidgin languages,
