@@ -50,7 +50,7 @@ Someone may try to differentiate these cases by claiming that while
 Spanish is a real language and is grammatical, AAVE is neither: it is just an
 ungrammatical way of speaking standard English. But there is simply no
 justification in linguistic science for such a claim.
-
+(See, for instance: https://www.blpress.org/books/talking-back-talking-black/)
 
 
 There are no native dialects that do not have their own grammatical rules as
