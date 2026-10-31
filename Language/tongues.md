@@ -77,7 +77,7 @@ do not do that, but so speakers of many European languages other than
 Hungarian do not regularly leave the copula out of their sentences. Different
 languages have different rules, but so do different dialects of one language. If
 we do not criticize Hungarian as being "wrong" because its grammar is different
-than that of Spanish, why do we find the need to criticize AAVE? Because its
+than that of Spanish, why do we find the need to criticize AAVE because its
 grammar is different from that of Ivy League English?
 
 And when a speaker of AAVE says, "He be fool," many people will say, "That is
@@ -85,13 +85,10 @@ also ungrammatical! They used the wrong form of the verb 'to be' in that
 sentence!" But, in fact, "He be fool" is a perfectly grammatical sentence in
 AAVE, and it means something different than "He is a fool." The former means
 that he is a fool in general, while the latter means that he is a fool at this
-particular moment.
-
-AAVE is as grammatical a language as "Ivy League English."
-Anyone moderately familiar with AAVE will know that "he be fool” is a
-grammatically correct sentence in that dialect, while "he are fool" and “he am
-fool" are grammatically incorrect. 
-"He be fool" is a case of the "invariant be"; see:
+particular moment.  Anyone moderately familiar with AAVE will know that "he be
+fool” is a grammatically correct sentence in that dialect, while "he are fool"
+and “he am fool" are grammatically incorrect.  "He be fool" is, in fact, a case
+of the "invariant be"; see:
 
 https://ygdp.yale.edu/phenomena/invariant-be
 
@@ -103,35 +100,22 @@ common tongue in which matters of common importance can be discussed. But there
 is no need to denigrate other ways of speaking present in that country in order
 to appreciate the importance of a national standard.
 
-Of course these nonstandard ways of speaking have often been denigrated,
+Of course these nonstandard ways of speaking often *have* been denigrated,
 for example, in new-born countries (such as Italy and Germany in the nineteenth
 century) that were just forming a national identity. Doing so must have seemed
 like an expedient way to speed that process up: telling people, "It's good for
 us to have a common national tongue: please study this one," may not be as
 immediately effective as telling people, "The way you are speaking is stupid and
-wrong." But the former message, at least, has the advantage of being truthful,
-and, in fact, may, in the long run, actually produce better national cohesion. 
+wrong: speak this way instead." But the former message has, at least, the
+advantage of being truthful, and, in fact, may, in the long run, actually
+produce better national cohesion than continually telling people that their way
+of speaking is wrong. Consider that, today, with a large influx of Spanish
+speakers into the U.S., no one suggests educating them in English requires
+telling them that Spanish is just a really, really bad form of English.
 
-Consider that, today, with a large influx of Spanish speakers into the U.S.,
-no one suggests educating them in English requires telling them that Spanish is
-just a really, really bad form of English. When President Kennedy spoke German
-in Berlin, or President Bush spoke Spanish when addressing a Hispanic audience,
-I never saw anyone claiming that they were "talking down" to their audience or
-pandering to them. 
-
-And Crockett speaks AAVE more naturally than George Bush speaks Spanish. (Bush got
-all the text right whenever I have heard him, but he always sounds like he is
-speaking English just with all Spanish loanwords.) And yet I don't see there is
-anything wrong at all with Bush speaking Spanish when he did.
-
-What if she went to France to give a talk, and spoke to the people there in
-French? Would these critics of hers complain that she didn't grow up speaking
-French?
-
-
-In my own case,
+In my own life,
 African-American vernacular English (AAVE) is a dialect I've been hearing my
-entire life, and after four years of playing music regularly in the black gospel
+since I was a child, and after four years of playing music regularly in the black gospel
 milieu of the South Carolina Midlands, it is a dialect I know very well. Just as
 sometimes I might use the Tagalog phrase “Aray ko” if I suffer a minor hurt, or
 say “uno di piu” if I want another beer, or tell my wife “Vite vite” if we must
@@ -140,47 +124,21 @@ nowhere with that” if I am very skeptical about someone's chances of advancing
 some project. (One thing that AAVE provides the speaker here is the ability
 to express increasing skepticism by piling up negatives: “ain’t,” “never,” and
 “nowhere” work together to express the near impossibility of what the person
-addressed wants to achieve.
-
-In fact, having heard AAVE my entire life, and being immersed in it at least
-once a week for the last four years, speaking AAVE is significantly more natural
+addressed wants to achieve. As speaking AAVE is significantly more natural
 to me than speaking Tagalog, or Italian, or French. So if it is OK for me to
 sometimes speak in one of those languages, why would it be wrong for me to
 sometimes speak in AAVE?
 
-Or, to return to the case, the prompted this essay, why is it wrong for Jasmine
+Or, to return to the case that prompted this essay, why is it wrong for Jasmine
 Crockett to sometimes speak in AAVE?
-
-We pick up speech patterns from our milieu. And when our milieu often includes
-speakers of a dialect different from our own, we naturally learn their
-patterns, and make use of them when they suit our purposes.
-
-
-Much like we would treat or tourist, who was kind of OK with our language, but
-was obviously not a native speaker: we would not dream of heeping abuse on him
-for mocking our language, because he asked us where the museum is in English
-instead of Mongolian.
-
-
-If I am forbidden from speaking AAVE because I am not a native speaker of that
-dialect, why am I not forbidden from speaking French or Spanish or German or
-Italian, because I am not a native speaker of any of those languages? I've
-conversed with native speakers in all four, and they all seemed happy to help me
-out when I was lost and pleased that I was making an effort rather than just
-assuming that they could speak English.
-
-(The one time I did have a problem with a native speaker was when trying to
-speak French to a cab driver in Paris, who repeatedly refused to understand what
-I was saying. But when I told my friends in Strasbourg about this the next day,
-they said "don't worry, the Parisians treat us the same way.")
 
 Black children, and indeed any child who natively speaks any dialect of English
 other than standard English, should be told, "The way you grew up speaking is
 perfectly fine. It is just as grammatical as any other language. You didn't grow
 up making a whole bunch of mistakes when you were talking. However, there is
 another dialect of English which is standardly spoken by corporate management,
-high-level government employees, and in national media, that you should learn to
-speak if you want to participate in any of those arenas."
+high-level government employees, in national media, and so on,
+that you should learn to speak if you want to participate in any of those arenas."
 
 This is the right way to address this issue, because it is true, it avoids the
 idiocy of telling native speakers of a dialect that they are speaking it
