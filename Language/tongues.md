@@ -3,9 +3,10 @@
 
 This essay was motivated by some criticisms I saw of Jasmine Crockett for "code
 switching" into black English, or, more formally, African-American Vernacular
-English (AAVE) when speaking to Black audiences. But the topic goes well beyond
-those criticisms, and leads us to contemplate the different attitudes we take
-towards languages versus dialects. 
+English (AAVE) when speaking to Black audiences. (See, for instance:
+https://www.dailywire.com/news/her-code-switch-is-broken-jasmine-crockett-mocked-over-dramatic-change-in-speech.)
+But the topic goes well beyond those criticisms, and leads us to contemplate the
+different attitudes we take towards languages versus dialects. 
 
 So let us start by clarifying what the difference is between a language and a
 dialect. While the border of the two is fuzzy, the general idea is clear enough:
@@ -39,8 +40,6 @@ of this difference in attitude? And whatever the source, is it justified?
 
 
 
-despite the fact that she was educated at elite schools. (See, for instance:
-https://www.dailywire.com/news/her-code-switch-is-broken-jasmine-crockett-mocked-over-dramatic-change-in-speech.)
 
 
 
