@@ -1,27 +1,52 @@
 # Speaking in Tongues
 
-I wish to put forward the thesis that speaking a dialect of your own language,
-which is not native to you should not really be regardless any different than
-speaking a language, other than your first one. This issue called for my
-attention after I heard some misguided criticism of Congresswoman Jasmine
-Crockett, who represents the 30th district of Texas.
 
-Crockett has at times been criticized for "code switching" into
-"black English," or, as it is formally known, African-American Vernacular
-English (henceforth AAVE)
-when she is addressing an audience of AAVE speakers,
+This essay was motivated by some criticisms I saw of Jasmine Crockett for "code
+switching" into black English, or, more formally, African-American Vernacular
+English (AAVE) when speaking to Black audiences. But the topic goes well beyond
+those criticisms, and leads us to contemplate the different attitudes we take
+towards languages versus dialects. 
+
+So let us start by clarifying what the difference is between a language and a
+dialect. While the border of the two is fuzzy, the general idea is clear enough:
+speakers of different languages generally cannot understand each other without
+education and training in each other's language. On the other hand, speakers of
+distinct dialects may find each other's ways of speaking odd, but they can
+understand most of what the other person is saying. so American English and
+British English are clearly dialects: neither Americans nor English need any
+special training to understand each other when they are speaking, although there
+may be certain words that are misunderstood because they have different meanings
+in the two dialects. On the other hand, English and French are clearly distinct
+languages: a French speaker and an English speaker will understand very little
+of what the other says, unless they have had special education in the other's
+language.
+
+As mentioned, on the border between language and dialect, there are some tough
+cases. For instance, Jamaican English is different enough from American or
+British English that speakers of the latter two dialects may have great
+difficulty in understanding a speaker of the former. (On the other hand,
+speakers of Jamaican English typically easily understand American and British
+English, because it is the language of their educational materials, and a great
+deal of their media.)
+
+But, while someone who speaks a language other than their native one is
+generally admired for their linguistic skill, someone who speaks a dialect
+different than their native one is often knocked as either pandering to the
+speakers of that dialect, mocking it, or "appropriating" it. What is the source
+of this difference in attitude? And whatever the source, is it justified?
+
+
+
+
+
 despite the fact that she was educated at elite schools. (See, for instance:
 https://www.dailywire.com/news/her-code-switch-is-broken-jasmine-crockett-mocked-over-dramatic-change-in-speech.)
-While I am not familiar with her policy stances, and have no idea
-if I would like them if I were, these criticisms of her are, as mentioned,
-unfounded. And discussing why that is so will, I think, lead us into an
-interesting exploration of the relationship between "dialects" and "standard"
-forms of a language. 
 
-Let us first ask, "Why shouldn't someone, in some circumstances, speak a dialect
-of their language that is not the one they were raised in?" Often, attempts to
-do so can result in accusations of "appropriation," or an assumption that the
-non-native person speaking the dialect is mocking its native speakers 
+
+
+
+
+
 
 However, when I have fumbled along speaking Italian in Genoa, or French in
 Martinique, or German in Interlaken, or Hindi in Chandigar, or Hungarian in
@@ -61,8 +86,6 @@ very quickly.) In general, what is going on when someone claims that a person
 speaking their native dialect is speaking a language “ungrammatically" is that
 through schooling and/or prejudice, they believe that only their own way of
 speaking that language is “grammatical.” 
-
-(John McWhorter???)
 
 If a speaker of AAVE says, for instance, "He nuts!"
 many people will say, "That is ungrammatical! They left out the verb 'is' in
