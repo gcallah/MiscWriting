@@ -36,27 +36,14 @@ different than their native one is often knocked as either pandering to the
 speakers of that dialect, mocking it, or "appropriating" it. What is the source
 of this difference in attitude? And whatever the source, is it justified?
 
-
-
-
-
-
-
-
-
-
-
-
-However, when I have fumbled along speaking Italian in Genoa, or French in
+When I have fumbled along speaking Italian in Genoa, or French in
 Martinique, or German in Interlaken, or Hindi in Chandigar, or Hungarian in
 Budapest, no one I tried speaking with has ever been angry at me for appropriating
 their language, or accused me of mocking it. Instead, everyone seemed to
 appreciate the fact that I was trying to speak to them in their own language,
-rather than simply talking at them in louder and louder English. This was
-especially true of the people of Budapest, who always seemed stunned that a
-visitor was even attempting to speak Hungarian. (One cab driver I rode with
-actually told me I was the first tourist he had ever met who had spoken to him
-in Hungarian.)
+rather than simply barking at them in louder and louder English. This was
+especially true of the people of Budapest, who always seemed shocked that a
+visitor was even attempting to speak Hungarian.
 
 So if my rudimentary attempts at speaking these languages were acceptable
 behavior, why would it be the case that if Crockett speaks AAVE
@@ -86,12 +73,10 @@ speaking their native dialect is speaking a language “ungrammatically" is that
 through schooling and/or prejudice, they believe that only their own way of
 speaking that language is “grammatical.” 
 
-If a speaker of AAVE says, for instance, "He nuts!"
+For example, if a speaker of AAVE says, "He nuts!"
 many people will say, "That is ungrammatical! They left out the verb 'is' in
-that sentence!”
-
-But, in Hungarian it is common to skip the copula  (a form of the verb 'to be')
-in sentences, and only
+that sentence!” But, in Hungarian it is common to skip the copula  (some form of
+the verb 'to be') in sentences, and only
 include the subject and object. Are all Hungarian speakers speaking Hungarian
 ungrammatically? If they are not, then why are speakers of AAVE being
 ungrammatical when they do the same thing? Yes, speakers of "Ivy League English"
@@ -114,7 +99,7 @@ of the "invariant be"; see:
 
 https://ygdp.yale.edu/phenomena/invariant-be
 
-None of this means that "standard" English should not be taught in schools, any
+The above facts do not imply that "standard" English should not be taught in schools, any
 more than the fact that Sicilian, Calabrese and Piedmontese are perfectly
 grammatical ways of speaking means that standard Italian should not be taught
 throughout that country. It is useful for the people in any nation to have a
@@ -130,29 +115,10 @@ us to have a common national tongue: please study this one," may not be as
 immediately effective as telling people, "The way you are speaking is stupid and
 wrong: speak this way instead." But the former message has, at least, the
 advantage of being truthful, and, in fact, may, in the long run, actually
-produce better national cohesion than continually telling people that their way
-of speaking is wrong. Consider that, today, with a large influx of Spanish
-speakers into the U.S., no one suggests educating them in English requires
-telling them that Spanish is just a really, really bad form of English.
-
-In my own life,
-African-American vernacular English (AAVE) is a dialect I've been hearing my
-since I was a child, and after four years of playing music regularly in the black gospel
-milieu of the South Carolina Midlands, it is a dialect I know very well. Just as
-sometimes I might use the Tagalog phrase “Aray ko” if I suffer a minor hurt, or
-say “uno di piu” if I want another beer, or tell my wife “Vite vite” if we must
-hurry to get somewhere, I equally might say, “Man, you ain’t never gonna get
-nowhere with that” if I am very skeptical about someone's chances of advancing
-some project. (One thing that AAVE provides the speaker here is the ability
-to express increasing skepticism by piling up negatives: “ain’t,” “never,” and
-“nowhere” work together to express the near impossibility of what the person
-addressed wants to achieve. As speaking AAVE is significantly more natural
-to me than speaking Tagalog, or Italian, or French. So if it is OK for me to
-sometimes speak in one of those languages, why would it be wrong for me to
-sometimes speak in AAVE?
-
-Or, to return to the case that prompted this essay, why is it wrong for Jasmine
-Crockett to sometimes speak in AAVE?
+produce better national cohesion than continually telling people that their
+native way of speaking is wrong. Consider that, today, with a large influx of
+Spanish speakers into the U.S., no one suggests educating them in English
+requires telling them that Spanish is just a really, really bad form of English.
 
 Black children, and indeed any child who natively speaks any dialect of English
 other than standard English, should be told, "The way you grew up speaking is
@@ -166,6 +132,25 @@ This is the right way to address this issue, because it is true, it avoids the
 idiocy of telling native speakers of a dialect that they are speaking it
 incorrectly, and avoids making speakers of non-broadcast dialect feel inferior
 to those who grew up speaking more in line with broadcast English
+
+To return to the topic of non-native speakers of a dialect using it:
+In my own life, African-American vernacular English (AAVE) is something I've
+been hearing my since I was a child, and after four years of playing music
+regularly in the black gospel milieu of the South Carolina Midlands, it is a
+dialect I know very well. Just as sometimes I might use the Tagalog phrase “Aray
+ko” if I suffer a minor hurt, or say “uno di piu” if I want another beer, or
+tell my wife “Vite vite” if we must hurry to get somewhere, I equally might say,
+“Man, you ain’t never gonna get nowhere with that” if I am very skeptical about
+someone's chances of advancing some project. (One thing that AAVE provides the
+speaker here is the ability to express increasing skepticism by piling up
+negatives: “ain’t,” “never,” and “nowhere” work together to express the near
+impossibility of what the person addressed wants to achieve. As speaking AAVE is
+significantly more natural to me than speaking Tagalog, or Italian, or French.
+So if it is OK for me to sometimes speak in one of those languages, why would it
+be wrong for me to sometimes speak in AAVE?
+
+Or, to return to the case that prompted this essay, why is it wrong for Jasmine
+Crockett to sometimes speak in AAVE?
 
 A final reason that some people might object to someone speaking a dialect other
 than their native one, that is also sometimes used to complain about people who
