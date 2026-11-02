@@ -19,11 +19,11 @@ special training to understand each other when they are speaking, although there
 may be certain words that are misunderstood because they have different meanings
 in the two dialects. On the other hand, English and French are clearly distinct
 languages: a French speaker and an English speaker will understand very little
-of what the other says, unless they have had special education in the other's
+of what the other says, unless they have had particular education in the other's
 language.
 
-As mentioned, on the border between language and dialect, there are some tough
-cases. For instance, Jamaican English is different enough from American or
+As mentioned, on the border between language and dialect, there are some
+ambiguous cases. For instance, Jamaican English is different enough from American or
 British English that speakers of the latter two dialects may have great
 difficulty in understanding a speaker of the former. (On the other hand,
 speakers of Jamaican English typically easily understand American and British
@@ -45,19 +45,18 @@ rather than simply barking at them in louder and louder English. This was
 especially true of the people of Budapest, who always seemed shocked that a
 visitor was even attempting to speak Hungarian.
 
-So if my rudimentary attempts at speaking these languages were acceptable
+So if my rudimentary attempts at speaking these languages are acceptable
 behavior, why would it be the case that if Crockett speaks AAVE
 during a conversation, a dialect which she knows much
 better than I know any of the above languages, she would be guilty of some sort
-of ideological faux pas? 
-
-Crockett speaks AAVE more naturally than George Bush speaks Spanish. (Bush got
-all the text right whenever I have heard him, but he always sounded like he was
-speaking English, but using only Spanish loanwords.) And yet I don't see there
-is anything wrong at all with Bush speaking Spanish when he did.
+of ideological faux pas? For example, Crockett speaks AAVE more naturally than George Bush
+speaks Spanish. (Bush got all the text right whenever I have heard him, but he
+always sounded like he was speaking English, but using all Spanish loanwords.)
+And yet I don't see there is anything wrong at all with Bush speaking Spanish
+when he did.
 
 Someone may try to differentiate these cases by claiming that while
-Spanish is a real language and is grammatical, AAVE is neither: it is just an
+Spanish is a "real language" and is grammatical, AAVE is neither: it is just an
 ungrammatical way of speaking standard English. But there is simply no
 justification in linguistic science for such a claim.
 (See, for instance: https://www.blpress.org/books/talking-back-talking-black/)
@@ -85,13 +84,13 @@ Hungarian do not regularly leave the copula out of their sentences. Different
 languages have different rules, but so do different dialects of one language. If
 we do not criticize Hungarian as being "wrong" because its grammar is different
 than that of Spanish, why do we find the need to criticize AAVE because its
-grammar is different from that of Ivy League English?
+grammar is different from that of standard English?
 
 And when a speaker of AAVE says, "He be fool," many people will say, "That is
 also ungrammatical! They used the wrong form of the verb 'to be' in that
 sentence!" But, in fact, "He be fool" is a perfectly grammatical sentence in
 AAVE, and it means something different than "He is a fool." The former means
-that he is a fool in general, while the latter means that he is a fool at this
+that he is a fool in general, while the latter means that he is a fool at a
 particular moment.  Anyone moderately familiar with AAVE will know that "he be
 fool” is a grammatically correct sentence in that dialect, while "he are fool"
 and “he am fool" are grammatically incorrect.  "He be fool" is, in fact, a case
@@ -125,7 +124,7 @@ other than standard English, should be told, "The way you grew up speaking is
 perfectly fine. It is just as grammatical as any other language. You didn't grow
 up making a whole bunch of mistakes when you were talking. However, there is
 another dialect of English which is standardly spoken by corporate management,
-high-level government employees, in national media, and so on,
+high-level government employees, the national media, and so on,
 that you should learn to speak if you want to participate in any of those arenas."
 
 This is the right way to address this issue, because it is true, it avoids the
@@ -142,9 +141,9 @@ ko” if I suffer a minor hurt, or say “uno di piu” if I want another beer, 
 tell my wife “Vite vite” if we must hurry to get somewhere, I equally might say,
 “Man, you ain’t never gonna get nowhere with that” if I am very skeptical about
 someone's chances of advancing some project. (One thing that AAVE provides the
-speaker here is the ability to express increasing skepticism by piling up
+speaker here is the ability to voice great skepticism by piling up
 negatives: “ain’t,” “never,” and “nowhere” work together to express the near
-impossibility of what the person addressed wants to achieve. As speaking AAVE is
+impossibility of what the person addressed wants to achieve. And speaking AAVE is
 significantly more natural to me than speaking Tagalog, or Italian, or French.
 So if it is OK for me to sometimes speak in one of those languages, why would it
 be wrong for me to sometimes speak in AAVE?
@@ -169,4 +168,6 @@ Of course, such accidents play an important role in how our lives proceed. But
 you would still be you, however many of such accidents you changed, just you
 with a different tool kit to handle a different set of circumstances.
 
-
+In short, I cannot see any reason to criticize Crockett or any other sincere
+speaker of a dialect that is not their own for speaking it, other than
+linguistic ignorance or partisanship.
