@@ -13,8 +13,8 @@ LLMs *think*.
 I am not going to try to settle whether they do. Instead, I want to ask a
 different question, one that is oddly neglected: *if* LLMs are thinking, what
 are they thinking *about*? My answer will be that, whatever they may be
-thinking about, it almost certainly is not what we think they are thinking
-about.
+thinking about, it almost certainly is not what a naïve answer would
+say they are thinking about.
 
 ### A Few Modest Assumptions
 
@@ -23,9 +23,9 @@ mind a separate substance from the body? Is consciousness an illusion? I want
 to avoid all of that. My argument makes no appeal to dualism, or to any other
 metaphysical doctrine. It rests on just four assumptions:
 
-1. **Humans engage in semiosis: we mean things.** "Semiosis" is just the
-   philosopher's word for the activity of using signs, such as words,
-   pictures, and gestures, to refer to something beyond themselves. When I say
+1. **Humans engage in semiosis: we mean things.** "Semiosis" means the
+   the activity of using signs, such as words,
+   pictures, and gestures, to refer to something beyond themselves. If I say
    "dog," I mean an actual, furry, barking animal.
 2. **We can do so because we share a common sensory world.** You and I can both
    see, hear, touch, and smell the same dog, and that shared world is what lets
@@ -50,13 +50,13 @@ There are at least three plausible routes to that conclusion:
   what it is made of but what it *does*: if a system processes information in
   the right way, it thinks. The trouble is that this view is very hard to
   contain. So many physical systems process information in some way or other
-  that functionalism threatens to slide into *panpsychism*, the view that mind
+  that functionalism can easily turn into *panpsychism*, the view that mind
   is everywhere, in thermostats and rocks as well as in people.
 * **Physical structure.** Perhaps there is something about the physical
   structure of the hardware that runs LLMs which gives rise to thought, just as
   something about the physical structure of our brains seems to.
-* **Divine action.** The philosopher Vallier has suggested that God could
-  ensoul machines, just as many believe God ensouls human beings.
+* **Divine action.** The philosopher Kevin Vallier has suggested that God could
+  ensoul machines, just as many believe that God ensouls human beings.
 
 I don't need to choose among these. Let's simply assume LLMs are thinking about
 *something*. The question is: what is it?
@@ -72,7 +72,7 @@ think about. If we ask "Where is the Eiffel Tower?", the LLM is thinking about
 towers, and Paris, and perhaps Gustave Eiffel.
 
 I am going to show why this naïve answer is almost certainly wrong. To do that,
-we need to understand what a computer really is, at bottom.
+we need to understand the essence of what a computer is.
 
 ## What Is the Essence of a Computer?
 
@@ -136,7 +136,7 @@ laptop on your desk, and the vast server farms that run today's LLMs are all,
 in this respect, the same.
 
 One important consequence: no hardware upgrade ever expands *what* can be
-computed. A faster chip, more memory, or a cleverer architecture changes only
+computed. A faster chip, more memory, or a more clever architecture changes only
 *how fast* something can be computed.
 
 ### How Does a Digital Computer "Compute"?
@@ -231,8 +231,8 @@ enter at all. We can wire our water computer to enforce this policy:
 * An OR gate combines these: is *either* of those conditions met?
 * A final AND gate checks: is that so, AND is the visitor a citizen?
 
-If hot water comes out at the bottom, the visitor may enter. A Roman woman
-arriving during women's hours, with her citizenship in order, gets a hot "yes."
+If hot water comes out at the bottom, the visitor may enter. A Roman female
+citizen, arriving during women's hours, gets a "yes."
 
 ### A Different Question!
 
@@ -462,9 +462,8 @@ performing, and nothing more. The second hypothesis explains everything the
 first does, and it requires no mysterious bridge between patterns of bits and
 the world we humans share.
 
-Occam's razor tells us which to choose. If LLMs are thinking, they are not
-thinking about what we are thinking about. Meaning, in the full, three-way sense
-Peirce described, enters the picture only when a human being reads what the
-machine has produced.
+Occam's razor tells us which to choose. *If* LLMs are thinking, they are not
+there are many simpler possibilities than supposing they are thinking about all
+the various things we ask them when we use them.
 
 QED.
