@@ -63,7 +63,7 @@ I don't need to choose among these. Let's simply assume LLMs are thinking about
 
 ### The Naïve Answer
 
-![The Eiffel Tower, seen from the Champ de Mars](graphics/EiffelTower.jpg)
+![The Eiffel Tower, seen from the Champ de Mars](graphics/EiffelTower.jpg){height=3in}
 
 *If we ask an LLM "Where is the Eiffel Tower?", is it thinking about Paris?*
 
@@ -78,7 +78,7 @@ we need to understand the essence of what a computer is.
 
 ### The Universal Turing Machine
 
-![A physical model of a Turing machine, with a paper tape running between two reels and a read-write head in the middle](graphics/TuringMachine.jpg)
+![A physical model of a Turing machine, with a paper tape running between two reels and a read-write head in the middle](graphics/TuringMachine.jpg){width=3.5in}
 
 *A physical model of a Turing machine.*
 
@@ -97,7 +97,7 @@ programmable computer before anyone had built one.
 
 ### Another Universal Machine
 
-![Three panels of black-and-white triangular patterns produced by the Rule 110 cellular automaton](graphics/Rule110.jpg)
+![Three panels of black-and-white triangular patterns produced by the Rule 110 cellular automaton](graphics/Rule110.jpg){width=5in}
 
 *Patterns produced by the Rule 110 cellular automaton.*
 
@@ -112,7 +112,7 @@ that it is.
 
 ### The Lambda Calculus
 
-![The lambda calculus expression λx.M, labeled: λ indicates the start of a function, x is the input variable, the dot separates the variable from the body, and M is the function body](graphics/LambdaNotation.jpg)
+![The lambda calculus expression λx.M, labeled: λ indicates the start of a function, x is the input variable, the dot separates the variable from the body, and M is the function body](graphics/LambdaNotation.jpg){width=3.5in}
 
 *The basic form of a function in the lambda calculus.*
 
@@ -152,7 +152,7 @@ To de-mystify computation, then, let's build a computer out of water.
 
 ## Building a Water Computer
 
-![A tangle of grey plumbing pipes](graphics/Pipes.jpg)
+![A tangle of grey plumbing pipes](graphics/Pipes.jpg){width=3.5in}
 
 Our water computer will run hot and cold water through pipes. Here is how its
 parts line up with those of an ordinary electronic computer:
@@ -218,7 +218,7 @@ computing is not settled by the physics of the machine alone.
 Now let's put a few of our gates together and ask our water computer a
 question.
 
-![An illustrated circuit diagram titled BALNEA. A Roman woman asks "May I enter?" Inputs "Man?" and "Men's hours?" feed one AND gate; "Woman?" and "Women's hours?" feed another. Both feed an OR gate, whose output joins "Citizen?" at a final AND gate. A Roman official answers "Yes, you may enter," above a picture of a bath.](graphics/Bath.jpg)
+![An illustrated circuit diagram titled BALNEA. A Roman woman asks "May I enter?" Inputs "Man?" and "Men's hours?" feed one AND gate; "Woman?" and "Women's hours?" feed another. Both feed an OR gate, whose output joins "Citizen?" at a final AND gate. A Roman official answers "Yes, you may enter," above a picture of a bath.](graphics/Bath.jpg){height=4.5in}
 
 *May I enter the baths?*
 
@@ -238,7 +238,7 @@ citizen, arriving during women's hours, gets a "yes."
 
 Now look at a second picture.
 
-![The same circuit diagram, now asking "Might I see a moorhen?" The inputs are "Is it nocturnal?" and "Is it night?" for one AND gate, "Is it diurnal?" and "Is it day?" for the other, and "Native?" at the final AND gate. The answer is again "Yes, you may enter."](graphics/Moorhen.jpg)
+![The same circuit diagram, now asking "Might I see a moorhen?" The inputs are "Is it nocturnal?" and "Is it night?" for one AND gate, "Is it diurnal?" and "Is it day?" for the other, and "Native?" at the final AND gate. The answer is again "Yes, you may enter."](graphics/Moorhen.jpg){height=4.5in}
 
 *Might I see a moorhen?*
 
@@ -309,7 +309,7 @@ something else entirely.
 
 ### But Isn't That What Human Brains Do?
 
-![A simple neural network diagram: two green input nodes connect to four blue hidden-layer nodes, which connect to one purple output node](graphics/NeuralNetwork.jpg)
+![A simple neural network diagram: two green input nodes connect to four blue hidden-layer nodes, which connect to one purple output node](graphics/NeuralNetwork.jpg){height=3in}
 
 *A simple artificial neural network. LLMs are built from vast networks of this
 kind.*
@@ -331,7 +331,7 @@ philosopher.
 
 ## C. S. Peirce
 
-![Portrait of Charles Sanders Peirce, a bearded man in a dark suit](graphics/Peirce.jpg)
+![Portrait of Charles Sanders Peirce, a bearded man in a dark suit](graphics/Peirce.jpg){height=2.5in}
 
 *Charles Sanders Peirce (1839–1914).*
 
@@ -348,7 +348,7 @@ of them are crucial for us.
 
 ### Secondness
 
-![Two dark rocks colliding, with sparks and fragments flying from the point of impact](graphics/CollidingRocks.jpg)
+![Two dark rocks colliding, with sparks and fragments flying from the point of impact](graphics/CollidingRocks.jpg){width=3.5in}
 
 Peirce called the first of these *secondness*: a relationship between just two
 things. When a rock tumbling down a hill strikes another falling rock and
@@ -400,7 +400,7 @@ So how do humans manage to connect their signs to the world? One answer, which
 researchers call *embodied cognition*, is that our thinking is rooted in our
 bodily experience of the world we share. Here is a famous illustration.
 
-![Illustration of Anne Sullivan working a hand pump while the young Helen Keller holds her hand under the stream of water](graphics/KellerSullivan.jpg)
+![Illustration of Anne Sullivan working a hand pump while the young Helen Keller holds her hand under the stream of water](graphics/KellerSullivan.jpg){width=3.5in}
 
 *Helen Keller and Anne Sullivan at the water pump.*
 
@@ -444,7 +444,7 @@ worlds that happen to produce the same patterns of bits.
 
 ## We Just Need Occam's Razor
 
-![Stained-glass window depicting William of Ockham, a tonsured medieval friar](graphics/Occam.jpg)
+![Stained-glass window depicting William of Ockham, a tonsured medieval friar](graphics/Occam.jpg){height=2.5in}
 
 *William of Ockham (c. 1287–1347), in stained glass.*
 
@@ -453,7 +453,7 @@ principle that has guided careful thinkers ever since: *don't multiply
 entities beyond necessity*. When two explanations account for the same facts,
 prefer the one that assumes less.
 
-![A cartoon yellow razor laid across a piece of weathered wood](graphics/Razor.gif)
+![A cartoon yellow razor laid across a piece of weathered wood](graphics/Razor.gif){width=2.5in}
 
 We have two hypotheses about what an LLM, if it thinks, is thinking about. One
 says it is thinking about whatever our question concerns: towers, cities,
