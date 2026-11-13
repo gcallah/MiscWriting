@@ -341,7 +341,7 @@ philosopher.
 
 ## C. S. Peirce
 
-![Portrait of Charles Sanders Peirce, a bearded man in a dark suit](graphics/Peirce.jpg){height=2.5in}
+![Portrait of Charles Sanders Peirce](graphics/Peirce.jpg){height=2.5in}
 
 *Charles Sanders Peirce (1839–1914).*
 
