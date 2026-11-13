@@ -27,7 +27,7 @@ four presuppositions:
 1. **Humans engage in semiosis: we mean things.** "Semiosis" means the
    the activity of using signs, such as words,
    pictures, and gestures, to refer to something beyond themselves. If I say
-   "dog," I mean an actual, furry, barking animal.
+   "leopard," I mean an actual, furry, carnivorous animal.
 2. **We can do so because we share a common sensory world.** You and I can both
    see, hear, touch, and smell the same dog, and that shared world is what lets
    my word "dog" connect to your idea of a dog.
@@ -181,11 +181,11 @@ cold water as meaning FALSE. And let's build a gate that outputs TRUE only if
 *both* of its inlets are feeding in TRUE, in other words, hot water. Here is how
 our gate behaves:
 
-| Inlet 1 | Inlet 2 | Outlet |
+| Input 1 | Input 2 | Output |
 |---------|---------|--------|
-| Cold    | Cold    | False (Cold)   |
-| Hot     | Cold    | False (Cold)   |
-| Cold    | Hot     | False (Cold)   |
+| Cold    | Cold    | Cold (False)   |
+| Hot     | Cold    | Cold (False)   |
+| Cold    | Hot     | Cold (False)   |
 | Hot     | Hot     | Hot (True)   |
 
 Read with our chosen interpretation, this is what engineers call an **AND
@@ -202,10 +202,10 @@ same table reads:
 
 | Input 1 | Input 2 | Output |
 |---------|---------|--------|
-| TRUE    | TRUE    | TRUE   |
-| FALSE   | TRUE    | TRUE   |
-| TRUE    | FALSE   | TRUE   |
-| FALSE   | FALSE   | FALSE  |
+| Cold    | Cold    | Cold (True)   |
+| Hot   | Cold    | Cold (True)   |
+| Cold    | Hot   | Cold (True)   |
+| Hot   | Hot   | Hot (False)  |
 
 The output is now TRUE whenever input 1 OR input 2 is TRUE. The identical
 device has become a different gate entirely: an **OR gate**.
@@ -233,6 +233,11 @@ enter at all. We can wire our water computer to enforce this policy:
 * An OR gate combines these: is *either* of those conditions met?
 * A final AND gate checks: is that so, AND is the visitor a citizen?
 
+Although the Romans come up with their plumbing skills, could have built such a
+computer , they would not have bothered, since the question is so simple to
+answer without it . But in our imaginary scenario, instead of thinking through
+the problem for himself, the doorman just feeds hot and cold water into the top
+of the computer and reads out the answer.
 If hot water comes out at the bottom, the visitor may enter. A Roman female
 citizen, arriving during women's hours, gets a "yes."
 
@@ -244,15 +249,17 @@ Now look at a second picture.
 
 *Might I see a moorhen?*
 
-This time a birdwatcher wants to know whether she might see a moorhen. The
-logic goes like this: if the bird is nocturnal AND it is night, OR if the bird
+Now let us imagine that a birdwatcher wanders up to the doors of the baths,
+and asks if she might see a moorhen on her hike. The doorman realizes he can
+use the logical machine he already has to answer her question.
+The logic goes like this: if the bird is nocturnal AND it is night, OR if the bird
 is diurnal AND it is day, AND the bird is native to the area, then yes, she
 might see one.
 
 Look closely and you'll see that it is *exactly the same circuit*. Same gates,
 same pipes, same hot and cold water flowing in the same patterns. One question
 is about Roman bathing etiquette; the other is about bird-watching. The water
-computer cannot tell the difference, because, from its point of view, there
+computer cannot tell the difference, because, from inside it, there
 *is* no difference.
 
 ### How Could Our Computer Know the Question?
@@ -306,8 +313,8 @@ But, at bottom, they are still running a function that takes a string of 0s and
 
 That this function is enormously complex does not change the fact that it is
 still just a function. And as we saw with the water computer, the very same
-function could be answering a question about the Eiffel Tower, or about
-something else entirely.
+function could be answering a question about baths or birds or the Eiffel Tower,
+or about something else entirely.
 
 ### But Isn't That What Human Brains Do?
 
@@ -322,7 +329,8 @@ doesn't it rule out *us* knowing about it, too?"
 
 Notice what this reply actually claims. It is not an argument that LLMs know
 the external world; it is an argument that *humans don't*! And that lands us
-right back in the odd position of someone denying my first two assumptions.
+right back in the odd position of someone denying my second presupposition,
+that humans share a common sensory world.
 (Moreover, our brains are in fact very different from Turing machines, and,
 despite the name, from the artificial "neural networks" that LLMs are built
 on.)
@@ -342,11 +350,11 @@ mathematician, logician, and astronomer, as well as the founder of the modern
 study of signs, called *semiotics*, and of the philosophy known as
 *pragmatism*. Bertrand Russell called him "certainly the greatest American
 thinker ever." Remarkably, Peirce was also a pioneer of the very technology
-we're discussing: "As early as 1886, he saw that logical operations could be
-carried out by electrical switching circuits."
+we're discussing: in a letter written in 1886, he described how logical
+operations could be carried out by electrical switching circuits.
 
-Peirce sorted the ways things can relate to one another into categories. Two
-of them are crucial for us.
+Peirce also categorized different types of relationships that could hold
+between things in the world. Two of them are important for us.
 
 ### Secondness
 
@@ -358,38 +366,38 @@ knocks it off course, we have a purely two-way, or "dyadic," relationship. One
 rock pushes, the other is pushed. Neither rock *means* anything by hitting its
 companion.
 
-Every gate in our water computer works this way. Hot water arrives, the
-device responds, and water leaves. Push and response, all the way through.
+Every gate in our water computer works this way. Water arrives, the
+device responds, and water leaves: in Peirce's terms, it is all secondness.
 
 ### Thirdness
 
 Human language, Peirce pointed out, is different. It is inherently a
 three-way, or "triadic," relationship, which he called *thirdness*.
 
-If I shout to you, "A mind-reductionist is creeping up behind you!", I am not
+If I shout to you, "A leopard is creeping up behind you!", I am not
 merely sending some sound waves to your eardrums. I am also *referring* to a
-third thing: the reductionist. My words are about him.
+third thing: the leopard. My words are about him.
 
 Peirce analyzed this relationship into three parts:
 
 ```
                  Sign
-                ("dog")
+                ("leopard")
                 /     \
                /       \
           Object ----- Interpretant
-     (the actual dog)  (the understanding
+     (the actual leopard)  (the understanding
                         of the sign as
-                        meaning the dog)
+                        meaning the leopard)
 ```
 
-* The **sign**: the word "dog," spoken or written.
-* The **object**: the actual dog the word refers to.
+* The **sign**: the word "leopard," spoken or written.
+* The **object**: the actual leopard the word refers to.
 * The **interpretant**: the understanding, in a mind, that links the sign to
   its object.
 
-Peirce held that this three-way relationship cannot be broken down into a
-series of two-way ones. However many rocks knock into however many other rocks,
+Peirce held that this three-way relationship cannot be reduced to a
+series of binary relationships. However many rocks knock into however many other rocks,
 you will never get one rock *meaning* another. And however many gates pass
 water to however many other gates, you will never get the water being *about*
 Roman baths, or moorhens, or the Eiffel Tower. The meaning only appears when
@@ -398,9 +406,10 @@ output.
 
 ## A Common Sensory World
 
-So how do humans manage to connect their signs to the world? One answer, which
-researchers call *embodied cognition*, is that our thinking is rooted in our
-bodily experience of the world we share. Here is a famous illustration.
+So how do humans manage to connect their signs to the world? The theory
+of *embodied cognition* argues that our thinking is rooted in our
+bodily experience of a shared world. Let me offer a striking illustration of
+this idea.
 
 ![Illustration of Anne Sullivan working a hand pump while the young Helen Keller holds her hand under the stream of water](graphics/KellerSullivan.jpg){width=3.5in}
 
@@ -409,10 +418,9 @@ bodily experience of the world we share. Here is a famous illustration.
 Helen Keller lost her sight and hearing as a small child. Her teacher, Anne
 Sullivan, tried for weeks to teach her words by spelling them with her finger
 into Keller's palm. Keller could imitate the finger movements, but they meant
-nothing to her: they were just patterns.
-
-Now, someone might say: can't we do the equivalent with our computer? We feed
-it patterns, just as Sullivan fed Keller patterns.
+nothing to her: they were just patterns. This is analogous to our input to a
+computer: it is just patterns, with no connection to a world beyond the
+computer.
 
 But that is not how Keller learned what words mean. The breakthrough came when
 Sullivan held one of Keller's hands under a stream of water from a pump while
@@ -430,12 +438,12 @@ itself.
 
 If an LLM is thinking at all, then, what is it thinking about?
 
-There is a vastly simpler hypothesis than "it is thinking about Paris": it is
-thinking *the lambda calculus*. That is, it is "thinking" about the abstract
-functions it is computing, the patterns of 0s and 1s turning into other
-patterns of 0s and 1s. We *know* that this accounts for everything happening
-in an LLM, thanks to the Church–Turing Thesis: every computation an LLM
-performs can be expressed as an expression in the lambda calculus.
+There is a vastly simpler hypothesis than "it is thinking about the Eiffel
+Tower": it is thinking *the lambda calculus*. That is, it is "thinking" about
+the abstract functions it is computing, the patterns of 0s and 1s turning into
+other patterns of 0s and 1s. We *know* that this accounts for everything
+happening in an LLM, thanks to the Church–Turing Thesis: every computation an
+LLM performs can be expressed as an expression in the lambda calculus.
 
 To be clear, my claim is not that LLMs *are* thinking the lambda calculus. It is
 that this is a simple hypothesis that accounts for everything we know about
@@ -467,5 +475,3 @@ the world we humans share.
 Occam's razor tells us which to choose. *If* LLMs are thinking, they are not
 there are many simpler possibilities than supposing they are thinking about all
 the various things we ask them when we use them.
-
-QED.
