@@ -463,8 +463,6 @@ principle that has guided careful thinkers ever since: *don't multiply
 entities beyond necessity*. When two explanations account for the same facts,
 prefer the one that assumes less.
 
-![A cartoon yellow razor laid across a piece of weathered wood](graphics/Razor.gif){width=2.5in}
-
 We have two hypotheses about what an LLM, if it thinks, is thinking about. One
 says it is thinking about whatever our question concerns: towers, cities,
 baths, birds. The other says it is "thinking" the computation it is actually
