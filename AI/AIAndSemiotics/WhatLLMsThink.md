@@ -1,4 +1,4 @@
-# If LLMs Are Thinking...What Are They Thinking About?
+# If LLMs Are Thinking, What Are They Thinking About?
 
 Gene Callahan
 
@@ -12,16 +12,17 @@ LLMs *think*.
 
 I am not going to try to settle whether they do. Instead, I want to ask a
 different question, one that is oddly neglected: *if* LLMs are thinking, what
-are they thinking *about*? My answer will be that, whatever they may be
-thinking about, it almost certainly is not what a naïve answer would
+are they thinking *about*? My conclusion will be that, whatever they may be
+thinking about, it almost certainly is *not* what a naïve answer would
 say they are thinking about.
 
 ### A Few Modest Assumptions
 
-Arguments about minds and machines often get bogged down in metaphysics: Is the
-mind a separate substance from the body? Is consciousness an illusion? I want
-to avoid all of that. My argument makes no appeal to dualism, or to any other
-metaphysical doctrine. It rests on just four assumptions:
+Arguments about minds and machines often wind up resting upon metaphysical
+assumptions: Is the mind a separate substance from the body? Is consciousness
+a epiphenomenon of physical processes? I want to avoid that. My argument makes
+no appeal to dualism, or to any other metaphysical doctrine. It rests on just
+four presuppositions:
 
 1. **Humans engage in semiosis: we mean things.** "Semiosis" means the
    the activity of using signs, such as words,
@@ -30,8 +31,8 @@ metaphysical doctrine. It rests on just four assumptions:
 2. **We can do so because we share a common sensory world.** You and I can both
    see, hear, touch, and smell the same dog, and that shared world is what lets
    my word "dog" connect to your idea of a dog.
-3. **Some basic computer science.** Nothing beyond what is taught in an
-   introductory course, and I will explain all of it below.
+3. **Some basic computer science.** Just some fundamental findings, which I
+   will explain below.
 4. **Occam's razor.** When choosing between explanations, prefer the simpler
    one.
 
@@ -53,8 +54,8 @@ There are at least three plausible routes to that conclusion:
   that functionalism can easily turn into *panpsychism*, the view that mind
   is everywhere, in thermostats and rocks as well as in people.
 * **Physical structure.** Perhaps there is something about the physical
-  structure of the hardware that runs LLMs which gives rise to thought, just as
-  something about the physical structure of our brains seems to.
+  structure of the hardware that runs LLMs which gives rise to thought, much as
+  something about the physical structure of our brains might do.
 * **Divine action.** The philosopher Kevin Vallier has suggested that God could
   ensoul machines, just as many believe that God ensouls human beings.
 
@@ -71,7 +72,7 @@ The obvious answer is that LLMs are thinking about whatever we asked them to
 think about. If we ask "Where is the Eiffel Tower?", the LLM is thinking about
 towers, and Paris, and perhaps Gustave Eiffel.
 
-I am going to show why this naïve answer is almost certainly wrong. To do that,
+I am going to show why this naïve answer is highly implausible. To do that,
 we need to understand the essence of what a computer is.
 
 ## What Is the Essence of a Computer?
@@ -101,14 +102,14 @@ programmable computer before anyone had built one.
 
 *Patterns produced by the Rule 110 cellular automaton.*
 
-Universal computers can turn up in surprising places. The scientist Stephen
+Universal computers can take surprising forms. The scientist Stephen
 Wolfram studied *cellular automata*: rows of cells, each either black or
 white, where each cell's color in the next row is fixed by a tiny rule about
 its color and its neighbors' colors. One such rule, which he called "Rule
 110," produces the intricate patterns shown above. Wolfram suspected that this
-humble rule was "Turing complete," that is, capable of computing anything a
-Universal Turing Machine can. In 2004, the mathematician Matthew Cook proved
-that it is.
+simple rule was "Turing complete," that is, capable of computing anything that
+can be computed. In 2004, the mathematician Matthew Cook proved that it Turing
+complete.
 
 ### The Lambda Calculus
 
@@ -118,7 +119,7 @@ that it is.
 
 At almost the same time Turing was devising his machine, the American logician
 Alonzo Church came up with a very different-looking system, called the *lambda
-calculus*. It has no tape and no moving parts at all: it is just a notation for
+calculus*. It has no physical representation at all: it is just a notation for
 defining functions and applying them to inputs, along with a rule for
 simplifying the results. An expression such as `λx.M` means "a function that
 takes an input `x` and produces `M`."
@@ -141,8 +142,9 @@ computed. A faster chip, more memory, or a more clever architecture changes only
 
 ### How Does a Digital Computer "Compute"?
 
-Modern computers are possible because *any* system with two reliable states,
-such as on and off or hot and cold, can be made to perform computation. We
+It is important to understand that *any* system with two reliable states,
+such as on and off or hot and cold, and deterministic paths that allow the
+alteration of those states, can be made to perform computation. We
 build computers out of electronics not because electronics are theoretically
 superior, but because they are enormously faster. A computer made of water
 pipes, or of air pressure valves, could compute exactly the same things as an
@@ -181,10 +183,10 @@ our gate behaves:
 
 | Inlet 1 | Inlet 2 | Outlet |
 |---------|---------|--------|
-| Cold    | Cold    | Cold   |
-| Hot     | Cold    | Cold   |
-| Cold    | Hot     | Cold   |
-| Hot     | Hot     | Hot    |
+| Cold    | Cold    | False (Cold)   |
+| Hot     | Cold    | False (Cold)   |
+| Cold    | Hot     | False (Cold)   |
+| Hot     | Hot     | Hot (True)   |
 
 Read with our chosen interpretation, this is what engineers call an **AND
 gate**: the output is TRUE when input 1 AND input 2 are TRUE.
@@ -192,7 +194,7 @@ gate**: the output is TRUE when input 1 AND input 2 are TRUE.
 ### The Gate Doesn't Know What It Is
 
 But here is the crucial point: *nothing in the physical setup makes this an AND
-gate*. That is our interpretation.
+gate*. That is just our interpretation.
 
 Suppose we take the very same device, change nothing about its plumbing, and
 simply decide that *cold* water means TRUE and hot water means FALSE. Now the
